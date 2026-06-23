@@ -1,0 +1,3992 @@
+[
+ {
+  "word": "analyse",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to examine something in detail",
+  "zh": "分析"
+ },
+ {
+  "word": "approach",
+  "sublist": 1,
+  "pos": "n./v.",
+  "en": "a way of dealing with something; to come near",
+  "zh": "方法；接近"
+ },
+ {
+  "word": "area",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "a part of a place, subject, or range",
+  "zh": "區域；領域"
+ },
+ {
+  "word": "assess",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to judge the quality or value of something",
+  "zh": "評估"
+ },
+ {
+  "word": "assume",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to accept something as true without proof",
+  "zh": "假定；認為"
+ },
+ {
+  "word": "authority",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "the power to give orders; an official body",
+  "zh": "權威；當局"
+ },
+ {
+  "word": "available",
+  "sublist": 1,
+  "pos": "adj.",
+  "en": "able to be used or obtained",
+  "zh": "可取得的；可用的"
+ },
+ {
+  "word": "benefit",
+  "sublist": 1,
+  "pos": "n./v.",
+  "en": "an advantage; to gain an advantage",
+  "zh": "利益；得益"
+ },
+ {
+  "word": "concept",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "an abstract idea",
+  "zh": "概念"
+ },
+ {
+  "word": "consist",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to be made up of something",
+  "zh": "由…組成"
+ },
+ {
+  "word": "constitute",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to form or make up something",
+  "zh": "構成"
+ },
+ {
+  "word": "context",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "the situation in which something happens",
+  "zh": "背景；脈絡"
+ },
+ {
+  "word": "contract",
+  "sublist": 1,
+  "pos": "n./v.",
+  "en": "a formal agreement; to become smaller",
+  "zh": "合約；收縮"
+ },
+ {
+  "word": "create",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to make something new",
+  "zh": "創造"
+ },
+ {
+  "word": "data",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "facts or information used for analysis",
+  "zh": "資料；數據"
+ },
+ {
+  "word": "define",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to state the exact meaning of something",
+  "zh": "定義"
+ },
+ {
+  "word": "derive",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to obtain something from a source",
+  "zh": "衍生；得自"
+ },
+ {
+  "word": "distribute",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to share or spread out among people",
+  "zh": "分配；分布"
+ },
+ {
+  "word": "economy",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "the system of money and trade of a place",
+  "zh": "經濟"
+ },
+ {
+  "word": "environment",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "the surroundings or conditions one lives in",
+  "zh": "環境"
+ },
+ {
+  "word": "establish",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to set up or start something firmly",
+  "zh": "建立"
+ },
+ {
+  "word": "estimate",
+  "sublist": 1,
+  "pos": "n./v.",
+  "en": "an approximate judgement; to judge roughly",
+  "zh": "估計"
+ },
+ {
+  "word": "evident",
+  "sublist": 1,
+  "pos": "adj.",
+  "en": "clear and easily seen or understood",
+  "zh": "明顯的"
+ },
+ {
+  "word": "export",
+  "sublist": 1,
+  "pos": "n./v.",
+  "en": "to send goods abroad to sell",
+  "zh": "出口"
+ },
+ {
+  "word": "factor",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "one thing that influences a result",
+  "zh": "因素"
+ },
+ {
+  "word": "finance",
+  "sublist": 1,
+  "pos": "n./v.",
+  "en": "the management of money; to provide money",
+  "zh": "財務；資助"
+ },
+ {
+  "word": "formula",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "a fixed method or mathematical rule",
+  "zh": "公式；方法"
+ },
+ {
+  "word": "function",
+  "sublist": 1,
+  "pos": "n./v.",
+  "en": "a purpose or role; to work or operate",
+  "zh": "功能；運作"
+ },
+ {
+  "word": "identify",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to recognise or name something",
+  "zh": "辨識；確認"
+ },
+ {
+  "word": "income",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "money received from work or investment",
+  "zh": "收入"
+ },
+ {
+  "word": "indicate",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to show or point out something",
+  "zh": "指出；顯示"
+ },
+ {
+  "word": "individual",
+  "sublist": 1,
+  "pos": "n./adj.",
+  "en": "a single person; relating to one person",
+  "zh": "個人；個別的"
+ },
+ {
+  "word": "interpret",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to explain the meaning of something",
+  "zh": "詮釋；解讀"
+ },
+ {
+  "word": "involve",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to include or require as a part",
+  "zh": "涉及；包含"
+ },
+ {
+  "word": "issue",
+  "sublist": 1,
+  "pos": "n./v.",
+  "en": "an important topic; to give out officially",
+  "zh": "議題；發布"
+ },
+ {
+  "word": "labour",
+  "sublist": 1,
+  "pos": "n./v.",
+  "en": "physical work; to work hard",
+  "zh": "勞動；勞力"
+ },
+ {
+  "word": "legal",
+  "sublist": 1,
+  "pos": "adj.",
+  "en": "allowed by or relating to the law",
+  "zh": "合法的；法律的"
+ },
+ {
+  "word": "legislate",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to make laws",
+  "zh": "立法"
+ },
+ {
+  "word": "major",
+  "sublist": 1,
+  "pos": "adj.",
+  "en": "large or important",
+  "zh": "主要的；重大的"
+ },
+ {
+  "word": "method",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "a particular way of doing something",
+  "zh": "方法"
+ },
+ {
+  "word": "occur",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to happen or take place",
+  "zh": "發生"
+ },
+ {
+  "word": "percent",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "one part in every hundred",
+  "zh": "百分比"
+ },
+ {
+  "word": "period",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "a length of time",
+  "zh": "時期；期間"
+ },
+ {
+  "word": "policy",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "a plan or set of rules of action",
+  "zh": "政策"
+ },
+ {
+  "word": "principle",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "a basic truth or rule of behaviour",
+  "zh": "原則"
+ },
+ {
+  "word": "proceed",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to continue or go forward",
+  "zh": "繼續進行"
+ },
+ {
+  "word": "process",
+  "sublist": 1,
+  "pos": "n./v.",
+  "en": "a series of actions; to deal with",
+  "zh": "過程；處理"
+ },
+ {
+  "word": "require",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to need something or make it necessary",
+  "zh": "需要；要求"
+ },
+ {
+  "word": "research",
+  "sublist": 1,
+  "pos": "n./v.",
+  "en": "careful study to discover facts",
+  "zh": "研究"
+ },
+ {
+  "word": "respond",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to react or answer",
+  "zh": "回應"
+ },
+ {
+  "word": "role",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "the part or function someone has",
+  "zh": "角色；作用"
+ },
+ {
+  "word": "section",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "one part of something larger",
+  "zh": "部分；段落"
+ },
+ {
+  "word": "sector",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "a distinct part of an economy or society",
+  "zh": "部門；領域"
+ },
+ {
+  "word": "significant",
+  "sublist": 1,
+  "pos": "adj.",
+  "en": "important or large enough to matter",
+  "zh": "重要的；顯著的"
+ },
+ {
+  "word": "similar",
+  "sublist": 1,
+  "pos": "adj.",
+  "en": "alike but not exactly the same",
+  "zh": "相似的"
+ },
+ {
+  "word": "source",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "the place something comes from",
+  "zh": "來源"
+ },
+ {
+  "word": "specific",
+  "sublist": 1,
+  "pos": "adj.",
+  "en": "clearly defined or particular",
+  "zh": "具體的；特定的"
+ },
+ {
+  "word": "structure",
+  "sublist": 1,
+  "pos": "n./v.",
+  "en": "the way parts are arranged; to organise",
+  "zh": "結構；組織"
+ },
+ {
+  "word": "theory",
+  "sublist": 1,
+  "pos": "n.",
+  "en": "an idea used to explain something",
+  "zh": "理論"
+ },
+ {
+  "word": "vary",
+  "sublist": 1,
+  "pos": "v.",
+  "en": "to be different or change",
+  "zh": "變化；不同"
+ },
+ {
+  "word": "achieve",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to succeed in doing something",
+  "zh": "達成"
+ },
+ {
+  "word": "acquire",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to get or gain something",
+  "zh": "獲得"
+ },
+ {
+  "word": "administrate",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to manage or run an organisation",
+  "zh": "管理；行政"
+ },
+ {
+  "word": "affect",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to have an influence on something",
+  "zh": "影響"
+ },
+ {
+  "word": "appropriate",
+  "sublist": 2,
+  "pos": "adj.",
+  "en": "suitable for a situation",
+  "zh": "適當的"
+ },
+ {
+  "word": "aspect",
+  "sublist": 2,
+  "pos": "n.",
+  "en": "a particular part or feature",
+  "zh": "方面；層面"
+ },
+ {
+  "word": "assist",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to help someone",
+  "zh": "協助"
+ },
+ {
+  "word": "category",
+  "sublist": 2,
+  "pos": "n.",
+  "en": "a group of things with shared features",
+  "zh": "類別"
+ },
+ {
+  "word": "chapter",
+  "sublist": 2,
+  "pos": "n.",
+  "en": "a main division of a book",
+  "zh": "章節"
+ },
+ {
+  "word": "commission",
+  "sublist": 2,
+  "pos": "n./v.",
+  "en": "an official group; to order work",
+  "zh": "委員會；委託"
+ },
+ {
+  "word": "community",
+  "sublist": 2,
+  "pos": "n.",
+  "en": "a group of people living in one area",
+  "zh": "社區；社群"
+ },
+ {
+  "word": "complex",
+  "sublist": 2,
+  "pos": "adj.",
+  "en": "having many connected parts; complicated",
+  "zh": "複雜的"
+ },
+ {
+  "word": "compute",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to calculate something",
+  "zh": "計算"
+ },
+ {
+  "word": "conclude",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to decide or end after thought",
+  "zh": "得出結論；結束"
+ },
+ {
+  "word": "conduct",
+  "sublist": 2,
+  "pos": "v./n.",
+  "en": "to carry out; behaviour",
+  "zh": "進行；行為"
+ },
+ {
+  "word": "consequent",
+  "sublist": 2,
+  "pos": "adj.",
+  "en": "happening as a result",
+  "zh": "隨之發生的"
+ },
+ {
+  "word": "construct",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to build or form something",
+  "zh": "建造；構建"
+ },
+ {
+  "word": "consume",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to use up or eat/drink",
+  "zh": "消耗；消費"
+ },
+ {
+  "word": "credit",
+  "sublist": 2,
+  "pos": "n.",
+  "en": "praise; an arrangement to pay later",
+  "zh": "讚揚；信用；賒帳"
+ },
+ {
+  "word": "culture",
+  "sublist": 2,
+  "pos": "n.",
+  "en": "the ideas and customs of a society",
+  "zh": "文化"
+ },
+ {
+  "word": "design",
+  "sublist": 2,
+  "pos": "n./v.",
+  "en": "a plan or pattern; to plan",
+  "zh": "設計"
+ },
+ {
+  "word": "distinct",
+  "sublist": 2,
+  "pos": "adj.",
+  "en": "clearly separate or different",
+  "zh": "明顯不同的"
+ },
+ {
+  "word": "element",
+  "sublist": 2,
+  "pos": "n.",
+  "en": "a basic part of something",
+  "zh": "元素；要素"
+ },
+ {
+  "word": "equate",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to treat as equal or the same",
+  "zh": "等同；視為相等"
+ },
+ {
+  "word": "evaluate",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to judge the value of something",
+  "zh": "評價"
+ },
+ {
+  "word": "feature",
+  "sublist": 2,
+  "pos": "n./v.",
+  "en": "an important part; to give prominence",
+  "zh": "特徵；以…為特色"
+ },
+ {
+  "word": "final",
+  "sublist": 2,
+  "pos": "adj.",
+  "en": "coming at the end; last",
+  "zh": "最終的"
+ },
+ {
+  "word": "focus",
+  "sublist": 2,
+  "pos": "n./v.",
+  "en": "the centre of attention; to concentrate",
+  "zh": "焦點；集中"
+ },
+ {
+  "word": "impact",
+  "sublist": 2,
+  "pos": "n./v.",
+  "en": "a strong effect; to affect strongly",
+  "zh": "影響；衝擊"
+ },
+ {
+  "word": "injure",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to harm or hurt",
+  "zh": "傷害"
+ },
+ {
+  "word": "institute",
+  "sublist": 2,
+  "pos": "n./v.",
+  "en": "an organisation; to set up",
+  "zh": "機構；設立"
+ },
+ {
+  "word": "invest",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to put money in to gain a return",
+  "zh": "投資"
+ },
+ {
+  "word": "item",
+  "sublist": 2,
+  "pos": "n.",
+  "en": "a single thing in a list or set",
+  "zh": "項目"
+ },
+ {
+  "word": "journal",
+  "sublist": 2,
+  "pos": "n.",
+  "en": "an academic magazine or a diary",
+  "zh": "期刊；日誌"
+ },
+ {
+  "word": "maintain",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to keep in the same state; to assert",
+  "zh": "維持；主張"
+ },
+ {
+  "word": "normal",
+  "sublist": 2,
+  "pos": "adj.",
+  "en": "usual, ordinary, or expected",
+  "zh": "正常的"
+ },
+ {
+  "word": "obtain",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to get something",
+  "zh": "取得"
+ },
+ {
+  "word": "participate",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to take part in something",
+  "zh": "參與"
+ },
+ {
+  "word": "perceive",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to notice or understand something",
+  "zh": "感知；察覺"
+ },
+ {
+  "word": "positive",
+  "sublist": 2,
+  "pos": "adj.",
+  "en": "good, hopeful, or certain",
+  "zh": "正面的；肯定的"
+ },
+ {
+  "word": "potential",
+  "sublist": 2,
+  "pos": "n./adj.",
+  "en": "possible ability; capable of developing",
+  "zh": "潛力；潛在的"
+ },
+ {
+  "word": "previous",
+  "sublist": 2,
+  "pos": "adj.",
+  "en": "coming before in time",
+  "zh": "先前的"
+ },
+ {
+  "word": "primary",
+  "sublist": 2,
+  "pos": "adj.",
+  "en": "main or most important; first",
+  "zh": "主要的；初級的"
+ },
+ {
+  "word": "purchase",
+  "sublist": 2,
+  "pos": "n./v.",
+  "en": "something bought; to buy",
+  "zh": "購買"
+ },
+ {
+  "word": "range",
+  "sublist": 2,
+  "pos": "n./v.",
+  "en": "a set of limits; to vary between",
+  "zh": "範圍；變動於"
+ },
+ {
+  "word": "region",
+  "sublist": 2,
+  "pos": "n.",
+  "en": "an area of land or space",
+  "zh": "地區"
+ },
+ {
+  "word": "regulate",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to control by rules",
+  "zh": "管制；調節"
+ },
+ {
+  "word": "relevant",
+  "sublist": 2,
+  "pos": "adj.",
+  "en": "connected with the matter at hand",
+  "zh": "相關的"
+ },
+ {
+  "word": "reside",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to live in a place",
+  "zh": "居住"
+ },
+ {
+  "word": "resource",
+  "sublist": 2,
+  "pos": "n.",
+  "en": "a supply of something useful",
+  "zh": "資源"
+ },
+ {
+  "word": "restrict",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to limit or keep within bounds",
+  "zh": "限制"
+ },
+ {
+  "word": "secure",
+  "sublist": 2,
+  "pos": "adj./v.",
+  "en": "safe; to make safe or obtain",
+  "zh": "安全的；確保"
+ },
+ {
+  "word": "seek",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to try to find or get",
+  "zh": "尋求"
+ },
+ {
+  "word": "select",
+  "sublist": 2,
+  "pos": "v.",
+  "en": "to choose carefully",
+  "zh": "選擇"
+ },
+ {
+  "word": "site",
+  "sublist": 2,
+  "pos": "n.",
+  "en": "a place where something is located",
+  "zh": "地點；場址"
+ },
+ {
+  "word": "strategy",
+  "sublist": 2,
+  "pos": "n.",
+  "en": "a plan to achieve a goal",
+  "zh": "策略"
+ },
+ {
+  "word": "survey",
+  "sublist": 2,
+  "pos": "n./v.",
+  "en": "a study of opinions; to examine",
+  "zh": "調查"
+ },
+ {
+  "word": "text",
+  "sublist": 2,
+  "pos": "n.",
+  "en": "written words",
+  "zh": "文本；文字"
+ },
+ {
+  "word": "tradition",
+  "sublist": 2,
+  "pos": "n.",
+  "en": "a long-established custom",
+  "zh": "傳統"
+ },
+ {
+  "word": "transfer",
+  "sublist": 2,
+  "pos": "v./n.",
+  "en": "to move from one place to another",
+  "zh": "轉移；轉讓"
+ },
+ {
+  "word": "alternative",
+  "sublist": 3,
+  "pos": "n./adj.",
+  "en": "another choice; available as another option",
+  "zh": "替代方案；另類的"
+ },
+ {
+  "word": "circumstance",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "a condition or fact affecting a situation",
+  "zh": "情況；情形"
+ },
+ {
+  "word": "comment",
+  "sublist": 3,
+  "pos": "n./v.",
+  "en": "a remark; to express an opinion",
+  "zh": "評論"
+ },
+ {
+  "word": "compensate",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to make up for something; to pay back",
+  "zh": "補償"
+ },
+ {
+  "word": "component",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "a part of a larger whole",
+  "zh": "組成部分；零件"
+ },
+ {
+  "word": "consent",
+  "sublist": 3,
+  "pos": "n./v.",
+  "en": "permission; to agree",
+  "zh": "同意；許可"
+ },
+ {
+  "word": "considerable",
+  "sublist": 3,
+  "pos": "adj.",
+  "en": "large in amount or importance",
+  "zh": "相當大的"
+ },
+ {
+  "word": "constant",
+  "sublist": 3,
+  "pos": "adj.",
+  "en": "happening all the time; unchanging",
+  "zh": "持續的；不變的"
+ },
+ {
+  "word": "constrain",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to limit or force",
+  "zh": "約束；限制"
+ },
+ {
+  "word": "contribute",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to give a part toward something",
+  "zh": "貢獻；促成"
+ },
+ {
+  "word": "convene",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to call people together for a meeting",
+  "zh": "召集；集會"
+ },
+ {
+  "word": "coordinate",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to organise parts to work together",
+  "zh": "協調"
+ },
+ {
+  "word": "core",
+  "sublist": 3,
+  "pos": "n./adj.",
+  "en": "the central or most important part",
+  "zh": "核心"
+ },
+ {
+  "word": "corporate",
+  "sublist": 3,
+  "pos": "adj.",
+  "en": "relating to a large company",
+  "zh": "公司的；法人的"
+ },
+ {
+  "word": "correspond",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to match; to exchange letters",
+  "zh": "相符；通信"
+ },
+ {
+  "word": "criteria",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "standards used to judge something",
+  "zh": "標準；準則"
+ },
+ {
+  "word": "deduce",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to reach a conclusion by reasoning",
+  "zh": "推論"
+ },
+ {
+  "word": "demonstrate",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to show clearly; to protest",
+  "zh": "證明；示範；示威"
+ },
+ {
+  "word": "document",
+  "sublist": 3,
+  "pos": "n./v.",
+  "en": "an official paper; to record",
+  "zh": "文件；記錄"
+ },
+ {
+  "word": "dominate",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to have control or be most important",
+  "zh": "支配；主導"
+ },
+ {
+  "word": "emphasis",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "special importance given to something",
+  "zh": "強調；重點"
+ },
+ {
+  "word": "ensure",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to make certain something happens",
+  "zh": "確保"
+ },
+ {
+  "word": "exclude",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to keep out or leave out",
+  "zh": "排除"
+ },
+ {
+  "word": "framework",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "a basic supporting structure or system",
+  "zh": "架構；框架"
+ },
+ {
+  "word": "fund",
+  "sublist": 3,
+  "pos": "n./v.",
+  "en": "money for a purpose; to provide money",
+  "zh": "基金；資助"
+ },
+ {
+  "word": "illustrate",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to explain with examples or pictures",
+  "zh": "說明；舉例"
+ },
+ {
+  "word": "immigrate",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to come to live in a new country",
+  "zh": "移入；移民"
+ },
+ {
+  "word": "imply",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to suggest without stating directly",
+  "zh": "暗示"
+ },
+ {
+  "word": "initial",
+  "sublist": 3,
+  "pos": "adj.",
+  "en": "happening at the beginning",
+  "zh": "最初的"
+ },
+ {
+  "word": "instance",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "a particular example or case",
+  "zh": "例子；實例"
+ },
+ {
+  "word": "interact",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to act on or affect each other",
+  "zh": "互動"
+ },
+ {
+  "word": "justify",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to show that something is reasonable",
+  "zh": "辯護；證明合理"
+ },
+ {
+  "word": "layer",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "a sheet or level lying over another",
+  "zh": "層"
+ },
+ {
+  "word": "link",
+  "sublist": 3,
+  "pos": "n./v.",
+  "en": "a connection; to connect",
+  "zh": "連結；關聯"
+ },
+ {
+  "word": "locate",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to find or place in a position",
+  "zh": "找出位置；設於"
+ },
+ {
+  "word": "maximise",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to make as great as possible",
+  "zh": "最大化"
+ },
+ {
+  "word": "minor",
+  "sublist": 3,
+  "pos": "adj.",
+  "en": "small or less important",
+  "zh": "次要的；輕微的"
+ },
+ {
+  "word": "negate",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to cancel or make ineffective",
+  "zh": "否定；抵消"
+ },
+ {
+  "word": "outcome",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "a result or consequence",
+  "zh": "結果"
+ },
+ {
+  "word": "partner",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "a person who shares an activity",
+  "zh": "夥伴；合夥人"
+ },
+ {
+  "word": "philosophy",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "the study of ideas about life and knowledge",
+  "zh": "哲學；理念"
+ },
+ {
+  "word": "physical",
+  "sublist": 3,
+  "pos": "adj.",
+  "en": "relating to the body or material things",
+  "zh": "身體的；物理的"
+ },
+ {
+  "word": "proportion",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "a part or share in relation to a whole",
+  "zh": "比例；部分"
+ },
+ {
+  "word": "publish",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to make written work public",
+  "zh": "出版；發表"
+ },
+ {
+  "word": "react",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to act in response to something",
+  "zh": "反應"
+ },
+ {
+  "word": "register",
+  "sublist": 3,
+  "pos": "n./v.",
+  "en": "an official list; to record formally",
+  "zh": "登記；註冊"
+ },
+ {
+  "word": "rely",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to depend on or trust",
+  "zh": "依賴"
+ },
+ {
+  "word": "remove",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to take something away",
+  "zh": "移除"
+ },
+ {
+  "word": "scheme",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "an organised plan",
+  "zh": "計畫；方案"
+ },
+ {
+  "word": "sequence",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "an order in which things follow",
+  "zh": "順序；序列"
+ },
+ {
+  "word": "sex",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "the state of being male or female",
+  "zh": "性別"
+ },
+ {
+  "word": "shift",
+  "sublist": 3,
+  "pos": "n./v.",
+  "en": "a change; to move or change",
+  "zh": "轉變；轉移"
+ },
+ {
+  "word": "specify",
+  "sublist": 3,
+  "pos": "v.",
+  "en": "to state clearly and exactly",
+  "zh": "明確指定"
+ },
+ {
+  "word": "sufficient",
+  "sublist": 3,
+  "pos": "adj.",
+  "en": "enough for a purpose",
+  "zh": "足夠的"
+ },
+ {
+  "word": "task",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "a piece of work to be done",
+  "zh": "任務"
+ },
+ {
+  "word": "technical",
+  "sublist": 3,
+  "pos": "adj.",
+  "en": "relating to specialised skills or methods",
+  "zh": "技術的"
+ },
+ {
+  "word": "technique",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "a particular way of doing a skill",
+  "zh": "技巧；手法"
+ },
+ {
+  "word": "technology",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "the use of science for practical purposes",
+  "zh": "科技"
+ },
+ {
+  "word": "valid",
+  "sublist": 3,
+  "pos": "adj.",
+  "en": "well-founded and acceptable; legally usable",
+  "zh": "有效的；正當的"
+ },
+ {
+  "word": "volume",
+  "sublist": 3,
+  "pos": "n.",
+  "en": "amount of space or quantity; a book",
+  "zh": "體積；量；冊"
+ },
+ {
+  "word": "access",
+  "sublist": 4,
+  "pos": "n./v.",
+  "en": "the right or means to use something",
+  "zh": "存取；取得；進入"
+ },
+ {
+  "word": "adequate",
+  "sublist": 4,
+  "pos": "adj.",
+  "en": "enough or good enough",
+  "zh": "足夠的；適當的"
+ },
+ {
+  "word": "annual",
+  "sublist": 4,
+  "pos": "adj.",
+  "en": "happening once a year",
+  "zh": "每年的"
+ },
+ {
+  "word": "apparent",
+  "sublist": 4,
+  "pos": "adj.",
+  "en": "clearly seen or seeming to be true",
+  "zh": "明顯的；表面上的"
+ },
+ {
+  "word": "approximate",
+  "sublist": 4,
+  "pos": "adj.",
+  "en": "close to but not exact",
+  "zh": "近似的"
+ },
+ {
+  "word": "attitude",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "a way of thinking or feeling",
+  "zh": "態度"
+ },
+ {
+  "word": "attribute",
+  "sublist": 4,
+  "pos": "n./v.",
+  "en": "a quality; to regard as caused by",
+  "zh": "特質；歸因於"
+ },
+ {
+  "word": "civil",
+  "sublist": 4,
+  "pos": "adj.",
+  "en": "relating to citizens or society",
+  "zh": "公民的；民事的"
+ },
+ {
+  "word": "code",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "a set of rules or signs",
+  "zh": "規範；代碼"
+ },
+ {
+  "word": "commit",
+  "sublist": 4,
+  "pos": "v.",
+  "en": "to promise; to do a wrong act",
+  "zh": "承諾；犯（罪）"
+ },
+ {
+  "word": "communicate",
+  "sublist": 4,
+  "pos": "v.",
+  "en": "to share information",
+  "zh": "溝通；傳達"
+ },
+ {
+  "word": "concentrate",
+  "sublist": 4,
+  "pos": "v.",
+  "en": "to focus attention; to gather closely",
+  "zh": "專注；集中"
+ },
+ {
+  "word": "confer",
+  "sublist": 4,
+  "pos": "v.",
+  "en": "to discuss; to grant",
+  "zh": "商議；授予"
+ },
+ {
+  "word": "contrast",
+  "sublist": 4,
+  "pos": "n./v.",
+  "en": "a clear difference; to compare differences",
+  "zh": "對比；對照"
+ },
+ {
+  "word": "cycle",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "a repeated series of events",
+  "zh": "循環；週期"
+ },
+ {
+  "word": "debate",
+  "sublist": 4,
+  "pos": "n./v.",
+  "en": "a formal discussion of opposing views",
+  "zh": "辯論"
+ },
+ {
+  "word": "despite",
+  "sublist": 4,
+  "pos": "prep.",
+  "en": "in spite of something",
+  "zh": "儘管"
+ },
+ {
+  "word": "dimension",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "a measurable extent; an aspect",
+  "zh": "維度；面向"
+ },
+ {
+  "word": "domestic",
+  "sublist": 4,
+  "pos": "adj.",
+  "en": "relating to home or one's own country",
+  "zh": "家庭的；國內的"
+ },
+ {
+  "word": "emerge",
+  "sublist": 4,
+  "pos": "v.",
+  "en": "to come out or become known",
+  "zh": "出現；浮現"
+ },
+ {
+  "word": "error",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "a mistake",
+  "zh": "錯誤"
+ },
+ {
+  "word": "ethnic",
+  "sublist": 4,
+  "pos": "adj.",
+  "en": "relating to a cultural or racial group",
+  "zh": "種族的；族裔的"
+ },
+ {
+  "word": "goal",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "an aim or desired result",
+  "zh": "目標"
+ },
+ {
+  "word": "grant",
+  "sublist": 4,
+  "pos": "n./v.",
+  "en": "money given; to allow or give",
+  "zh": "補助金；准予"
+ },
+ {
+  "word": "hence",
+  "sublist": 4,
+  "pos": "adv.",
+  "en": "for this reason; therefore",
+  "zh": "因此"
+ },
+ {
+  "word": "hypothesis",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "an idea suggested to be tested",
+  "zh": "假設"
+ },
+ {
+  "word": "implement",
+  "sublist": 4,
+  "pos": "v.",
+  "en": "to put a plan into action",
+  "zh": "實施"
+ },
+ {
+  "word": "implicate",
+  "sublist": 4,
+  "pos": "v.",
+  "en": "to show someone is involved",
+  "zh": "牽連；暗示有關"
+ },
+ {
+  "word": "impose",
+  "sublist": 4,
+  "pos": "v.",
+  "en": "to force something on others",
+  "zh": "強加；課徵"
+ },
+ {
+  "word": "integrate",
+  "sublist": 4,
+  "pos": "v.",
+  "en": "to combine into a whole",
+  "zh": "整合"
+ },
+ {
+  "word": "internal",
+  "sublist": 4,
+  "pos": "adj.",
+  "en": "inside; within an organisation",
+  "zh": "內部的"
+ },
+ {
+  "word": "investigate",
+  "sublist": 4,
+  "pos": "v.",
+  "en": "to examine carefully to find facts",
+  "zh": "調查"
+ },
+ {
+  "word": "job",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "paid work or a task",
+  "zh": "工作"
+ },
+ {
+  "word": "label",
+  "sublist": 4,
+  "pos": "n./v.",
+  "en": "a tag with information; to name",
+  "zh": "標籤；標記"
+ },
+ {
+  "word": "mechanism",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "a system of parts that does a job",
+  "zh": "機制；機械裝置"
+ },
+ {
+  "word": "obvious",
+  "sublist": 4,
+  "pos": "adj.",
+  "en": "easy to see or understand",
+  "zh": "明顯的"
+ },
+ {
+  "word": "occupy",
+  "sublist": 4,
+  "pos": "v.",
+  "en": "to fill space or time; to live in",
+  "zh": "占據；占用"
+ },
+ {
+  "word": "option",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "a choice",
+  "zh": "選項"
+ },
+ {
+  "word": "output",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "the amount produced",
+  "zh": "產出；輸出"
+ },
+ {
+  "word": "overall",
+  "sublist": 4,
+  "pos": "adj./adv.",
+  "en": "considering everything; in total",
+  "zh": "整體的；總的"
+ },
+ {
+  "word": "parallel",
+  "sublist": 4,
+  "pos": "adj./n.",
+  "en": "side by side and similar; a similarity",
+  "zh": "平行的；相似之處"
+ },
+ {
+  "word": "parameter",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "a limit or factor that defines something",
+  "zh": "參數；範圍"
+ },
+ {
+  "word": "phase",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "a stage in a process",
+  "zh": "階段"
+ },
+ {
+  "word": "predict",
+  "sublist": 4,
+  "pos": "v.",
+  "en": "to say what will happen",
+  "zh": "預測"
+ },
+ {
+  "word": "principal",
+  "sublist": 4,
+  "pos": "adj./n.",
+  "en": "main; head of a school",
+  "zh": "主要的；校長"
+ },
+ {
+  "word": "prior",
+  "sublist": 4,
+  "pos": "adj.",
+  "en": "existing or coming before",
+  "zh": "先前的"
+ },
+ {
+  "word": "professional",
+  "sublist": 4,
+  "pos": "adj./n.",
+  "en": "relating to skilled paid work; an expert",
+  "zh": "專業的；專業人士"
+ },
+ {
+  "word": "project",
+  "sublist": 4,
+  "pos": "n./v.",
+  "en": "a planned task; to forecast or display",
+  "zh": "專案；投射；預估"
+ },
+ {
+  "word": "promote",
+  "sublist": 4,
+  "pos": "v.",
+  "en": "to encourage; to raise in rank",
+  "zh": "促進；升遷"
+ },
+ {
+  "word": "regime",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "a government or system of rule",
+  "zh": "政權；制度"
+ },
+ {
+  "word": "resolve",
+  "sublist": 4,
+  "pos": "v.",
+  "en": "to settle or decide firmly",
+  "zh": "解決；決心"
+ },
+ {
+  "word": "retain",
+  "sublist": 4,
+  "pos": "v.",
+  "en": "to keep or hold",
+  "zh": "保留"
+ },
+ {
+  "word": "series",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "a number of related things in order",
+  "zh": "系列"
+ },
+ {
+  "word": "statistic",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "a piece of numerical data",
+  "zh": "統計數據"
+ },
+ {
+  "word": "status",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "rank or current state",
+  "zh": "地位；狀態"
+ },
+ {
+  "word": "stress",
+  "sublist": 4,
+  "pos": "n./v.",
+  "en": "mental pressure; to emphasise",
+  "zh": "壓力；強調"
+ },
+ {
+  "word": "subsequent",
+  "sublist": 4,
+  "pos": "adj.",
+  "en": "coming after in time",
+  "zh": "隨後的"
+ },
+ {
+  "word": "sum",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "a total amount or calculation",
+  "zh": "總和；金額"
+ },
+ {
+  "word": "summary",
+  "sublist": 4,
+  "pos": "n.",
+  "en": "a short account of the main points",
+  "zh": "摘要"
+ },
+ {
+  "word": "undertake",
+  "sublist": 4,
+  "pos": "v.",
+  "en": "to take on a task or promise",
+  "zh": "從事；承擔"
+ },
+ {
+  "word": "academy",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "a school or society for learning",
+  "zh": "學院；學會"
+ },
+ {
+  "word": "adjust",
+  "sublist": 5,
+  "pos": "v.",
+  "en": "to change slightly to fit",
+  "zh": "調整"
+ },
+ {
+  "word": "alter",
+  "sublist": 5,
+  "pos": "v.",
+  "en": "to change",
+  "zh": "改變"
+ },
+ {
+  "word": "amend",
+  "sublist": 5,
+  "pos": "v.",
+  "en": "to make small changes to improve",
+  "zh": "修訂；修正"
+ },
+ {
+  "word": "aware",
+  "sublist": 5,
+  "pos": "adj.",
+  "en": "knowing or realising something",
+  "zh": "意識到的"
+ },
+ {
+  "word": "capacity",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "the amount that can be held; ability",
+  "zh": "容量；能力"
+ },
+ {
+  "word": "challenge",
+  "sublist": 5,
+  "pos": "n./v.",
+  "en": "a difficult task; to question or dispute",
+  "zh": "挑戰；質疑"
+ },
+ {
+  "word": "clause",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "a part of a sentence or a legal document",
+  "zh": "子句；條款"
+ },
+ {
+  "word": "compound",
+  "sublist": 5,
+  "pos": "n./adj.",
+  "en": "a mixture; made of parts",
+  "zh": "化合物；複合的"
+ },
+ {
+  "word": "conflict",
+  "sublist": 5,
+  "pos": "n./v.",
+  "en": "a serious disagreement; to clash",
+  "zh": "衝突；牴觸"
+ },
+ {
+  "word": "consult",
+  "sublist": 5,
+  "pos": "v.",
+  "en": "to seek advice or information",
+  "zh": "諮詢；查閱"
+ },
+ {
+  "word": "contact",
+  "sublist": 5,
+  "pos": "n./v.",
+  "en": "communication; to get in touch",
+  "zh": "接觸；聯絡"
+ },
+ {
+  "word": "decline",
+  "sublist": 5,
+  "pos": "v./n.",
+  "en": "to refuse; to decrease",
+  "zh": "下降；婉拒"
+ },
+ {
+  "word": "discrete",
+  "sublist": 5,
+  "pos": "adj.",
+  "en": "separate and distinct",
+  "zh": "個別的；不連續的"
+ },
+ {
+  "word": "draft",
+  "sublist": 5,
+  "pos": "n./v.",
+  "en": "an early version; to write a first version",
+  "zh": "草稿；起草"
+ },
+ {
+  "word": "enable",
+  "sublist": 5,
+  "pos": "v.",
+  "en": "to make something possible",
+  "zh": "使能夠；促成"
+ },
+ {
+  "word": "energy",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "power or the ability to do work",
+  "zh": "能量；精力"
+ },
+ {
+  "word": "enforce",
+  "sublist": 5,
+  "pos": "v.",
+  "en": "to make people obey a rule",
+  "zh": "執行；強制"
+ },
+ {
+  "word": "entity",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "a thing that exists as a unit",
+  "zh": "實體"
+ },
+ {
+  "word": "equivalent",
+  "sublist": 5,
+  "pos": "adj./n.",
+  "en": "equal in value or meaning",
+  "zh": "相等的；對等物"
+ },
+ {
+  "word": "evolve",
+  "sublist": 5,
+  "pos": "v.",
+  "en": "to develop gradually",
+  "zh": "演化；發展"
+ },
+ {
+  "word": "expand",
+  "sublist": 5,
+  "pos": "v.",
+  "en": "to grow larger",
+  "zh": "擴大；擴展"
+ },
+ {
+  "word": "expose",
+  "sublist": 5,
+  "pos": "v.",
+  "en": "to uncover or make visible",
+  "zh": "暴露；揭露"
+ },
+ {
+  "word": "external",
+  "sublist": 5,
+  "pos": "adj.",
+  "en": "on or from the outside",
+  "zh": "外部的"
+ },
+ {
+  "word": "facilitate",
+  "sublist": 5,
+  "pos": "v.",
+  "en": "to make something easier",
+  "zh": "促進；使便利"
+ },
+ {
+  "word": "fundamental",
+  "sublist": 5,
+  "pos": "adj.",
+  "en": "basic and essential",
+  "zh": "基本的；根本的"
+ },
+ {
+  "word": "generate",
+  "sublist": 5,
+  "pos": "v.",
+  "en": "to produce or create",
+  "zh": "產生"
+ },
+ {
+  "word": "generation",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "people of about the same age; producing",
+  "zh": "世代；產生"
+ },
+ {
+  "word": "image",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "a picture or mental impression",
+  "zh": "影像；形象"
+ },
+ {
+  "word": "liberal",
+  "sublist": 5,
+  "pos": "adj.",
+  "en": "open to new ideas; generous",
+  "zh": "自由的；開明的"
+ },
+ {
+  "word": "licence",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "official permission to do something",
+  "zh": "許可；執照"
+ },
+ {
+  "word": "logic",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "reasoning done in a sensible way",
+  "zh": "邏輯"
+ },
+ {
+  "word": "margin",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "an edge; a difference or extra amount",
+  "zh": "邊緣；差額"
+ },
+ {
+  "word": "medical",
+  "sublist": 5,
+  "pos": "adj.",
+  "en": "relating to medicine or health care",
+  "zh": "醫療的"
+ },
+ {
+  "word": "mental",
+  "sublist": 5,
+  "pos": "adj.",
+  "en": "relating to the mind",
+  "zh": "心理的；精神的"
+ },
+ {
+  "word": "modify",
+  "sublist": 5,
+  "pos": "v.",
+  "en": "to change something slightly",
+  "zh": "修改"
+ },
+ {
+  "word": "monitor",
+  "sublist": 5,
+  "pos": "v./n.",
+  "en": "to watch and check over time",
+  "zh": "監測；監視器"
+ },
+ {
+  "word": "network",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "a connected system of things or people",
+  "zh": "網絡"
+ },
+ {
+  "word": "notion",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "an idea or belief",
+  "zh": "觀念；想法"
+ },
+ {
+  "word": "objective",
+  "sublist": 5,
+  "pos": "n./adj.",
+  "en": "a goal; based on facts not feelings",
+  "zh": "目標；客觀的"
+ },
+ {
+  "word": "orient",
+  "sublist": 5,
+  "pos": "v.",
+  "en": "to position or direct toward something",
+  "zh": "定位；使適應"
+ },
+ {
+  "word": "perspective",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "a point of view",
+  "zh": "觀點；視角"
+ },
+ {
+  "word": "precise",
+  "sublist": 5,
+  "pos": "adj.",
+  "en": "exact and accurate",
+  "zh": "精確的"
+ },
+ {
+  "word": "prime",
+  "sublist": 5,
+  "pos": "adj.",
+  "en": "main; of the best quality",
+  "zh": "主要的；最佳的"
+ },
+ {
+  "word": "psychology",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "the study of the mind and behaviour",
+  "zh": "心理學"
+ },
+ {
+  "word": "pursue",
+  "sublist": 5,
+  "pos": "v.",
+  "en": "to follow or try to achieve",
+  "zh": "追求；從事"
+ },
+ {
+  "word": "ratio",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "the relation between two amounts",
+  "zh": "比率"
+ },
+ {
+  "word": "reject",
+  "sublist": 5,
+  "pos": "v.",
+  "en": "to refuse to accept",
+  "zh": "拒絕"
+ },
+ {
+  "word": "revenue",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "income, especially of a business or state",
+  "zh": "收入；稅收"
+ },
+ {
+  "word": "stable",
+  "sublist": 5,
+  "pos": "adj.",
+  "en": "steady and not likely to change",
+  "zh": "穩定的"
+ },
+ {
+  "word": "style",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "a way of doing or expressing something",
+  "zh": "風格；方式"
+ },
+ {
+  "word": "substitute",
+  "sublist": 5,
+  "pos": "n./v.",
+  "en": "a replacement; to use instead",
+  "zh": "替代；代替"
+ },
+ {
+  "word": "sustain",
+  "sublist": 5,
+  "pos": "v.",
+  "en": "to keep going; to support",
+  "zh": "維持；支撐"
+ },
+ {
+  "word": "symbol",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "a sign that stands for something",
+  "zh": "符號；象徵"
+ },
+ {
+  "word": "target",
+  "sublist": 5,
+  "pos": "n./v.",
+  "en": "an aim; to aim at",
+  "zh": "目標；針對"
+ },
+ {
+  "word": "transit",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "the movement of people or goods",
+  "zh": "運輸；過境"
+ },
+ {
+  "word": "trend",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "a general direction of change",
+  "zh": "趨勢"
+ },
+ {
+  "word": "version",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "a particular form of something",
+  "zh": "版本"
+ },
+ {
+  "word": "welfare",
+  "sublist": 5,
+  "pos": "n.",
+  "en": "the health and wellbeing of people",
+  "zh": "福利；福祉"
+ },
+ {
+  "word": "whereas",
+  "sublist": 5,
+  "pos": "conj.",
+  "en": "in contrast or comparison with",
+  "zh": "然而；鑒於"
+ },
+ {
+  "word": "abstract",
+  "sublist": 6,
+  "pos": "adj./n.",
+  "en": "based on ideas not physical things; a summary",
+  "zh": "抽象的；摘要"
+ },
+ {
+  "word": "accurate",
+  "sublist": 6,
+  "pos": "adj.",
+  "en": "correct and exact",
+  "zh": "準確的"
+ },
+ {
+  "word": "acknowledge",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to accept or admit; to thank",
+  "zh": "承認；致謝"
+ },
+ {
+  "word": "aggregate",
+  "sublist": 6,
+  "pos": "n./adj.",
+  "en": "a total formed by combining parts",
+  "zh": "總計；聚合的"
+ },
+ {
+  "word": "allocate",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to give out for a purpose",
+  "zh": "分配"
+ },
+ {
+  "word": "assign",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to give a task or duty",
+  "zh": "指派；分配"
+ },
+ {
+  "word": "attach",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to join or fasten to",
+  "zh": "附加；連接"
+ },
+ {
+  "word": "author",
+  "sublist": 6,
+  "pos": "n.",
+  "en": "the writer of a work",
+  "zh": "作者"
+ },
+ {
+  "word": "bond",
+  "sublist": 6,
+  "pos": "n.",
+  "en": "a close link; a financial certificate",
+  "zh": "聯繫；債券"
+ },
+ {
+  "word": "brief",
+  "sublist": 6,
+  "pos": "adj.",
+  "en": "short in time or length",
+  "zh": "簡短的"
+ },
+ {
+  "word": "capable",
+  "sublist": 6,
+  "pos": "adj.",
+  "en": "able to do something",
+  "zh": "有能力的"
+ },
+ {
+  "word": "cite",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to quote or refer to a source",
+  "zh": "引用"
+ },
+ {
+  "word": "cooperate",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to work together",
+  "zh": "合作"
+ },
+ {
+  "word": "discriminate",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to treat differently; to tell apart",
+  "zh": "歧視；區別"
+ },
+ {
+  "word": "display",
+  "sublist": 6,
+  "pos": "n./v.",
+  "en": "to show or present",
+  "zh": "展示"
+ },
+ {
+  "word": "diverse",
+  "sublist": 6,
+  "pos": "adj.",
+  "en": "varied and different",
+  "zh": "多樣的"
+ },
+ {
+  "word": "domain",
+  "sublist": 6,
+  "pos": "n.",
+  "en": "an area of activity or knowledge",
+  "zh": "領域"
+ },
+ {
+  "word": "edit",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to prepare text by correcting it",
+  "zh": "編輯"
+ },
+ {
+  "word": "enhance",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to improve or increase",
+  "zh": "提升；增強"
+ },
+ {
+  "word": "estate",
+  "sublist": 6,
+  "pos": "n.",
+  "en": "property or land; total possessions",
+  "zh": "地產；財產"
+ },
+ {
+  "word": "exceed",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to go beyond a limit",
+  "zh": "超過"
+ },
+ {
+  "word": "expert",
+  "sublist": 6,
+  "pos": "n./adj.",
+  "en": "a person with great skill or knowledge",
+  "zh": "專家；專業的"
+ },
+ {
+  "word": "explicit",
+  "sublist": 6,
+  "pos": "adj.",
+  "en": "clearly and fully stated",
+  "zh": "明確的"
+ },
+ {
+  "word": "federal",
+  "sublist": 6,
+  "pos": "adj.",
+  "en": "relating to a central national government",
+  "zh": "聯邦的"
+ },
+ {
+  "word": "fee",
+  "sublist": 6,
+  "pos": "n.",
+  "en": "money paid for a service",
+  "zh": "費用"
+ },
+ {
+  "word": "flexible",
+  "sublist": 6,
+  "pos": "adj.",
+  "en": "able to change or bend easily",
+  "zh": "靈活的；有彈性的"
+ },
+ {
+  "word": "furthermore",
+  "sublist": 6,
+  "pos": "adv.",
+  "en": "in addition; moreover",
+  "zh": "此外"
+ },
+ {
+  "word": "gender",
+  "sublist": 6,
+  "pos": "n.",
+  "en": "the state of being male or female",
+  "zh": "性別"
+ },
+ {
+  "word": "ignorant",
+  "sublist": 6,
+  "pos": "adj.",
+  "en": "lacking knowledge",
+  "zh": "無知的"
+ },
+ {
+  "word": "incentive",
+  "sublist": 6,
+  "pos": "n.",
+  "en": "something that encourages action",
+  "zh": "誘因；獎勵"
+ },
+ {
+  "word": "incidence",
+  "sublist": 6,
+  "pos": "n.",
+  "en": "the rate at which something occurs",
+  "zh": "發生率"
+ },
+ {
+  "word": "incorporate",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to include as part of a whole",
+  "zh": "納入；合併"
+ },
+ {
+  "word": "index",
+  "sublist": 6,
+  "pos": "n.",
+  "en": "an alphabetical list; a measure",
+  "zh": "索引；指數"
+ },
+ {
+  "word": "inhibit",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to hold back or prevent",
+  "zh": "抑制"
+ },
+ {
+  "word": "initiate",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to begin or start",
+  "zh": "發起；開始"
+ },
+ {
+  "word": "input",
+  "sublist": 6,
+  "pos": "n.",
+  "en": "what is put in to a system",
+  "zh": "投入；輸入"
+ },
+ {
+  "word": "instruct",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to teach or order",
+  "zh": "指導；指示"
+ },
+ {
+  "word": "intelligent",
+  "sublist": 6,
+  "pos": "adj.",
+  "en": "able to learn and understand well",
+  "zh": "聰明的"
+ },
+ {
+  "word": "interval",
+  "sublist": 6,
+  "pos": "n.",
+  "en": "a period of time between events",
+  "zh": "間隔"
+ },
+ {
+  "word": "lecture",
+  "sublist": 6,
+  "pos": "n./v.",
+  "en": "a formal talk to teach",
+  "zh": "講課；演講"
+ },
+ {
+  "word": "migrate",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to move from one place to another",
+  "zh": "遷移"
+ },
+ {
+  "word": "minimum",
+  "sublist": 6,
+  "pos": "n./adj.",
+  "en": "the smallest amount possible",
+  "zh": "最小值；最低的"
+ },
+ {
+  "word": "ministry",
+  "sublist": 6,
+  "pos": "n.",
+  "en": "a government department",
+  "zh": "部會；部"
+ },
+ {
+  "word": "motive",
+  "sublist": 6,
+  "pos": "n.",
+  "en": "a reason for doing something",
+  "zh": "動機"
+ },
+ {
+  "word": "neutral",
+  "sublist": 6,
+  "pos": "adj.",
+  "en": "not supporting either side",
+  "zh": "中立的"
+ },
+ {
+  "word": "nevertheless",
+  "sublist": 6,
+  "pos": "adv.",
+  "en": "in spite of that; however",
+  "zh": "儘管如此"
+ },
+ {
+  "word": "overseas",
+  "sublist": 6,
+  "pos": "adj./adv.",
+  "en": "in or to a foreign country",
+  "zh": "海外的"
+ },
+ {
+  "word": "precede",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to come before in time or order",
+  "zh": "在…之前"
+ },
+ {
+  "word": "presume",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to suppose something is true",
+  "zh": "推測；假定"
+ },
+ {
+  "word": "rational",
+  "sublist": 6,
+  "pos": "adj.",
+  "en": "based on reason and logic",
+  "zh": "理性的"
+ },
+ {
+  "word": "recover",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to return to normal; to get back",
+  "zh": "復原；恢復；取回"
+ },
+ {
+  "word": "reveal",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to make known or show",
+  "zh": "揭露；顯示"
+ },
+ {
+  "word": "scope",
+  "sublist": 6,
+  "pos": "n.",
+  "en": "the range of a subject or activity",
+  "zh": "範圍"
+ },
+ {
+  "word": "subsidy",
+  "sublist": 6,
+  "pos": "n.",
+  "en": "money given by a government to help",
+  "zh": "補貼"
+ },
+ {
+  "word": "tape",
+  "sublist": 6,
+  "pos": "n./v.",
+  "en": "a strip used to record or fasten",
+  "zh": "膠帶；錄音帶"
+ },
+ {
+  "word": "trace",
+  "sublist": 6,
+  "pos": "n./v.",
+  "en": "a sign left behind; to find or follow",
+  "zh": "痕跡；追蹤"
+ },
+ {
+  "word": "transform",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to change completely in form",
+  "zh": "轉變；轉化"
+ },
+ {
+  "word": "transport",
+  "sublist": 6,
+  "pos": "n./v.",
+  "en": "to carry from one place to another",
+  "zh": "運輸"
+ },
+ {
+  "word": "underlie",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to be the basis or cause of",
+  "zh": "構成…的基礎"
+ },
+ {
+  "word": "utilise",
+  "sublist": 6,
+  "pos": "v.",
+  "en": "to make use of something",
+  "zh": "利用"
+ },
+ {
+  "word": "adapt",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to change to fit new conditions",
+  "zh": "適應；改編"
+ },
+ {
+  "word": "adult",
+  "sublist": 7,
+  "pos": "n./adj.",
+  "en": "a fully grown person",
+  "zh": "成人；成年的"
+ },
+ {
+  "word": "advocate",
+  "sublist": 7,
+  "pos": "v./n.",
+  "en": "to support publicly; a supporter",
+  "zh": "倡導；擁護者"
+ },
+ {
+  "word": "aid",
+  "sublist": 7,
+  "pos": "n./v.",
+  "en": "help or support; to help",
+  "zh": "援助；幫助"
+ },
+ {
+  "word": "channel",
+  "sublist": 7,
+  "pos": "n.",
+  "en": "a means or path for something to pass",
+  "zh": "管道；頻道"
+ },
+ {
+  "word": "chemical",
+  "sublist": 7,
+  "pos": "n./adj.",
+  "en": "a substance; relating to chemistry",
+  "zh": "化學物質；化學的"
+ },
+ {
+  "word": "classic",
+  "sublist": 7,
+  "pos": "adj./n.",
+  "en": "of high quality and lasting value",
+  "zh": "經典的；經典作品"
+ },
+ {
+  "word": "comprehensive",
+  "sublist": 7,
+  "pos": "adj.",
+  "en": "complete and including everything",
+  "zh": "全面的"
+ },
+ {
+  "word": "comprise",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to be made up of; to consist of",
+  "zh": "包含；組成"
+ },
+ {
+  "word": "confirm",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to state that something is true",
+  "zh": "確認"
+ },
+ {
+  "word": "contrary",
+  "sublist": 7,
+  "pos": "adj./n.",
+  "en": "opposite in nature",
+  "zh": "相反的"
+ },
+ {
+  "word": "convert",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to change into another form",
+  "zh": "轉換"
+ },
+ {
+  "word": "couple",
+  "sublist": 7,
+  "pos": "n.",
+  "en": "two people or things together",
+  "zh": "一對；幾個"
+ },
+ {
+  "word": "decade",
+  "sublist": 7,
+  "pos": "n.",
+  "en": "a period of ten years",
+  "zh": "十年"
+ },
+ {
+  "word": "definite",
+  "sublist": 7,
+  "pos": "adj.",
+  "en": "clear and certain",
+  "zh": "明確的；確定的"
+ },
+ {
+  "word": "deny",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to say something is not true; to refuse",
+  "zh": "否認；拒絕"
+ },
+ {
+  "word": "differentiate",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to recognise or show a difference",
+  "zh": "區分；區別"
+ },
+ {
+  "word": "dispose",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to get rid of; to arrange",
+  "zh": "處置；丟棄"
+ },
+ {
+  "word": "dynamic",
+  "sublist": 7,
+  "pos": "adj.",
+  "en": "full of energy and change",
+  "zh": "動態的；有活力的"
+ },
+ {
+  "word": "eliminate",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to remove or get rid of",
+  "zh": "消除；淘汰"
+ },
+ {
+  "word": "empirical",
+  "sublist": 7,
+  "pos": "adj.",
+  "en": "based on observation or experiment",
+  "zh": "經驗的；實證的"
+ },
+ {
+  "word": "equip",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to provide with what is needed",
+  "zh": "裝備；配備"
+ },
+ {
+  "word": "extract",
+  "sublist": 7,
+  "pos": "v./n.",
+  "en": "to take out; a selected part",
+  "zh": "提取；摘錄"
+ },
+ {
+  "word": "file",
+  "sublist": 7,
+  "pos": "n./v.",
+  "en": "a folder of records; to store or submit",
+  "zh": "檔案；歸檔"
+ },
+ {
+  "word": "finite",
+  "sublist": 7,
+  "pos": "adj.",
+  "en": "having limits; not endless",
+  "zh": "有限的"
+ },
+ {
+  "word": "foundation",
+  "sublist": 7,
+  "pos": "n.",
+  "en": "the base; a basis or charity",
+  "zh": "基礎；基金會"
+ },
+ {
+  "word": "globe",
+  "sublist": 7,
+  "pos": "n.",
+  "en": "the world; a round model of Earth",
+  "zh": "地球；球體"
+ },
+ {
+  "word": "grade",
+  "sublist": 7,
+  "pos": "n./v.",
+  "en": "a level or mark; to rank",
+  "zh": "等級；評分"
+ },
+ {
+  "word": "guarantee",
+  "sublist": 7,
+  "pos": "n./v.",
+  "en": "a promise of quality; to promise",
+  "zh": "保證"
+ },
+ {
+  "word": "hierarchy",
+  "sublist": 7,
+  "pos": "n.",
+  "en": "a system ranked by level",
+  "zh": "階層；層級"
+ },
+ {
+  "word": "identical",
+  "sublist": 7,
+  "pos": "adj.",
+  "en": "exactly the same",
+  "zh": "完全相同的"
+ },
+ {
+  "word": "ideology",
+  "sublist": 7,
+  "pos": "n.",
+  "en": "a set of beliefs and ideas",
+  "zh": "意識形態"
+ },
+ {
+  "word": "infer",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to work out from evidence",
+  "zh": "推斷"
+ },
+ {
+  "word": "innovate",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to introduce new ideas or methods",
+  "zh": "創新"
+ },
+ {
+  "word": "insert",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to put something into",
+  "zh": "插入"
+ },
+ {
+  "word": "intervene",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to become involved to change something",
+  "zh": "干預；介入"
+ },
+ {
+  "word": "isolate",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to separate from others",
+  "zh": "隔離；孤立"
+ },
+ {
+  "word": "media",
+  "sublist": 7,
+  "pos": "n.",
+  "en": "means of mass communication",
+  "zh": "媒體"
+ },
+ {
+  "word": "mode",
+  "sublist": 7,
+  "pos": "n.",
+  "en": "a way or manner of doing something",
+  "zh": "模式；方式"
+ },
+ {
+  "word": "paradigm",
+  "sublist": 7,
+  "pos": "n.",
+  "en": "a typical model or pattern",
+  "zh": "範式；典範"
+ },
+ {
+  "word": "phenomenon",
+  "sublist": 7,
+  "pos": "n.",
+  "en": "an observable fact or event",
+  "zh": "現象"
+ },
+ {
+  "word": "priority",
+  "sublist": 7,
+  "pos": "n.",
+  "en": "something treated as most important",
+  "zh": "優先；優先事項"
+ },
+ {
+  "word": "prohibit",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to forbid by law or rule",
+  "zh": "禁止"
+ },
+ {
+  "word": "publication",
+  "sublist": 7,
+  "pos": "n.",
+  "en": "a published work; the act of publishing",
+  "zh": "出版品；出版"
+ },
+ {
+  "word": "quote",
+  "sublist": 7,
+  "pos": "v./n.",
+  "en": "to repeat words from a source",
+  "zh": "引述；報價"
+ },
+ {
+  "word": "release",
+  "sublist": 7,
+  "pos": "v./n.",
+  "en": "to set free or make available",
+  "zh": "釋放；發布"
+ },
+ {
+  "word": "reverse",
+  "sublist": 7,
+  "pos": "v./adj.",
+  "en": "to turn the other way; opposite",
+  "zh": "反轉；相反的"
+ },
+ {
+  "word": "simulate",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to imitate or model something",
+  "zh": "模擬"
+ },
+ {
+  "word": "sole",
+  "sublist": 7,
+  "pos": "adj.",
+  "en": "only; single",
+  "zh": "唯一的"
+ },
+ {
+  "word": "somewhat",
+  "sublist": 7,
+  "pos": "adv.",
+  "en": "to some degree; a little",
+  "zh": "有點；稍微"
+ },
+ {
+  "word": "submit",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to hand in; to yield",
+  "zh": "提交；屈服"
+ },
+ {
+  "word": "successor",
+  "sublist": 7,
+  "pos": "n.",
+  "en": "a person or thing that follows another",
+  "zh": "繼任者；後繼者"
+ },
+ {
+  "word": "survive",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to continue to live or exist",
+  "zh": "存活；倖存"
+ },
+ {
+  "word": "thesis",
+  "sublist": 7,
+  "pos": "n.",
+  "en": "a long essay; a main argument",
+  "zh": "論文；論點"
+ },
+ {
+  "word": "topic",
+  "sublist": 7,
+  "pos": "n.",
+  "en": "a subject of discussion",
+  "zh": "主題"
+ },
+ {
+  "word": "transmit",
+  "sublist": 7,
+  "pos": "v.",
+  "en": "to pass on or send",
+  "zh": "傳送；傳播"
+ },
+ {
+  "word": "ultimate",
+  "sublist": 7,
+  "pos": "adj.",
+  "en": "final or most extreme",
+  "zh": "最終的；極致的"
+ },
+ {
+  "word": "unique",
+  "sublist": 7,
+  "pos": "adj.",
+  "en": "being the only one of its kind",
+  "zh": "獨特的"
+ },
+ {
+  "word": "visible",
+  "sublist": 7,
+  "pos": "adj.",
+  "en": "able to be seen",
+  "zh": "可見的"
+ },
+ {
+  "word": "voluntary",
+  "sublist": 7,
+  "pos": "adj.",
+  "en": "done willingly without being forced",
+  "zh": "自願的"
+ },
+ {
+  "word": "abandon",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to leave or give up completely",
+  "zh": "放棄；遺棄"
+ },
+ {
+  "word": "accompany",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to go with someone or something",
+  "zh": "陪伴；伴隨"
+ },
+ {
+  "word": "accumulate",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to gather or build up over time",
+  "zh": "累積"
+ },
+ {
+  "word": "ambiguous",
+  "sublist": 8,
+  "pos": "adj.",
+  "en": "having more than one possible meaning",
+  "zh": "含糊的；模稜兩可的"
+ },
+ {
+  "word": "append",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to add to the end of something",
+  "zh": "附加"
+ },
+ {
+  "word": "appreciate",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to value; to understand; to rise in value",
+  "zh": "欣賞；領會；增值"
+ },
+ {
+  "word": "arbitrary",
+  "sublist": 8,
+  "pos": "adj.",
+  "en": "based on chance or personal whim",
+  "zh": "任意的；武斷的"
+ },
+ {
+  "word": "automate",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to make a process run by machine",
+  "zh": "自動化"
+ },
+ {
+  "word": "bias",
+  "sublist": 8,
+  "pos": "n.",
+  "en": "an unfair preference or tendency",
+  "zh": "偏見；偏差"
+ },
+ {
+  "word": "chart",
+  "sublist": 8,
+  "pos": "n./v.",
+  "en": "a diagram of information; to record",
+  "zh": "圖表"
+ },
+ {
+  "word": "clarify",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to make clear",
+  "zh": "澄清"
+ },
+ {
+  "word": "commodity",
+  "sublist": 8,
+  "pos": "n.",
+  "en": "a raw material or product for trade",
+  "zh": "商品；大宗物資"
+ },
+ {
+  "word": "complement",
+  "sublist": 8,
+  "pos": "n./v.",
+  "en": "something that completes; to complete",
+  "zh": "補充；互補"
+ },
+ {
+  "word": "conform",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to follow rules or standards",
+  "zh": "順從；符合"
+ },
+ {
+  "word": "contemporary",
+  "sublist": 8,
+  "pos": "adj.",
+  "en": "belonging to the present time",
+  "zh": "當代的"
+ },
+ {
+  "word": "contradict",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to say or be the opposite of",
+  "zh": "反駁；矛盾"
+ },
+ {
+  "word": "crucial",
+  "sublist": 8,
+  "pos": "adj.",
+  "en": "extremely important",
+  "zh": "關鍵的"
+ },
+ {
+  "word": "currency",
+  "sublist": 8,
+  "pos": "n.",
+  "en": "the money used in a country",
+  "zh": "貨幣"
+ },
+ {
+  "word": "denote",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to be a sign of; to mean",
+  "zh": "表示；指稱"
+ },
+ {
+  "word": "detect",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to discover or notice",
+  "zh": "察覺；偵測"
+ },
+ {
+  "word": "deviate",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to move away from a standard",
+  "zh": "偏離"
+ },
+ {
+  "word": "displace",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to force out of position",
+  "zh": "取代；迫使離開"
+ },
+ {
+  "word": "drama",
+  "sublist": 8,
+  "pos": "n.",
+  "en": "a play; exciting events",
+  "zh": "戲劇"
+ },
+ {
+  "word": "eventual",
+  "sublist": 8,
+  "pos": "adj.",
+  "en": "happening at the end of a process",
+  "zh": "最終的"
+ },
+ {
+  "word": "exhibit",
+  "sublist": 8,
+  "pos": "v./n.",
+  "en": "to show publicly; a display",
+  "zh": "展示；展品"
+ },
+ {
+  "word": "exploit",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to use unfairly; to make good use of",
+  "zh": "剝削；利用"
+ },
+ {
+  "word": "fluctuate",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to rise and fall irregularly",
+  "zh": "波動"
+ },
+ {
+  "word": "guideline",
+  "sublist": 8,
+  "pos": "n.",
+  "en": "advice on how to do something",
+  "zh": "指導方針"
+ },
+ {
+  "word": "highlight",
+  "sublist": 8,
+  "pos": "v./n.",
+  "en": "to draw attention to; a key part",
+  "zh": "強調；亮點"
+ },
+ {
+  "word": "implicit",
+  "sublist": 8,
+  "pos": "adj.",
+  "en": "suggested but not directly stated",
+  "zh": "隱含的"
+ },
+ {
+  "word": "induce",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to cause or persuade",
+  "zh": "誘發；促使"
+ },
+ {
+  "word": "inevitable",
+  "sublist": 8,
+  "pos": "adj.",
+  "en": "certain to happen; unavoidable",
+  "zh": "不可避免的"
+ },
+ {
+  "word": "infrastructure",
+  "sublist": 8,
+  "pos": "n.",
+  "en": "basic systems like roads and power",
+  "zh": "基礎設施"
+ },
+ {
+  "word": "inspect",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to look at carefully",
+  "zh": "檢查"
+ },
+ {
+  "word": "intense",
+  "sublist": 8,
+  "pos": "adj.",
+  "en": "very strong or extreme",
+  "zh": "強烈的"
+ },
+ {
+  "word": "manipulate",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to control or handle skilfully or unfairly",
+  "zh": "操縱；操作"
+ },
+ {
+  "word": "minimise",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to reduce to the smallest amount",
+  "zh": "最小化；減至最少"
+ },
+ {
+  "word": "nuclear",
+  "sublist": 8,
+  "pos": "adj.",
+  "en": "relating to atomic energy or the nucleus",
+  "zh": "核能的；核心的"
+ },
+ {
+  "word": "offset",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to balance or counteract",
+  "zh": "抵消"
+ },
+ {
+  "word": "paragraph",
+  "sublist": 8,
+  "pos": "n.",
+  "en": "a section of writing on one idea",
+  "zh": "段落"
+ },
+ {
+  "word": "plus",
+  "sublist": 8,
+  "pos": "prep./n.",
+  "en": "added to; an advantage",
+  "zh": "加；優點"
+ },
+ {
+  "word": "practitioner",
+  "sublist": 8,
+  "pos": "n.",
+  "en": "a person who practises a profession",
+  "zh": "從業者；執業者"
+ },
+ {
+  "word": "predominant",
+  "sublist": 8,
+  "pos": "adj.",
+  "en": "most common or most powerful",
+  "zh": "主要的；占優勢的"
+ },
+ {
+  "word": "prospect",
+  "sublist": 8,
+  "pos": "n.",
+  "en": "a possibility for the future",
+  "zh": "前景；可能性"
+ },
+ {
+  "word": "radical",
+  "sublist": 8,
+  "pos": "adj.",
+  "en": "far-reaching or extreme",
+  "zh": "激進的；根本的"
+ },
+ {
+  "word": "random",
+  "sublist": 8,
+  "pos": "adj.",
+  "en": "without a pattern or plan",
+  "zh": "隨機的"
+ },
+ {
+  "word": "reinforce",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to make stronger",
+  "zh": "加強；強化"
+ },
+ {
+  "word": "restore",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to bring back to an earlier state",
+  "zh": "恢復；修復"
+ },
+ {
+  "word": "revise",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to review and change",
+  "zh": "修訂；複習"
+ },
+ {
+  "word": "schedule",
+  "sublist": 8,
+  "pos": "n./v.",
+  "en": "a plan of times; to plan a time",
+  "zh": "時程表；排定"
+ },
+ {
+  "word": "tense",
+  "sublist": 8,
+  "pos": "adj.",
+  "en": "nervous; tightly stretched",
+  "zh": "緊張的；繃緊的"
+ },
+ {
+  "word": "terminate",
+  "sublist": 8,
+  "pos": "v.",
+  "en": "to bring to an end",
+  "zh": "終止"
+ },
+ {
+  "word": "theme",
+  "sublist": 8,
+  "pos": "n.",
+  "en": "the main subject or idea",
+  "zh": "主題"
+ },
+ {
+  "word": "thereby",
+  "sublist": 8,
+  "pos": "adv.",
+  "en": "by that means; as a result",
+  "zh": "從而；藉此"
+ },
+ {
+  "word": "uniform",
+  "sublist": 8,
+  "pos": "adj./n.",
+  "en": "the same throughout; official clothing",
+  "zh": "一致的；制服"
+ },
+ {
+  "word": "vehicle",
+  "sublist": 8,
+  "pos": "n.",
+  "en": "a machine for transport; a means",
+  "zh": "車輛；載具；媒介"
+ },
+ {
+  "word": "via",
+  "sublist": 8,
+  "pos": "prep.",
+  "en": "by way of; through",
+  "zh": "經由；透過"
+ },
+ {
+  "word": "virtual",
+  "sublist": 8,
+  "pos": "adj.",
+  "en": "almost; existing on a computer",
+  "zh": "幾乎的；虛擬的"
+ },
+ {
+  "word": "visual",
+  "sublist": 8,
+  "pos": "adj.",
+  "en": "relating to sight",
+  "zh": "視覺的"
+ },
+ {
+  "word": "widespread",
+  "sublist": 8,
+  "pos": "adj.",
+  "en": "existing over a large area",
+  "zh": "廣泛的；普遍的"
+ },
+ {
+  "word": "accommodate",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to provide room for; to adapt to",
+  "zh": "容納；遷就"
+ },
+ {
+  "word": "analogy",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "a comparison of similar things",
+  "zh": "類比"
+ },
+ {
+  "word": "anticipate",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to expect or prepare for",
+  "zh": "預期"
+ },
+ {
+  "word": "assure",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to tell confidently; to make certain",
+  "zh": "保證；使放心"
+ },
+ {
+  "word": "attain",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to achieve or reach",
+  "zh": "達到；獲得"
+ },
+ {
+  "word": "behalf",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "in the interest of someone (on behalf of)",
+  "zh": "代表（某人）"
+ },
+ {
+  "word": "bulk",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "the main part; a large mass",
+  "zh": "大部分；大量"
+ },
+ {
+  "word": "cease",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to stop",
+  "zh": "停止"
+ },
+ {
+  "word": "coherent",
+  "sublist": 9,
+  "pos": "adj.",
+  "en": "logical and well organised",
+  "zh": "連貫的；條理清楚的"
+ },
+ {
+  "word": "coincide",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to happen at the same time; to match",
+  "zh": "同時發生；一致"
+ },
+ {
+  "word": "commence",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to begin",
+  "zh": "開始"
+ },
+ {
+  "word": "compatible",
+  "sublist": 9,
+  "pos": "adj.",
+  "en": "able to work or exist together",
+  "zh": "相容的"
+ },
+ {
+  "word": "concurrent",
+  "sublist": 9,
+  "pos": "adj.",
+  "en": "happening at the same time",
+  "zh": "同時發生的"
+ },
+ {
+  "word": "confine",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to keep within limits",
+  "zh": "限制；侷限"
+ },
+ {
+  "word": "controversy",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "public disagreement or argument",
+  "zh": "爭議"
+ },
+ {
+  "word": "converse",
+  "sublist": 9,
+  "pos": "n./adj.",
+  "en": "the opposite",
+  "zh": "相反；相反的"
+ },
+ {
+  "word": "device",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "a tool or piece of equipment",
+  "zh": "裝置；設備"
+ },
+ {
+  "word": "devote",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to give time or effort fully to",
+  "zh": "致力；奉獻"
+ },
+ {
+  "word": "diminish",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to become or make smaller",
+  "zh": "減少；削弱"
+ },
+ {
+  "word": "distort",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to change the true form or meaning",
+  "zh": "扭曲"
+ },
+ {
+  "word": "duration",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "the length of time something lasts",
+  "zh": "持續時間"
+ },
+ {
+  "word": "erode",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to wear away gradually",
+  "zh": "侵蝕"
+ },
+ {
+  "word": "ethic",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "a moral principle or set of values",
+  "zh": "倫理；道德準則"
+ },
+ {
+  "word": "format",
+  "sublist": 9,
+  "pos": "n./v.",
+  "en": "the arrangement or layout",
+  "zh": "格式；編排"
+ },
+ {
+  "word": "found",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to start or establish",
+  "zh": "創立；建立"
+ },
+ {
+  "word": "inherent",
+  "sublist": 9,
+  "pos": "adj.",
+  "en": "existing as a natural part",
+  "zh": "固有的；內在的"
+ },
+ {
+  "word": "insight",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "a clear understanding of something",
+  "zh": "洞察力；見解"
+ },
+ {
+  "word": "integral",
+  "sublist": 9,
+  "pos": "adj.",
+  "en": "necessary as a part of a whole",
+  "zh": "不可或缺的"
+ },
+ {
+  "word": "intermediate",
+  "sublist": 9,
+  "pos": "adj.",
+  "en": "in the middle stage",
+  "zh": "中級的；中間的"
+ },
+ {
+  "word": "manual",
+  "sublist": 9,
+  "pos": "adj./n.",
+  "en": "done by hand; a handbook",
+  "zh": "手動的；手冊"
+ },
+ {
+  "word": "mature",
+  "sublist": 9,
+  "pos": "adj./v.",
+  "en": "fully developed; to ripen",
+  "zh": "成熟的；成熟"
+ },
+ {
+  "word": "mediate",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to help settle a dispute",
+  "zh": "調解"
+ },
+ {
+  "word": "medium",
+  "sublist": 9,
+  "pos": "n./adj.",
+  "en": "a means; middle in size",
+  "zh": "媒介；中等的"
+ },
+ {
+  "word": "military",
+  "sublist": 9,
+  "pos": "adj./n.",
+  "en": "relating to armed forces",
+  "zh": "軍事的；軍隊"
+ },
+ {
+  "word": "minimal",
+  "sublist": 9,
+  "pos": "adj.",
+  "en": "as small as possible",
+  "zh": "極小的；最低限度的"
+ },
+ {
+  "word": "mutual",
+  "sublist": 9,
+  "pos": "adj.",
+  "en": "shared or felt by both sides",
+  "zh": "相互的；共同的"
+ },
+ {
+  "word": "norm",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "a standard or usual pattern",
+  "zh": "常規；規範"
+ },
+ {
+  "word": "overlap",
+  "sublist": 9,
+  "pos": "v./n.",
+  "en": "to cover part of the same area",
+  "zh": "重疊"
+ },
+ {
+  "word": "passive",
+  "sublist": 9,
+  "pos": "adj.",
+  "en": "accepting without resisting; not active",
+  "zh": "被動的"
+ },
+ {
+  "word": "portion",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "a part or share",
+  "zh": "部分；一份"
+ },
+ {
+  "word": "preliminary",
+  "sublist": 9,
+  "pos": "adj.",
+  "en": "coming before the main part",
+  "zh": "初步的；預備的"
+ },
+ {
+  "word": "protocol",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "rules of correct procedure",
+  "zh": "協定；規範"
+ },
+ {
+  "word": "qualitative",
+  "sublist": 9,
+  "pos": "adj.",
+  "en": "relating to quality, not quantity",
+  "zh": "質性的；定性的"
+ },
+ {
+  "word": "refine",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to improve or purify",
+  "zh": "精煉；改進"
+ },
+ {
+  "word": "relax",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to rest; to make less strict",
+  "zh": "放鬆；放寬"
+ },
+ {
+  "word": "restrain",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to hold back or control",
+  "zh": "抑制；約束"
+ },
+ {
+  "word": "revolution",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "a great change; an overthrow of rule",
+  "zh": "革命；變革"
+ },
+ {
+  "word": "rigid",
+  "sublist": 9,
+  "pos": "adj.",
+  "en": "stiff; not able to change",
+  "zh": "僵硬的；嚴格的"
+ },
+ {
+  "word": "route",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "a way taken from one place to another",
+  "zh": "路線"
+ },
+ {
+  "word": "scenario",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "a possible sequence of events",
+  "zh": "情境；設想情況"
+ },
+ {
+  "word": "sphere",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "a round shape; an area of activity",
+  "zh": "球體；領域"
+ },
+ {
+  "word": "subordinate",
+  "sublist": 9,
+  "pos": "adj./n.",
+  "en": "lower in rank; a person of lower rank",
+  "zh": "下屬；從屬的"
+ },
+ {
+  "word": "supplement",
+  "sublist": 9,
+  "pos": "n./v.",
+  "en": "an extra part; to add to",
+  "zh": "補充；補充物"
+ },
+ {
+  "word": "suspend",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to stop temporarily; to hang",
+  "zh": "暫停；懸掛"
+ },
+ {
+  "word": "team",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "a group working together",
+  "zh": "團隊"
+ },
+ {
+  "word": "temporary",
+  "sublist": 9,
+  "pos": "adj.",
+  "en": "lasting only a short time",
+  "zh": "暫時的"
+ },
+ {
+  "word": "trigger",
+  "sublist": 9,
+  "pos": "v./n.",
+  "en": "to cause to start; a cause",
+  "zh": "觸發；引發"
+ },
+ {
+  "word": "unify",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to join into one",
+  "zh": "統一"
+ },
+ {
+  "word": "violate",
+  "sublist": 9,
+  "pos": "v.",
+  "en": "to break a rule or right",
+  "zh": "違反；侵犯"
+ },
+ {
+  "word": "vision",
+  "sublist": 9,
+  "pos": "n.",
+  "en": "the ability to see; a clear plan",
+  "zh": "視力；願景"
+ },
+ {
+  "word": "adjacent",
+  "sublist": 10,
+  "pos": "adj.",
+  "en": "next to or near something",
+  "zh": "鄰近的；毗鄰的"
+ },
+ {
+  "word": "albeit",
+  "sublist": 10,
+  "pos": "conj.",
+  "en": "although; even though",
+  "zh": "雖然；儘管"
+ },
+ {
+  "word": "assemble",
+  "sublist": 10,
+  "pos": "v.",
+  "en": "to gather together or put parts together",
+  "zh": "集合；組裝"
+ },
+ {
+  "word": "collapse",
+  "sublist": 10,
+  "pos": "v./n.",
+  "en": "to fall down or fail suddenly",
+  "zh": "倒塌；崩潰"
+ },
+ {
+  "word": "colleague",
+  "sublist": 10,
+  "pos": "n.",
+  "en": "a person you work with",
+  "zh": "同事"
+ },
+ {
+  "word": "compile",
+  "sublist": 10,
+  "pos": "v.",
+  "en": "to collect and put together",
+  "zh": "彙編；編纂"
+ },
+ {
+  "word": "conceive",
+  "sublist": 10,
+  "pos": "v.",
+  "en": "to form an idea; to imagine",
+  "zh": "構想；想像"
+ },
+ {
+  "word": "convince",
+  "sublist": 10,
+  "pos": "v.",
+  "en": "to make someone believe something",
+  "zh": "說服"
+ },
+ {
+  "word": "depress",
+  "sublist": 10,
+  "pos": "v.",
+  "en": "to make sad; to reduce activity",
+  "zh": "使沮喪；使低迷"
+ },
+ {
+  "word": "encounter",
+  "sublist": 10,
+  "pos": "v./n.",
+  "en": "to meet or face unexpectedly",
+  "zh": "遭遇；遇到"
+ },
+ {
+  "word": "enormous",
+  "sublist": 10,
+  "pos": "adj.",
+  "en": "very large",
+  "zh": "巨大的"
+ },
+ {
+  "word": "forthcoming",
+  "sublist": 10,
+  "pos": "adj.",
+  "en": "about to happen or appear",
+  "zh": "即將到來的"
+ },
+ {
+  "word": "incline",
+  "sublist": 10,
+  "pos": "v./n.",
+  "en": "to lean toward; a slope",
+  "zh": "傾向；傾斜"
+ },
+ {
+  "word": "integrity",
+  "sublist": 10,
+  "pos": "n.",
+  "en": "honesty; the state of being whole",
+  "zh": "正直；完整"
+ },
+ {
+  "word": "intrinsic",
+  "sublist": 10,
+  "pos": "adj.",
+  "en": "belonging naturally to something",
+  "zh": "內在的；固有的"
+ },
+ {
+  "word": "invoke",
+  "sublist": 10,
+  "pos": "v.",
+  "en": "to call on or put into use",
+  "zh": "援引；喚起"
+ },
+ {
+  "word": "levy",
+  "sublist": 10,
+  "pos": "n./v.",
+  "en": "a tax; to impose a tax",
+  "zh": "徵稅；課徵"
+ },
+ {
+  "word": "likewise",
+  "sublist": 10,
+  "pos": "adv.",
+  "en": "in the same way; also",
+  "zh": "同樣地；也"
+ },
+ {
+  "word": "nonetheless",
+  "sublist": 10,
+  "pos": "adv.",
+  "en": "in spite of that; however",
+  "zh": "儘管如此"
+ },
+ {
+  "word": "notwithstanding",
+  "sublist": 10,
+  "pos": "prep.",
+  "en": "in spite of",
+  "zh": "儘管"
+ },
+ {
+  "word": "odd",
+  "sublist": 10,
+  "pos": "adj.",
+  "en": "strange; not even (number)",
+  "zh": "奇怪的；奇數的"
+ },
+ {
+  "word": "ongoing",
+  "sublist": 10,
+  "pos": "adj.",
+  "en": "continuing to happen",
+  "zh": "進行中的；持續的"
+ },
+ {
+  "word": "panel",
+  "sublist": 10,
+  "pos": "n.",
+  "en": "a group of experts; a flat board",
+  "zh": "小組；面板"
+ },
+ {
+  "word": "persist",
+  "sublist": 10,
+  "pos": "v.",
+  "en": "to continue firmly despite difficulty",
+  "zh": "堅持；持續"
+ },
+ {
+  "word": "pose",
+  "sublist": 10,
+  "pos": "v.",
+  "en": "to present (a problem); to position oneself",
+  "zh": "造成；擺姿勢"
+ },
+ {
+  "word": "reluctance",
+  "sublist": 10,
+  "pos": "n.",
+  "en": "unwillingness to do something",
+  "zh": "不情願"
+ },
+ {
+  "word": "so-called",
+  "sublist": 10,
+  "pos": "adj.",
+  "en": "called this but doubtfully so",
+  "zh": "所謂的"
+ },
+ {
+  "word": "straightforward",
+  "sublist": 10,
+  "pos": "adj.",
+  "en": "easy to understand; honest",
+  "zh": "簡單明瞭的；直率的"
+ },
+ {
+  "word": "undergo",
+  "sublist": 10,
+  "pos": "v.",
+  "en": "to experience or be subjected to",
+  "zh": "經歷；接受"
+ },
+ {
+  "word": "whereby",
+  "sublist": 10,
+  "pos": "adv.",
+  "en": "by which; through which",
+  "zh": "藉此；憑藉"
+ }
+]

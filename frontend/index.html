@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AWL 練習工具</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>AWL 學術單字練習</h1>
+    <p class="subtitle">聽發音 → 拼出單字 → 選正確定義。寫錯或選錯的會自動再練一次。</p>
+  </header>
+
+  <!-- ============ Setup / start screen ============ -->
+  <section id="setup" class="card">
+    <h2>選擇練習範圍</h2>
+    <div class="field">
+      <label for="sublist-select">Sublist</label>
+      <select id="sublist-select">
+        <option value="all">全部 (570 字)</option>
+      </select>
+    </div>
+    <div class="field">
+      <label><input type="checkbox" id="shuffle" checked /> 隨機順序</label>
+    </div>
+    <div class="field">
+      <label><input type="checkbox" id="resume-wrong" /> 只練上次的錯題</label>
+      <span id="wrong-count-hint" class="hint"></span>
+    </div>
+    <button id="start-btn" class="primary">開始練習</button>
+    <button id="clear-progress" class="ghost">清除所有記錄</button>
+  </section>
+
+  <!-- ============ Practice screen ============ -->
+  <section id="practice" class="card hidden">
+    <div class="progress-bar">
+      <div id="progress-fill"></div>
+    </div>
+    <div class="meta-row">
+      <span id="position-label">1 / 60</span>
+      <span id="round-label"></span>
+      <span id="sublist-label"></span>
+    </div>
+
+    <!-- Step 1: listen + spell -->
+    <div id="step-spell">
+      <p class="instruction">第 1 步：聽發音，拼出你聽到的單字</p>
+      <button id="play-btn" class="audio-btn">🔊 播放發音</button>
+      <button id="slow-btn" class="audio-btn ghost">🐢 慢速</button>
+      <form id="spell-form" autocomplete="off">
+        <input type="text" id="spell-input" placeholder="在此輸入單字…"
+               autocapitalize="off" autocorrect="off" spellcheck="false" />
+        <button type="submit" class="primary">送出</button>
+      </form>
+      <p id="spell-feedback" class="feedback"></p>
+    </div>
+
+    <!-- Step 2: choose definition -->
+    <div id="step-define" class="hidden">
+      <p class="instruction">第 2 步：選出 <strong id="define-word"></strong> 的正確定義</p>
+      <button id="play-btn-2" class="audio-btn ghost">🔊 再聽一次</button>
+      <div id="choices"></div>
+      <p id="define-feedback" class="feedback"></p>
+    </div>
+
+    <button id="next-btn" class="primary hidden">下一個 →</button>
+    <button id="quit-btn" class="ghost">結束並回到首頁</button>
+  </section>
+
+  <!-- ============ Summary screen ============ -->
+  <section id="summary" class="card hidden">
+    <h2>本輪完成！</h2>
+    <p id="summary-text"></p>
+    <div id="wrong-list"></div>
+    <button id="retry-wrong" class="primary hidden">再練錯題</button>
+    <button id="back-home" class="ghost">回到首頁</button>
+  </section>
+
+  <footer>
+    <span id="tts-status" class="tts-status">發音來源：偵測中…</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

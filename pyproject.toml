@@ -1,0 +1,22 @@
+[project]
+name = "awl-practice-tool"
+version = "0.1.0"
+description = "AWL (Academic Word List) practice web app: listen, spell, then choose the correct EN+ZH definition; wrong words are re-practised. TTS via Hugging Face SpeechT5."
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    # Web server
+    "fastapi>=0.110",
+    "uvicorn[standard]>=0.29",
+    # Hugging Face open-source TTS (SpeechT5) stack
+    "transformers>=4.40",
+    "torch>=2.1",
+    "datasets>=2.18",
+    "soundfile>=0.12",
+    "sentencepiece>=0.1.99",
+]
+
+# This is an application, not a library: uv just manages the virtual env
+# and dependencies, it does not build/install the project itself.
+[tool.uv]
+package = false

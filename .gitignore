@@ -1,0 +1,13 @@
+# uv / virtual env
+.venv/
+__pycache__/
+*.pyc
+
+# TTS audio cache + downloaded models (auto-generated / large)
+cache/
+# ...but keep the explanatory note for the manual-model folder
+!cache/model/
+!cache/model/README.md
+
+# Hugging Face model cache (if set locally)
+.cache/
