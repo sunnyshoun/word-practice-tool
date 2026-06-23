@@ -1,19 +1,16 @@
 [project]
 name = "word-practice-tool"
 version = "0.1.0"
-description = "Word practice web app: listen, spell, then choose the correct meaning; wrong words are re-practised. Supports multiple word sets and languages (AWL English built in, Japanese etc. extensible). TTS via Hugging Face SpeechT5."
+description = "Word practice web app: listen, spell, then choose the correct meaning; wrong words are re-practised. Supports multiple word sets and languages (AWL English built in, Japanese etc. extensible). TTS via Kokoro-82M."
 readme = "README.md"
 requires-python = ">=3.10,<3.13"
 dependencies = [
     # Web server
     "fastapi>=0.110",
     "uvicorn[standard]>=0.29",
-    # Hugging Face open-source TTS (SpeechT5) stack
-    "transformers>=4.40",
-    "torch>=2.1",
-    "datasets>=2.18",
+    # Open-source TTS: Kokoro-82M (pulls in torch / transformers / misaki[en])
+    "kokoro>=0.9.4",
     "soundfile>=0.12",
-    "sentencepiece>=0.1.99",
 ]
 
 # This is an application, not a library: uv just manages the virtual env

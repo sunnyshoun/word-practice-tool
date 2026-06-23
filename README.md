@@ -8,7 +8,7 @@
 ## 練習流程
 
 1. **選單字表** — 從下拉選單挑選要練習的單字表（例如 AWL、日文…）
-2. **聽發音** — 英文用 Hugging Face 開源 TTS 模型（SpeechT5）；其他語言用瀏覽器語音
+2. **聽發音** — 英文用開源 TTS 模型（Kokoro-82M）；其他語言用瀏覽器語音
 3. **拼寫單字** — 聽完後輸入你聽到的單字
 4. **選定義** — 拼完後，從選項中選出正確的定義（主要釋義 + 補充說明）
 5. **錯題重練** — 拼錯或選錯的單字會被記錄，整輪結束後自動再練一次，直到全部答對
@@ -16,7 +16,7 @@
 ## 功能
 
 - **多單字表**：把資料夾丟進 `data/datasets/` 就會自動出現，無需改程式
-- **多語言**：每個單字表可設定語言；英文用後端 SpeechT5，其他語言（如日文 `ja-JP`）用瀏覽器語音
+- **多語言**：每個單字表可設定語言；英文用後端 Kokoro，其他語言（如日文 `ja-JP`）用瀏覽器語音
 - 可選擇練習特定分組（如 AWL 的 Sublist）或全部
 - 進度與錯題記錄存在瀏覽器 `localStorage`，**依單字表分開記錄**，關掉再開仍保留
 - TTS 語音在後端快取，第二次聽同一個字不需重新合成
@@ -28,7 +28,7 @@
 word-practice-tool/
 ├── backend/
 │   ├── app.py            # FastAPI：掃描單字表、單字 API、依語言合成 TTS
-│   └── tts.py            # Hugging Face SpeechT5 封裝（依語言切換引擎）
+│   └── tts.py            # Kokoro-82M 封裝（依語言切換引擎）
 ├── data/
 │   ├── awl_headwords.json    # AWL 權威字表（建資料用）
 │   ├── build_dataset.py      # 由字表 + 定義產生 awl 單字表
@@ -76,7 +76,7 @@ uv run python backend/app.py
 
 > uv 會自動依 `.python-version` 取得 Python 3.12，並依 `uv.lock` 安裝鎖定版本，不需要先手動建立 venv。
 >
-> 第一次呼叫發音時，後端會再從 Hugging Face 下載 SpeechT5 模型，請耐心等待。
+> 第一次呼叫發音時，後端會再從 Hugging Face 下載 Kokoro-82M 模型，請耐心等待。
 > 下載完成後模型會快取在本機，之後啟動很快。
 
 ### 常用 uv 指令
@@ -139,49 +139,33 @@ uv export -o requirements.txt # 需要 pip 格式時，匯出 requirements.txt
 
 ### 各語言的發音
 
-- **英文 (`en-`)**：使用後端 Hugging Face SpeechT5 模型，語音較自然並會快取。
+- **英文 (`en-`)**：使用後端 Kokoro-82M 模型，語音較自然並會快取。
 - **其他語言（日文等）**：目前由**瀏覽器內建語音**負責（需作業系統有該語言的語音；
   Windows 可在「設定 → 時間與語言 → 語音」加裝日文語音）。
-- 想為日文等語言加上**後端模型**？在 `backend/tts.py` 的語言分派處新增一個引擎即可
-  （`synthesize_wav` 依 `lang` 切換，目前只實作英文，其餘會自動退回瀏覽器語音）。
+- 想為日文等語言加上**後端模型**？Kokoro 本身支援多語言，在 `backend/tts.py` 的
+  `LANG_CONFIG` 取消對應語言的註解即可（如日文 `"ja": ("j", "jf_alpha")`，需另外
+  安裝 g2p 套件 `uv add "misaki[ja]"`）。未設定或載入失敗的語言會自動退回瀏覽器語音。
 
 ## TTS 模型
 
-預設使用（全部開源，可從 Hugging Face 下載）：
+預設使用 [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M)（開源，可從 Hugging Face 下載）：
 
-- `microsoft/speecht5_tts`（文字轉語音）
-- `microsoft/speecht5_hifigan`（vocoder）
-- `Matthijs/cmu-arctic-xvectors`（語者嵌入）
+- `hexgrad/Kokoro-82M`（文字轉語音，82M 參數，多語者多語言）
 
-可在 `backend/tts.py` 更換為其他模型。
+透過官方 `kokoro` Python 套件（`KPipeline`）驅動，輸出 24 kHz 語音。
+預設英文語者為 `af_heart`，可在 `backend/tts.py` 的 `LANG_CONFIG` 更換語者或新增語言。
 
 ### 模型下載位置
 
-所有模型與語者嵌入資料都會下載到專案內的：
+模型會下載到專案內的：
 
 ```
 cache/model/
-├── hub/        # 透過 Hub 下載的模型快取
-└── datasets/   # 語者嵌入 (cmu-arctic-xvectors) 快取
+└── hub/        # 透過 Hub 下載的模型快取
 ```
 
-程式已將 `HF_HOME` / `HF_HUB_CACHE` / `HF_DATASETS_CACHE` 指到這個資料夾，
+程式已將 `HF_HOME` / `HF_HUB_CACHE` 指到這個資料夾，
 所以不會污染你系統預設的 `~/.cache/huggingface`。
 
-### 手動放入模型（離線使用）
-
-如果你已經有模型檔案（例如在無網路環境），可以手動把模型資料夾放到：
-
-```
-cache/model/speecht5_tts/        # 放 microsoft/speecht5_tts 的檔案
-cache/model/speecht5_hifigan/    # 放 microsoft/speecht5_hifigan 的檔案
-```
-
-只要該資料夾存在且非空，程式就會**直接從本地載入、不再連線下載**。
-資料夾內需包含模型本身的檔案，例如 `config.json`、`model.safetensors`
-（或 `pytorch_model.bin`）、以及 processor 相關檔案。
-
-> 取得方式範例：
-> `huggingface-cli download microsoft/speecht5_tts --local-dir cache/model/speecht5_tts`
->
-> 對應的本地資料夾名稱定義在 `backend/tts.py` 的 `LOCAL_DIRS`，可自行調整。
+> 第一次合成英文時，`kokoro` 會額外下載 spaCy 的英文 g2p 模型（`en_core_web_sm`）。
+> 部分罕見單字會用到 `espeak-ng` 作為發音後援；若系統未安裝，常見單字仍可正常合成。
