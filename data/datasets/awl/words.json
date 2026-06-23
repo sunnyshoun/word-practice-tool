@@ -1,0 +1,3422 @@
+[
+ {
+  "word": "analyse",
+  "group": "Sublist 1",
+  "primary": "分析",
+  "secondary": "v. to examine something in detail"
+ },
+ {
+  "word": "approach",
+  "group": "Sublist 1",
+  "primary": "方法；接近",
+  "secondary": "n./v. a way of dealing with something; to come near"
+ },
+ {
+  "word": "area",
+  "group": "Sublist 1",
+  "primary": "區域；領域",
+  "secondary": "n. a part of a place, subject, or range"
+ },
+ {
+  "word": "assess",
+  "group": "Sublist 1",
+  "primary": "評估",
+  "secondary": "v. to judge the quality or value of something"
+ },
+ {
+  "word": "assume",
+  "group": "Sublist 1",
+  "primary": "假定；認為",
+  "secondary": "v. to accept something as true without proof"
+ },
+ {
+  "word": "authority",
+  "group": "Sublist 1",
+  "primary": "權威；當局",
+  "secondary": "n. the power to give orders; an official body"
+ },
+ {
+  "word": "available",
+  "group": "Sublist 1",
+  "primary": "可取得的；可用的",
+  "secondary": "adj. able to be used or obtained"
+ },
+ {
+  "word": "benefit",
+  "group": "Sublist 1",
+  "primary": "利益；得益",
+  "secondary": "n./v. an advantage; to gain an advantage"
+ },
+ {
+  "word": "concept",
+  "group": "Sublist 1",
+  "primary": "概念",
+  "secondary": "n. an abstract idea"
+ },
+ {
+  "word": "consist",
+  "group": "Sublist 1",
+  "primary": "由…組成",
+  "secondary": "v. to be made up of something"
+ },
+ {
+  "word": "constitute",
+  "group": "Sublist 1",
+  "primary": "構成",
+  "secondary": "v. to form or make up something"
+ },
+ {
+  "word": "context",
+  "group": "Sublist 1",
+  "primary": "背景；脈絡",
+  "secondary": "n. the situation in which something happens"
+ },
+ {
+  "word": "contract",
+  "group": "Sublist 1",
+  "primary": "合約；收縮",
+  "secondary": "n./v. a formal agreement; to become smaller"
+ },
+ {
+  "word": "create",
+  "group": "Sublist 1",
+  "primary": "創造",
+  "secondary": "v. to make something new"
+ },
+ {
+  "word": "data",
+  "group": "Sublist 1",
+  "primary": "資料；數據",
+  "secondary": "n. facts or information used for analysis"
+ },
+ {
+  "word": "define",
+  "group": "Sublist 1",
+  "primary": "定義",
+  "secondary": "v. to state the exact meaning of something"
+ },
+ {
+  "word": "derive",
+  "group": "Sublist 1",
+  "primary": "衍生；得自",
+  "secondary": "v. to obtain something from a source"
+ },
+ {
+  "word": "distribute",
+  "group": "Sublist 1",
+  "primary": "分配；分布",
+  "secondary": "v. to share or spread out among people"
+ },
+ {
+  "word": "economy",
+  "group": "Sublist 1",
+  "primary": "經濟",
+  "secondary": "n. the system of money and trade of a place"
+ },
+ {
+  "word": "environment",
+  "group": "Sublist 1",
+  "primary": "環境",
+  "secondary": "n. the surroundings or conditions one lives in"
+ },
+ {
+  "word": "establish",
+  "group": "Sublist 1",
+  "primary": "建立",
+  "secondary": "v. to set up or start something firmly"
+ },
+ {
+  "word": "estimate",
+  "group": "Sublist 1",
+  "primary": "估計",
+  "secondary": "n./v. an approximate judgement; to judge roughly"
+ },
+ {
+  "word": "evident",
+  "group": "Sublist 1",
+  "primary": "明顯的",
+  "secondary": "adj. clear and easily seen or understood"
+ },
+ {
+  "word": "export",
+  "group": "Sublist 1",
+  "primary": "出口",
+  "secondary": "n./v. to send goods abroad to sell"
+ },
+ {
+  "word": "factor",
+  "group": "Sublist 1",
+  "primary": "因素",
+  "secondary": "n. one thing that influences a result"
+ },
+ {
+  "word": "finance",
+  "group": "Sublist 1",
+  "primary": "財務；資助",
+  "secondary": "n./v. the management of money; to provide money"
+ },
+ {
+  "word": "formula",
+  "group": "Sublist 1",
+  "primary": "公式；方法",
+  "secondary": "n. a fixed method or mathematical rule"
+ },
+ {
+  "word": "function",
+  "group": "Sublist 1",
+  "primary": "功能；運作",
+  "secondary": "n./v. a purpose or role; to work or operate"
+ },
+ {
+  "word": "identify",
+  "group": "Sublist 1",
+  "primary": "辨識；確認",
+  "secondary": "v. to recognise or name something"
+ },
+ {
+  "word": "income",
+  "group": "Sublist 1",
+  "primary": "收入",
+  "secondary": "n. money received from work or investment"
+ },
+ {
+  "word": "indicate",
+  "group": "Sublist 1",
+  "primary": "指出；顯示",
+  "secondary": "v. to show or point out something"
+ },
+ {
+  "word": "individual",
+  "group": "Sublist 1",
+  "primary": "個人；個別的",
+  "secondary": "n./adj. a single person; relating to one person"
+ },
+ {
+  "word": "interpret",
+  "group": "Sublist 1",
+  "primary": "詮釋；解讀",
+  "secondary": "v. to explain the meaning of something"
+ },
+ {
+  "word": "involve",
+  "group": "Sublist 1",
+  "primary": "涉及；包含",
+  "secondary": "v. to include or require as a part"
+ },
+ {
+  "word": "issue",
+  "group": "Sublist 1",
+  "primary": "議題；發布",
+  "secondary": "n./v. an important topic; to give out officially"
+ },
+ {
+  "word": "labour",
+  "group": "Sublist 1",
+  "primary": "勞動；勞力",
+  "secondary": "n./v. physical work; to work hard"
+ },
+ {
+  "word": "legal",
+  "group": "Sublist 1",
+  "primary": "合法的；法律的",
+  "secondary": "adj. allowed by or relating to the law"
+ },
+ {
+  "word": "legislate",
+  "group": "Sublist 1",
+  "primary": "立法",
+  "secondary": "v. to make laws"
+ },
+ {
+  "word": "major",
+  "group": "Sublist 1",
+  "primary": "主要的；重大的",
+  "secondary": "adj. large or important"
+ },
+ {
+  "word": "method",
+  "group": "Sublist 1",
+  "primary": "方法",
+  "secondary": "n. a particular way of doing something"
+ },
+ {
+  "word": "occur",
+  "group": "Sublist 1",
+  "primary": "發生",
+  "secondary": "v. to happen or take place"
+ },
+ {
+  "word": "percent",
+  "group": "Sublist 1",
+  "primary": "百分比",
+  "secondary": "n. one part in every hundred"
+ },
+ {
+  "word": "period",
+  "group": "Sublist 1",
+  "primary": "時期；期間",
+  "secondary": "n. a length of time"
+ },
+ {
+  "word": "policy",
+  "group": "Sublist 1",
+  "primary": "政策",
+  "secondary": "n. a plan or set of rules of action"
+ },
+ {
+  "word": "principle",
+  "group": "Sublist 1",
+  "primary": "原則",
+  "secondary": "n. a basic truth or rule of behaviour"
+ },
+ {
+  "word": "proceed",
+  "group": "Sublist 1",
+  "primary": "繼續進行",
+  "secondary": "v. to continue or go forward"
+ },
+ {
+  "word": "process",
+  "group": "Sublist 1",
+  "primary": "過程；處理",
+  "secondary": "n./v. a series of actions; to deal with"
+ },
+ {
+  "word": "require",
+  "group": "Sublist 1",
+  "primary": "需要；要求",
+  "secondary": "v. to need something or make it necessary"
+ },
+ {
+  "word": "research",
+  "group": "Sublist 1",
+  "primary": "研究",
+  "secondary": "n./v. careful study to discover facts"
+ },
+ {
+  "word": "respond",
+  "group": "Sublist 1",
+  "primary": "回應",
+  "secondary": "v. to react or answer"
+ },
+ {
+  "word": "role",
+  "group": "Sublist 1",
+  "primary": "角色；作用",
+  "secondary": "n. the part or function someone has"
+ },
+ {
+  "word": "section",
+  "group": "Sublist 1",
+  "primary": "部分；段落",
+  "secondary": "n. one part of something larger"
+ },
+ {
+  "word": "sector",
+  "group": "Sublist 1",
+  "primary": "部門；領域",
+  "secondary": "n. a distinct part of an economy or society"
+ },
+ {
+  "word": "significant",
+  "group": "Sublist 1",
+  "primary": "重要的；顯著的",
+  "secondary": "adj. important or large enough to matter"
+ },
+ {
+  "word": "similar",
+  "group": "Sublist 1",
+  "primary": "相似的",
+  "secondary": "adj. alike but not exactly the same"
+ },
+ {
+  "word": "source",
+  "group": "Sublist 1",
+  "primary": "來源",
+  "secondary": "n. the place something comes from"
+ },
+ {
+  "word": "specific",
+  "group": "Sublist 1",
+  "primary": "具體的；特定的",
+  "secondary": "adj. clearly defined or particular"
+ },
+ {
+  "word": "structure",
+  "group": "Sublist 1",
+  "primary": "結構；組織",
+  "secondary": "n./v. the way parts are arranged; to organise"
+ },
+ {
+  "word": "theory",
+  "group": "Sublist 1",
+  "primary": "理論",
+  "secondary": "n. an idea used to explain something"
+ },
+ {
+  "word": "vary",
+  "group": "Sublist 1",
+  "primary": "變化；不同",
+  "secondary": "v. to be different or change"
+ },
+ {
+  "word": "achieve",
+  "group": "Sublist 2",
+  "primary": "達成",
+  "secondary": "v. to succeed in doing something"
+ },
+ {
+  "word": "acquire",
+  "group": "Sublist 2",
+  "primary": "獲得",
+  "secondary": "v. to get or gain something"
+ },
+ {
+  "word": "administrate",
+  "group": "Sublist 2",
+  "primary": "管理；行政",
+  "secondary": "v. to manage or run an organisation"
+ },
+ {
+  "word": "affect",
+  "group": "Sublist 2",
+  "primary": "影響",
+  "secondary": "v. to have an influence on something"
+ },
+ {
+  "word": "appropriate",
+  "group": "Sublist 2",
+  "primary": "適當的",
+  "secondary": "adj. suitable for a situation"
+ },
+ {
+  "word": "aspect",
+  "group": "Sublist 2",
+  "primary": "方面；層面",
+  "secondary": "n. a particular part or feature"
+ },
+ {
+  "word": "assist",
+  "group": "Sublist 2",
+  "primary": "協助",
+  "secondary": "v. to help someone"
+ },
+ {
+  "word": "category",
+  "group": "Sublist 2",
+  "primary": "類別",
+  "secondary": "n. a group of things with shared features"
+ },
+ {
+  "word": "chapter",
+  "group": "Sublist 2",
+  "primary": "章節",
+  "secondary": "n. a main division of a book"
+ },
+ {
+  "word": "commission",
+  "group": "Sublist 2",
+  "primary": "委員會；委託",
+  "secondary": "n./v. an official group; to order work"
+ },
+ {
+  "word": "community",
+  "group": "Sublist 2",
+  "primary": "社區；社群",
+  "secondary": "n. a group of people living in one area"
+ },
+ {
+  "word": "complex",
+  "group": "Sublist 2",
+  "primary": "複雜的",
+  "secondary": "adj. having many connected parts; complicated"
+ },
+ {
+  "word": "compute",
+  "group": "Sublist 2",
+  "primary": "計算",
+  "secondary": "v. to calculate something"
+ },
+ {
+  "word": "conclude",
+  "group": "Sublist 2",
+  "primary": "得出結論；結束",
+  "secondary": "v. to decide or end after thought"
+ },
+ {
+  "word": "conduct",
+  "group": "Sublist 2",
+  "primary": "進行；行為",
+  "secondary": "v./n. to carry out; behaviour"
+ },
+ {
+  "word": "consequent",
+  "group": "Sublist 2",
+  "primary": "隨之發生的",
+  "secondary": "adj. happening as a result"
+ },
+ {
+  "word": "construct",
+  "group": "Sublist 2",
+  "primary": "建造；構建",
+  "secondary": "v. to build or form something"
+ },
+ {
+  "word": "consume",
+  "group": "Sublist 2",
+  "primary": "消耗；消費",
+  "secondary": "v. to use up or eat/drink"
+ },
+ {
+  "word": "credit",
+  "group": "Sublist 2",
+  "primary": "讚揚；信用；賒帳",
+  "secondary": "n. praise; an arrangement to pay later"
+ },
+ {
+  "word": "culture",
+  "group": "Sublist 2",
+  "primary": "文化",
+  "secondary": "n. the ideas and customs of a society"
+ },
+ {
+  "word": "design",
+  "group": "Sublist 2",
+  "primary": "設計",
+  "secondary": "n./v. a plan or pattern; to plan"
+ },
+ {
+  "word": "distinct",
+  "group": "Sublist 2",
+  "primary": "明顯不同的",
+  "secondary": "adj. clearly separate or different"
+ },
+ {
+  "word": "element",
+  "group": "Sublist 2",
+  "primary": "元素；要素",
+  "secondary": "n. a basic part of something"
+ },
+ {
+  "word": "equate",
+  "group": "Sublist 2",
+  "primary": "等同；視為相等",
+  "secondary": "v. to treat as equal or the same"
+ },
+ {
+  "word": "evaluate",
+  "group": "Sublist 2",
+  "primary": "評價",
+  "secondary": "v. to judge the value of something"
+ },
+ {
+  "word": "feature",
+  "group": "Sublist 2",
+  "primary": "特徵；以…為特色",
+  "secondary": "n./v. an important part; to give prominence"
+ },
+ {
+  "word": "final",
+  "group": "Sublist 2",
+  "primary": "最終的",
+  "secondary": "adj. coming at the end; last"
+ },
+ {
+  "word": "focus",
+  "group": "Sublist 2",
+  "primary": "焦點；集中",
+  "secondary": "n./v. the centre of attention; to concentrate"
+ },
+ {
+  "word": "impact",
+  "group": "Sublist 2",
+  "primary": "影響；衝擊",
+  "secondary": "n./v. a strong effect; to affect strongly"
+ },
+ {
+  "word": "injure",
+  "group": "Sublist 2",
+  "primary": "傷害",
+  "secondary": "v. to harm or hurt"
+ },
+ {
+  "word": "institute",
+  "group": "Sublist 2",
+  "primary": "機構；設立",
+  "secondary": "n./v. an organisation; to set up"
+ },
+ {
+  "word": "invest",
+  "group": "Sublist 2",
+  "primary": "投資",
+  "secondary": "v. to put money in to gain a return"
+ },
+ {
+  "word": "item",
+  "group": "Sublist 2",
+  "primary": "項目",
+  "secondary": "n. a single thing in a list or set"
+ },
+ {
+  "word": "journal",
+  "group": "Sublist 2",
+  "primary": "期刊；日誌",
+  "secondary": "n. an academic magazine or a diary"
+ },
+ {
+  "word": "maintain",
+  "group": "Sublist 2",
+  "primary": "維持；主張",
+  "secondary": "v. to keep in the same state; to assert"
+ },
+ {
+  "word": "normal",
+  "group": "Sublist 2",
+  "primary": "正常的",
+  "secondary": "adj. usual, ordinary, or expected"
+ },
+ {
+  "word": "obtain",
+  "group": "Sublist 2",
+  "primary": "取得",
+  "secondary": "v. to get something"
+ },
+ {
+  "word": "participate",
+  "group": "Sublist 2",
+  "primary": "參與",
+  "secondary": "v. to take part in something"
+ },
+ {
+  "word": "perceive",
+  "group": "Sublist 2",
+  "primary": "感知；察覺",
+  "secondary": "v. to notice or understand something"
+ },
+ {
+  "word": "positive",
+  "group": "Sublist 2",
+  "primary": "正面的；肯定的",
+  "secondary": "adj. good, hopeful, or certain"
+ },
+ {
+  "word": "potential",
+  "group": "Sublist 2",
+  "primary": "潛力；潛在的",
+  "secondary": "n./adj. possible ability; capable of developing"
+ },
+ {
+  "word": "previous",
+  "group": "Sublist 2",
+  "primary": "先前的",
+  "secondary": "adj. coming before in time"
+ },
+ {
+  "word": "primary",
+  "group": "Sublist 2",
+  "primary": "主要的；初級的",
+  "secondary": "adj. main or most important; first"
+ },
+ {
+  "word": "purchase",
+  "group": "Sublist 2",
+  "primary": "購買",
+  "secondary": "n./v. something bought; to buy"
+ },
+ {
+  "word": "range",
+  "group": "Sublist 2",
+  "primary": "範圍；變動於",
+  "secondary": "n./v. a set of limits; to vary between"
+ },
+ {
+  "word": "region",
+  "group": "Sublist 2",
+  "primary": "地區",
+  "secondary": "n. an area of land or space"
+ },
+ {
+  "word": "regulate",
+  "group": "Sublist 2",
+  "primary": "管制；調節",
+  "secondary": "v. to control by rules"
+ },
+ {
+  "word": "relevant",
+  "group": "Sublist 2",
+  "primary": "相關的",
+  "secondary": "adj. connected with the matter at hand"
+ },
+ {
+  "word": "reside",
+  "group": "Sublist 2",
+  "primary": "居住",
+  "secondary": "v. to live in a place"
+ },
+ {
+  "word": "resource",
+  "group": "Sublist 2",
+  "primary": "資源",
+  "secondary": "n. a supply of something useful"
+ },
+ {
+  "word": "restrict",
+  "group": "Sublist 2",
+  "primary": "限制",
+  "secondary": "v. to limit or keep within bounds"
+ },
+ {
+  "word": "secure",
+  "group": "Sublist 2",
+  "primary": "安全的；確保",
+  "secondary": "adj./v. safe; to make safe or obtain"
+ },
+ {
+  "word": "seek",
+  "group": "Sublist 2",
+  "primary": "尋求",
+  "secondary": "v. to try to find or get"
+ },
+ {
+  "word": "select",
+  "group": "Sublist 2",
+  "primary": "選擇",
+  "secondary": "v. to choose carefully"
+ },
+ {
+  "word": "site",
+  "group": "Sublist 2",
+  "primary": "地點；場址",
+  "secondary": "n. a place where something is located"
+ },
+ {
+  "word": "strategy",
+  "group": "Sublist 2",
+  "primary": "策略",
+  "secondary": "n. a plan to achieve a goal"
+ },
+ {
+  "word": "survey",
+  "group": "Sublist 2",
+  "primary": "調查",
+  "secondary": "n./v. a study of opinions; to examine"
+ },
+ {
+  "word": "text",
+  "group": "Sublist 2",
+  "primary": "文本；文字",
+  "secondary": "n. written words"
+ },
+ {
+  "word": "tradition",
+  "group": "Sublist 2",
+  "primary": "傳統",
+  "secondary": "n. a long-established custom"
+ },
+ {
+  "word": "transfer",
+  "group": "Sublist 2",
+  "primary": "轉移；轉讓",
+  "secondary": "v./n. to move from one place to another"
+ },
+ {
+  "word": "alternative",
+  "group": "Sublist 3",
+  "primary": "替代方案；另類的",
+  "secondary": "n./adj. another choice; available as another option"
+ },
+ {
+  "word": "circumstance",
+  "group": "Sublist 3",
+  "primary": "情況；情形",
+  "secondary": "n. a condition or fact affecting a situation"
+ },
+ {
+  "word": "comment",
+  "group": "Sublist 3",
+  "primary": "評論",
+  "secondary": "n./v. a remark; to express an opinion"
+ },
+ {
+  "word": "compensate",
+  "group": "Sublist 3",
+  "primary": "補償",
+  "secondary": "v. to make up for something; to pay back"
+ },
+ {
+  "word": "component",
+  "group": "Sublist 3",
+  "primary": "組成部分；零件",
+  "secondary": "n. a part of a larger whole"
+ },
+ {
+  "word": "consent",
+  "group": "Sublist 3",
+  "primary": "同意；許可",
+  "secondary": "n./v. permission; to agree"
+ },
+ {
+  "word": "considerable",
+  "group": "Sublist 3",
+  "primary": "相當大的",
+  "secondary": "adj. large in amount or importance"
+ },
+ {
+  "word": "constant",
+  "group": "Sublist 3",
+  "primary": "持續的；不變的",
+  "secondary": "adj. happening all the time; unchanging"
+ },
+ {
+  "word": "constrain",
+  "group": "Sublist 3",
+  "primary": "約束；限制",
+  "secondary": "v. to limit or force"
+ },
+ {
+  "word": "contribute",
+  "group": "Sublist 3",
+  "primary": "貢獻；促成",
+  "secondary": "v. to give a part toward something"
+ },
+ {
+  "word": "convene",
+  "group": "Sublist 3",
+  "primary": "召集；集會",
+  "secondary": "v. to call people together for a meeting"
+ },
+ {
+  "word": "coordinate",
+  "group": "Sublist 3",
+  "primary": "協調",
+  "secondary": "v. to organise parts to work together"
+ },
+ {
+  "word": "core",
+  "group": "Sublist 3",
+  "primary": "核心",
+  "secondary": "n./adj. the central or most important part"
+ },
+ {
+  "word": "corporate",
+  "group": "Sublist 3",
+  "primary": "公司的；法人的",
+  "secondary": "adj. relating to a large company"
+ },
+ {
+  "word": "correspond",
+  "group": "Sublist 3",
+  "primary": "相符；通信",
+  "secondary": "v. to match; to exchange letters"
+ },
+ {
+  "word": "criteria",
+  "group": "Sublist 3",
+  "primary": "標準；準則",
+  "secondary": "n. standards used to judge something"
+ },
+ {
+  "word": "deduce",
+  "group": "Sublist 3",
+  "primary": "推論",
+  "secondary": "v. to reach a conclusion by reasoning"
+ },
+ {
+  "word": "demonstrate",
+  "group": "Sublist 3",
+  "primary": "證明；示範；示威",
+  "secondary": "v. to show clearly; to protest"
+ },
+ {
+  "word": "document",
+  "group": "Sublist 3",
+  "primary": "文件；記錄",
+  "secondary": "n./v. an official paper; to record"
+ },
+ {
+  "word": "dominate",
+  "group": "Sublist 3",
+  "primary": "支配；主導",
+  "secondary": "v. to have control or be most important"
+ },
+ {
+  "word": "emphasis",
+  "group": "Sublist 3",
+  "primary": "強調；重點",
+  "secondary": "n. special importance given to something"
+ },
+ {
+  "word": "ensure",
+  "group": "Sublist 3",
+  "primary": "確保",
+  "secondary": "v. to make certain something happens"
+ },
+ {
+  "word": "exclude",
+  "group": "Sublist 3",
+  "primary": "排除",
+  "secondary": "v. to keep out or leave out"
+ },
+ {
+  "word": "framework",
+  "group": "Sublist 3",
+  "primary": "架構；框架",
+  "secondary": "n. a basic supporting structure or system"
+ },
+ {
+  "word": "fund",
+  "group": "Sublist 3",
+  "primary": "基金；資助",
+  "secondary": "n./v. money for a purpose; to provide money"
+ },
+ {
+  "word": "illustrate",
+  "group": "Sublist 3",
+  "primary": "說明；舉例",
+  "secondary": "v. to explain with examples or pictures"
+ },
+ {
+  "word": "immigrate",
+  "group": "Sublist 3",
+  "primary": "移入；移民",
+  "secondary": "v. to come to live in a new country"
+ },
+ {
+  "word": "imply",
+  "group": "Sublist 3",
+  "primary": "暗示",
+  "secondary": "v. to suggest without stating directly"
+ },
+ {
+  "word": "initial",
+  "group": "Sublist 3",
+  "primary": "最初的",
+  "secondary": "adj. happening at the beginning"
+ },
+ {
+  "word": "instance",
+  "group": "Sublist 3",
+  "primary": "例子；實例",
+  "secondary": "n. a particular example or case"
+ },
+ {
+  "word": "interact",
+  "group": "Sublist 3",
+  "primary": "互動",
+  "secondary": "v. to act on or affect each other"
+ },
+ {
+  "word": "justify",
+  "group": "Sublist 3",
+  "primary": "辯護；證明合理",
+  "secondary": "v. to show that something is reasonable"
+ },
+ {
+  "word": "layer",
+  "group": "Sublist 3",
+  "primary": "層",
+  "secondary": "n. a sheet or level lying over another"
+ },
+ {
+  "word": "link",
+  "group": "Sublist 3",
+  "primary": "連結；關聯",
+  "secondary": "n./v. a connection; to connect"
+ },
+ {
+  "word": "locate",
+  "group": "Sublist 3",
+  "primary": "找出位置；設於",
+  "secondary": "v. to find or place in a position"
+ },
+ {
+  "word": "maximise",
+  "group": "Sublist 3",
+  "primary": "最大化",
+  "secondary": "v. to make as great as possible"
+ },
+ {
+  "word": "minor",
+  "group": "Sublist 3",
+  "primary": "次要的；輕微的",
+  "secondary": "adj. small or less important"
+ },
+ {
+  "word": "negate",
+  "group": "Sublist 3",
+  "primary": "否定；抵消",
+  "secondary": "v. to cancel or make ineffective"
+ },
+ {
+  "word": "outcome",
+  "group": "Sublist 3",
+  "primary": "結果",
+  "secondary": "n. a result or consequence"
+ },
+ {
+  "word": "partner",
+  "group": "Sublist 3",
+  "primary": "夥伴；合夥人",
+  "secondary": "n. a person who shares an activity"
+ },
+ {
+  "word": "philosophy",
+  "group": "Sublist 3",
+  "primary": "哲學；理念",
+  "secondary": "n. the study of ideas about life and knowledge"
+ },
+ {
+  "word": "physical",
+  "group": "Sublist 3",
+  "primary": "身體的；物理的",
+  "secondary": "adj. relating to the body or material things"
+ },
+ {
+  "word": "proportion",
+  "group": "Sublist 3",
+  "primary": "比例；部分",
+  "secondary": "n. a part or share in relation to a whole"
+ },
+ {
+  "word": "publish",
+  "group": "Sublist 3",
+  "primary": "出版；發表",
+  "secondary": "v. to make written work public"
+ },
+ {
+  "word": "react",
+  "group": "Sublist 3",
+  "primary": "反應",
+  "secondary": "v. to act in response to something"
+ },
+ {
+  "word": "register",
+  "group": "Sublist 3",
+  "primary": "登記；註冊",
+  "secondary": "n./v. an official list; to record formally"
+ },
+ {
+  "word": "rely",
+  "group": "Sublist 3",
+  "primary": "依賴",
+  "secondary": "v. to depend on or trust"
+ },
+ {
+  "word": "remove",
+  "group": "Sublist 3",
+  "primary": "移除",
+  "secondary": "v. to take something away"
+ },
+ {
+  "word": "scheme",
+  "group": "Sublist 3",
+  "primary": "計畫；方案",
+  "secondary": "n. an organised plan"
+ },
+ {
+  "word": "sequence",
+  "group": "Sublist 3",
+  "primary": "順序；序列",
+  "secondary": "n. an order in which things follow"
+ },
+ {
+  "word": "sex",
+  "group": "Sublist 3",
+  "primary": "性別",
+  "secondary": "n. the state of being male or female"
+ },
+ {
+  "word": "shift",
+  "group": "Sublist 3",
+  "primary": "轉變；轉移",
+  "secondary": "n./v. a change; to move or change"
+ },
+ {
+  "word": "specify",
+  "group": "Sublist 3",
+  "primary": "明確指定",
+  "secondary": "v. to state clearly and exactly"
+ },
+ {
+  "word": "sufficient",
+  "group": "Sublist 3",
+  "primary": "足夠的",
+  "secondary": "adj. enough for a purpose"
+ },
+ {
+  "word": "task",
+  "group": "Sublist 3",
+  "primary": "任務",
+  "secondary": "n. a piece of work to be done"
+ },
+ {
+  "word": "technical",
+  "group": "Sublist 3",
+  "primary": "技術的",
+  "secondary": "adj. relating to specialised skills or methods"
+ },
+ {
+  "word": "technique",
+  "group": "Sublist 3",
+  "primary": "技巧；手法",
+  "secondary": "n. a particular way of doing a skill"
+ },
+ {
+  "word": "technology",
+  "group": "Sublist 3",
+  "primary": "科技",
+  "secondary": "n. the use of science for practical purposes"
+ },
+ {
+  "word": "valid",
+  "group": "Sublist 3",
+  "primary": "有效的；正當的",
+  "secondary": "adj. well-founded and acceptable; legally usable"
+ },
+ {
+  "word": "volume",
+  "group": "Sublist 3",
+  "primary": "體積；量；冊",
+  "secondary": "n. amount of space or quantity; a book"
+ },
+ {
+  "word": "access",
+  "group": "Sublist 4",
+  "primary": "存取；取得；進入",
+  "secondary": "n./v. the right or means to use something"
+ },
+ {
+  "word": "adequate",
+  "group": "Sublist 4",
+  "primary": "足夠的；適當的",
+  "secondary": "adj. enough or good enough"
+ },
+ {
+  "word": "annual",
+  "group": "Sublist 4",
+  "primary": "每年的",
+  "secondary": "adj. happening once a year"
+ },
+ {
+  "word": "apparent",
+  "group": "Sublist 4",
+  "primary": "明顯的；表面上的",
+  "secondary": "adj. clearly seen or seeming to be true"
+ },
+ {
+  "word": "approximate",
+  "group": "Sublist 4",
+  "primary": "近似的",
+  "secondary": "adj. close to but not exact"
+ },
+ {
+  "word": "attitude",
+  "group": "Sublist 4",
+  "primary": "態度",
+  "secondary": "n. a way of thinking or feeling"
+ },
+ {
+  "word": "attribute",
+  "group": "Sublist 4",
+  "primary": "特質；歸因於",
+  "secondary": "n./v. a quality; to regard as caused by"
+ },
+ {
+  "word": "civil",
+  "group": "Sublist 4",
+  "primary": "公民的；民事的",
+  "secondary": "adj. relating to citizens or society"
+ },
+ {
+  "word": "code",
+  "group": "Sublist 4",
+  "primary": "規範；代碼",
+  "secondary": "n. a set of rules or signs"
+ },
+ {
+  "word": "commit",
+  "group": "Sublist 4",
+  "primary": "承諾；犯（罪）",
+  "secondary": "v. to promise; to do a wrong act"
+ },
+ {
+  "word": "communicate",
+  "group": "Sublist 4",
+  "primary": "溝通；傳達",
+  "secondary": "v. to share information"
+ },
+ {
+  "word": "concentrate",
+  "group": "Sublist 4",
+  "primary": "專注；集中",
+  "secondary": "v. to focus attention; to gather closely"
+ },
+ {
+  "word": "confer",
+  "group": "Sublist 4",
+  "primary": "商議；授予",
+  "secondary": "v. to discuss; to grant"
+ },
+ {
+  "word": "contrast",
+  "group": "Sublist 4",
+  "primary": "對比；對照",
+  "secondary": "n./v. a clear difference; to compare differences"
+ },
+ {
+  "word": "cycle",
+  "group": "Sublist 4",
+  "primary": "循環；週期",
+  "secondary": "n. a repeated series of events"
+ },
+ {
+  "word": "debate",
+  "group": "Sublist 4",
+  "primary": "辯論",
+  "secondary": "n./v. a formal discussion of opposing views"
+ },
+ {
+  "word": "despite",
+  "group": "Sublist 4",
+  "primary": "儘管",
+  "secondary": "prep. in spite of something"
+ },
+ {
+  "word": "dimension",
+  "group": "Sublist 4",
+  "primary": "維度；面向",
+  "secondary": "n. a measurable extent; an aspect"
+ },
+ {
+  "word": "domestic",
+  "group": "Sublist 4",
+  "primary": "家庭的；國內的",
+  "secondary": "adj. relating to home or one's own country"
+ },
+ {
+  "word": "emerge",
+  "group": "Sublist 4",
+  "primary": "出現；浮現",
+  "secondary": "v. to come out or become known"
+ },
+ {
+  "word": "error",
+  "group": "Sublist 4",
+  "primary": "錯誤",
+  "secondary": "n. a mistake"
+ },
+ {
+  "word": "ethnic",
+  "group": "Sublist 4",
+  "primary": "種族的；族裔的",
+  "secondary": "adj. relating to a cultural or racial group"
+ },
+ {
+  "word": "goal",
+  "group": "Sublist 4",
+  "primary": "目標",
+  "secondary": "n. an aim or desired result"
+ },
+ {
+  "word": "grant",
+  "group": "Sublist 4",
+  "primary": "補助金；准予",
+  "secondary": "n./v. money given; to allow or give"
+ },
+ {
+  "word": "hence",
+  "group": "Sublist 4",
+  "primary": "因此",
+  "secondary": "adv. for this reason; therefore"
+ },
+ {
+  "word": "hypothesis",
+  "group": "Sublist 4",
+  "primary": "假設",
+  "secondary": "n. an idea suggested to be tested"
+ },
+ {
+  "word": "implement",
+  "group": "Sublist 4",
+  "primary": "實施",
+  "secondary": "v. to put a plan into action"
+ },
+ {
+  "word": "implicate",
+  "group": "Sublist 4",
+  "primary": "牽連；暗示有關",
+  "secondary": "v. to show someone is involved"
+ },
+ {
+  "word": "impose",
+  "group": "Sublist 4",
+  "primary": "強加；課徵",
+  "secondary": "v. to force something on others"
+ },
+ {
+  "word": "integrate",
+  "group": "Sublist 4",
+  "primary": "整合",
+  "secondary": "v. to combine into a whole"
+ },
+ {
+  "word": "internal",
+  "group": "Sublist 4",
+  "primary": "內部的",
+  "secondary": "adj. inside; within an organisation"
+ },
+ {
+  "word": "investigate",
+  "group": "Sublist 4",
+  "primary": "調查",
+  "secondary": "v. to examine carefully to find facts"
+ },
+ {
+  "word": "job",
+  "group": "Sublist 4",
+  "primary": "工作",
+  "secondary": "n. paid work or a task"
+ },
+ {
+  "word": "label",
+  "group": "Sublist 4",
+  "primary": "標籤；標記",
+  "secondary": "n./v. a tag with information; to name"
+ },
+ {
+  "word": "mechanism",
+  "group": "Sublist 4",
+  "primary": "機制；機械裝置",
+  "secondary": "n. a system of parts that does a job"
+ },
+ {
+  "word": "obvious",
+  "group": "Sublist 4",
+  "primary": "明顯的",
+  "secondary": "adj. easy to see or understand"
+ },
+ {
+  "word": "occupy",
+  "group": "Sublist 4",
+  "primary": "占據；占用",
+  "secondary": "v. to fill space or time; to live in"
+ },
+ {
+  "word": "option",
+  "group": "Sublist 4",
+  "primary": "選項",
+  "secondary": "n. a choice"
+ },
+ {
+  "word": "output",
+  "group": "Sublist 4",
+  "primary": "產出；輸出",
+  "secondary": "n. the amount produced"
+ },
+ {
+  "word": "overall",
+  "group": "Sublist 4",
+  "primary": "整體的；總的",
+  "secondary": "adj./adv. considering everything; in total"
+ },
+ {
+  "word": "parallel",
+  "group": "Sublist 4",
+  "primary": "平行的；相似之處",
+  "secondary": "adj./n. side by side and similar; a similarity"
+ },
+ {
+  "word": "parameter",
+  "group": "Sublist 4",
+  "primary": "參數；範圍",
+  "secondary": "n. a limit or factor that defines something"
+ },
+ {
+  "word": "phase",
+  "group": "Sublist 4",
+  "primary": "階段",
+  "secondary": "n. a stage in a process"
+ },
+ {
+  "word": "predict",
+  "group": "Sublist 4",
+  "primary": "預測",
+  "secondary": "v. to say what will happen"
+ },
+ {
+  "word": "principal",
+  "group": "Sublist 4",
+  "primary": "主要的；校長",
+  "secondary": "adj./n. main; head of a school"
+ },
+ {
+  "word": "prior",
+  "group": "Sublist 4",
+  "primary": "先前的",
+  "secondary": "adj. existing or coming before"
+ },
+ {
+  "word": "professional",
+  "group": "Sublist 4",
+  "primary": "專業的；專業人士",
+  "secondary": "adj./n. relating to skilled paid work; an expert"
+ },
+ {
+  "word": "project",
+  "group": "Sublist 4",
+  "primary": "專案；投射；預估",
+  "secondary": "n./v. a planned task; to forecast or display"
+ },
+ {
+  "word": "promote",
+  "group": "Sublist 4",
+  "primary": "促進；升遷",
+  "secondary": "v. to encourage; to raise in rank"
+ },
+ {
+  "word": "regime",
+  "group": "Sublist 4",
+  "primary": "政權；制度",
+  "secondary": "n. a government or system of rule"
+ },
+ {
+  "word": "resolve",
+  "group": "Sublist 4",
+  "primary": "解決；決心",
+  "secondary": "v. to settle or decide firmly"
+ },
+ {
+  "word": "retain",
+  "group": "Sublist 4",
+  "primary": "保留",
+  "secondary": "v. to keep or hold"
+ },
+ {
+  "word": "series",
+  "group": "Sublist 4",
+  "primary": "系列",
+  "secondary": "n. a number of related things in order"
+ },
+ {
+  "word": "statistic",
+  "group": "Sublist 4",
+  "primary": "統計數據",
+  "secondary": "n. a piece of numerical data"
+ },
+ {
+  "word": "status",
+  "group": "Sublist 4",
+  "primary": "地位；狀態",
+  "secondary": "n. rank or current state"
+ },
+ {
+  "word": "stress",
+  "group": "Sublist 4",
+  "primary": "壓力；強調",
+  "secondary": "n./v. mental pressure; to emphasise"
+ },
+ {
+  "word": "subsequent",
+  "group": "Sublist 4",
+  "primary": "隨後的",
+  "secondary": "adj. coming after in time"
+ },
+ {
+  "word": "sum",
+  "group": "Sublist 4",
+  "primary": "總和；金額",
+  "secondary": "n. a total amount or calculation"
+ },
+ {
+  "word": "summary",
+  "group": "Sublist 4",
+  "primary": "摘要",
+  "secondary": "n. a short account of the main points"
+ },
+ {
+  "word": "undertake",
+  "group": "Sublist 4",
+  "primary": "從事；承擔",
+  "secondary": "v. to take on a task or promise"
+ },
+ {
+  "word": "academy",
+  "group": "Sublist 5",
+  "primary": "學院；學會",
+  "secondary": "n. a school or society for learning"
+ },
+ {
+  "word": "adjust",
+  "group": "Sublist 5",
+  "primary": "調整",
+  "secondary": "v. to change slightly to fit"
+ },
+ {
+  "word": "alter",
+  "group": "Sublist 5",
+  "primary": "改變",
+  "secondary": "v. to change"
+ },
+ {
+  "word": "amend",
+  "group": "Sublist 5",
+  "primary": "修訂；修正",
+  "secondary": "v. to make small changes to improve"
+ },
+ {
+  "word": "aware",
+  "group": "Sublist 5",
+  "primary": "意識到的",
+  "secondary": "adj. knowing or realising something"
+ },
+ {
+  "word": "capacity",
+  "group": "Sublist 5",
+  "primary": "容量；能力",
+  "secondary": "n. the amount that can be held; ability"
+ },
+ {
+  "word": "challenge",
+  "group": "Sublist 5",
+  "primary": "挑戰；質疑",
+  "secondary": "n./v. a difficult task; to question or dispute"
+ },
+ {
+  "word": "clause",
+  "group": "Sublist 5",
+  "primary": "子句；條款",
+  "secondary": "n. a part of a sentence or a legal document"
+ },
+ {
+  "word": "compound",
+  "group": "Sublist 5",
+  "primary": "化合物；複合的",
+  "secondary": "n./adj. a mixture; made of parts"
+ },
+ {
+  "word": "conflict",
+  "group": "Sublist 5",
+  "primary": "衝突；牴觸",
+  "secondary": "n./v. a serious disagreement; to clash"
+ },
+ {
+  "word": "consult",
+  "group": "Sublist 5",
+  "primary": "諮詢；查閱",
+  "secondary": "v. to seek advice or information"
+ },
+ {
+  "word": "contact",
+  "group": "Sublist 5",
+  "primary": "接觸；聯絡",
+  "secondary": "n./v. communication; to get in touch"
+ },
+ {
+  "word": "decline",
+  "group": "Sublist 5",
+  "primary": "下降；婉拒",
+  "secondary": "v./n. to refuse; to decrease"
+ },
+ {
+  "word": "discrete",
+  "group": "Sublist 5",
+  "primary": "個別的；不連續的",
+  "secondary": "adj. separate and distinct"
+ },
+ {
+  "word": "draft",
+  "group": "Sublist 5",
+  "primary": "草稿；起草",
+  "secondary": "n./v. an early version; to write a first version"
+ },
+ {
+  "word": "enable",
+  "group": "Sublist 5",
+  "primary": "使能夠；促成",
+  "secondary": "v. to make something possible"
+ },
+ {
+  "word": "energy",
+  "group": "Sublist 5",
+  "primary": "能量；精力",
+  "secondary": "n. power or the ability to do work"
+ },
+ {
+  "word": "enforce",
+  "group": "Sublist 5",
+  "primary": "執行；強制",
+  "secondary": "v. to make people obey a rule"
+ },
+ {
+  "word": "entity",
+  "group": "Sublist 5",
+  "primary": "實體",
+  "secondary": "n. a thing that exists as a unit"
+ },
+ {
+  "word": "equivalent",
+  "group": "Sublist 5",
+  "primary": "相等的；對等物",
+  "secondary": "adj./n. equal in value or meaning"
+ },
+ {
+  "word": "evolve",
+  "group": "Sublist 5",
+  "primary": "演化；發展",
+  "secondary": "v. to develop gradually"
+ },
+ {
+  "word": "expand",
+  "group": "Sublist 5",
+  "primary": "擴大；擴展",
+  "secondary": "v. to grow larger"
+ },
+ {
+  "word": "expose",
+  "group": "Sublist 5",
+  "primary": "暴露；揭露",
+  "secondary": "v. to uncover or make visible"
+ },
+ {
+  "word": "external",
+  "group": "Sublist 5",
+  "primary": "外部的",
+  "secondary": "adj. on or from the outside"
+ },
+ {
+  "word": "facilitate",
+  "group": "Sublist 5",
+  "primary": "促進；使便利",
+  "secondary": "v. to make something easier"
+ },
+ {
+  "word": "fundamental",
+  "group": "Sublist 5",
+  "primary": "基本的；根本的",
+  "secondary": "adj. basic and essential"
+ },
+ {
+  "word": "generate",
+  "group": "Sublist 5",
+  "primary": "產生",
+  "secondary": "v. to produce or create"
+ },
+ {
+  "word": "generation",
+  "group": "Sublist 5",
+  "primary": "世代；產生",
+  "secondary": "n. people of about the same age; producing"
+ },
+ {
+  "word": "image",
+  "group": "Sublist 5",
+  "primary": "影像；形象",
+  "secondary": "n. a picture or mental impression"
+ },
+ {
+  "word": "liberal",
+  "group": "Sublist 5",
+  "primary": "自由的；開明的",
+  "secondary": "adj. open to new ideas; generous"
+ },
+ {
+  "word": "licence",
+  "group": "Sublist 5",
+  "primary": "許可；執照",
+  "secondary": "n. official permission to do something"
+ },
+ {
+  "word": "logic",
+  "group": "Sublist 5",
+  "primary": "邏輯",
+  "secondary": "n. reasoning done in a sensible way"
+ },
+ {
+  "word": "margin",
+  "group": "Sublist 5",
+  "primary": "邊緣；差額",
+  "secondary": "n. an edge; a difference or extra amount"
+ },
+ {
+  "word": "medical",
+  "group": "Sublist 5",
+  "primary": "醫療的",
+  "secondary": "adj. relating to medicine or health care"
+ },
+ {
+  "word": "mental",
+  "group": "Sublist 5",
+  "primary": "心理的；精神的",
+  "secondary": "adj. relating to the mind"
+ },
+ {
+  "word": "modify",
+  "group": "Sublist 5",
+  "primary": "修改",
+  "secondary": "v. to change something slightly"
+ },
+ {
+  "word": "monitor",
+  "group": "Sublist 5",
+  "primary": "監測；監視器",
+  "secondary": "v./n. to watch and check over time"
+ },
+ {
+  "word": "network",
+  "group": "Sublist 5",
+  "primary": "網絡",
+  "secondary": "n. a connected system of things or people"
+ },
+ {
+  "word": "notion",
+  "group": "Sublist 5",
+  "primary": "觀念；想法",
+  "secondary": "n. an idea or belief"
+ },
+ {
+  "word": "objective",
+  "group": "Sublist 5",
+  "primary": "目標；客觀的",
+  "secondary": "n./adj. a goal; based on facts not feelings"
+ },
+ {
+  "word": "orient",
+  "group": "Sublist 5",
+  "primary": "定位；使適應",
+  "secondary": "v. to position or direct toward something"
+ },
+ {
+  "word": "perspective",
+  "group": "Sublist 5",
+  "primary": "觀點；視角",
+  "secondary": "n. a point of view"
+ },
+ {
+  "word": "precise",
+  "group": "Sublist 5",
+  "primary": "精確的",
+  "secondary": "adj. exact and accurate"
+ },
+ {
+  "word": "prime",
+  "group": "Sublist 5",
+  "primary": "主要的；最佳的",
+  "secondary": "adj. main; of the best quality"
+ },
+ {
+  "word": "psychology",
+  "group": "Sublist 5",
+  "primary": "心理學",
+  "secondary": "n. the study of the mind and behaviour"
+ },
+ {
+  "word": "pursue",
+  "group": "Sublist 5",
+  "primary": "追求；從事",
+  "secondary": "v. to follow or try to achieve"
+ },
+ {
+  "word": "ratio",
+  "group": "Sublist 5",
+  "primary": "比率",
+  "secondary": "n. the relation between two amounts"
+ },
+ {
+  "word": "reject",
+  "group": "Sublist 5",
+  "primary": "拒絕",
+  "secondary": "v. to refuse to accept"
+ },
+ {
+  "word": "revenue",
+  "group": "Sublist 5",
+  "primary": "收入；稅收",
+  "secondary": "n. income, especially of a business or state"
+ },
+ {
+  "word": "stable",
+  "group": "Sublist 5",
+  "primary": "穩定的",
+  "secondary": "adj. steady and not likely to change"
+ },
+ {
+  "word": "style",
+  "group": "Sublist 5",
+  "primary": "風格；方式",
+  "secondary": "n. a way of doing or expressing something"
+ },
+ {
+  "word": "substitute",
+  "group": "Sublist 5",
+  "primary": "替代；代替",
+  "secondary": "n./v. a replacement; to use instead"
+ },
+ {
+  "word": "sustain",
+  "group": "Sublist 5",
+  "primary": "維持；支撐",
+  "secondary": "v. to keep going; to support"
+ },
+ {
+  "word": "symbol",
+  "group": "Sublist 5",
+  "primary": "符號；象徵",
+  "secondary": "n. a sign that stands for something"
+ },
+ {
+  "word": "target",
+  "group": "Sublist 5",
+  "primary": "目標；針對",
+  "secondary": "n./v. an aim; to aim at"
+ },
+ {
+  "word": "transit",
+  "group": "Sublist 5",
+  "primary": "運輸；過境",
+  "secondary": "n. the movement of people or goods"
+ },
+ {
+  "word": "trend",
+  "group": "Sublist 5",
+  "primary": "趨勢",
+  "secondary": "n. a general direction of change"
+ },
+ {
+  "word": "version",
+  "group": "Sublist 5",
+  "primary": "版本",
+  "secondary": "n. a particular form of something"
+ },
+ {
+  "word": "welfare",
+  "group": "Sublist 5",
+  "primary": "福利；福祉",
+  "secondary": "n. the health and wellbeing of people"
+ },
+ {
+  "word": "whereas",
+  "group": "Sublist 5",
+  "primary": "然而；鑒於",
+  "secondary": "conj. in contrast or comparison with"
+ },
+ {
+  "word": "abstract",
+  "group": "Sublist 6",
+  "primary": "抽象的；摘要",
+  "secondary": "adj./n. based on ideas not physical things; a summary"
+ },
+ {
+  "word": "accurate",
+  "group": "Sublist 6",
+  "primary": "準確的",
+  "secondary": "adj. correct and exact"
+ },
+ {
+  "word": "acknowledge",
+  "group": "Sublist 6",
+  "primary": "承認；致謝",
+  "secondary": "v. to accept or admit; to thank"
+ },
+ {
+  "word": "aggregate",
+  "group": "Sublist 6",
+  "primary": "總計；聚合的",
+  "secondary": "n./adj. a total formed by combining parts"
+ },
+ {
+  "word": "allocate",
+  "group": "Sublist 6",
+  "primary": "分配",
+  "secondary": "v. to give out for a purpose"
+ },
+ {
+  "word": "assign",
+  "group": "Sublist 6",
+  "primary": "指派；分配",
+  "secondary": "v. to give a task or duty"
+ },
+ {
+  "word": "attach",
+  "group": "Sublist 6",
+  "primary": "附加；連接",
+  "secondary": "v. to join or fasten to"
+ },
+ {
+  "word": "author",
+  "group": "Sublist 6",
+  "primary": "作者",
+  "secondary": "n. the writer of a work"
+ },
+ {
+  "word": "bond",
+  "group": "Sublist 6",
+  "primary": "聯繫；債券",
+  "secondary": "n. a close link; a financial certificate"
+ },
+ {
+  "word": "brief",
+  "group": "Sublist 6",
+  "primary": "簡短的",
+  "secondary": "adj. short in time or length"
+ },
+ {
+  "word": "capable",
+  "group": "Sublist 6",
+  "primary": "有能力的",
+  "secondary": "adj. able to do something"
+ },
+ {
+  "word": "cite",
+  "group": "Sublist 6",
+  "primary": "引用",
+  "secondary": "v. to quote or refer to a source"
+ },
+ {
+  "word": "cooperate",
+  "group": "Sublist 6",
+  "primary": "合作",
+  "secondary": "v. to work together"
+ },
+ {
+  "word": "discriminate",
+  "group": "Sublist 6",
+  "primary": "歧視；區別",
+  "secondary": "v. to treat differently; to tell apart"
+ },
+ {
+  "word": "display",
+  "group": "Sublist 6",
+  "primary": "展示",
+  "secondary": "n./v. to show or present"
+ },
+ {
+  "word": "diverse",
+  "group": "Sublist 6",
+  "primary": "多樣的",
+  "secondary": "adj. varied and different"
+ },
+ {
+  "word": "domain",
+  "group": "Sublist 6",
+  "primary": "領域",
+  "secondary": "n. an area of activity or knowledge"
+ },
+ {
+  "word": "edit",
+  "group": "Sublist 6",
+  "primary": "編輯",
+  "secondary": "v. to prepare text by correcting it"
+ },
+ {
+  "word": "enhance",
+  "group": "Sublist 6",
+  "primary": "提升；增強",
+  "secondary": "v. to improve or increase"
+ },
+ {
+  "word": "estate",
+  "group": "Sublist 6",
+  "primary": "地產；財產",
+  "secondary": "n. property or land; total possessions"
+ },
+ {
+  "word": "exceed",
+  "group": "Sublist 6",
+  "primary": "超過",
+  "secondary": "v. to go beyond a limit"
+ },
+ {
+  "word": "expert",
+  "group": "Sublist 6",
+  "primary": "專家；專業的",
+  "secondary": "n./adj. a person with great skill or knowledge"
+ },
+ {
+  "word": "explicit",
+  "group": "Sublist 6",
+  "primary": "明確的",
+  "secondary": "adj. clearly and fully stated"
+ },
+ {
+  "word": "federal",
+  "group": "Sublist 6",
+  "primary": "聯邦的",
+  "secondary": "adj. relating to a central national government"
+ },
+ {
+  "word": "fee",
+  "group": "Sublist 6",
+  "primary": "費用",
+  "secondary": "n. money paid for a service"
+ },
+ {
+  "word": "flexible",
+  "group": "Sublist 6",
+  "primary": "靈活的；有彈性的",
+  "secondary": "adj. able to change or bend easily"
+ },
+ {
+  "word": "furthermore",
+  "group": "Sublist 6",
+  "primary": "此外",
+  "secondary": "adv. in addition; moreover"
+ },
+ {
+  "word": "gender",
+  "group": "Sublist 6",
+  "primary": "性別",
+  "secondary": "n. the state of being male or female"
+ },
+ {
+  "word": "ignorant",
+  "group": "Sublist 6",
+  "primary": "無知的",
+  "secondary": "adj. lacking knowledge"
+ },
+ {
+  "word": "incentive",
+  "group": "Sublist 6",
+  "primary": "誘因；獎勵",
+  "secondary": "n. something that encourages action"
+ },
+ {
+  "word": "incidence",
+  "group": "Sublist 6",
+  "primary": "發生率",
+  "secondary": "n. the rate at which something occurs"
+ },
+ {
+  "word": "incorporate",
+  "group": "Sublist 6",
+  "primary": "納入；合併",
+  "secondary": "v. to include as part of a whole"
+ },
+ {
+  "word": "index",
+  "group": "Sublist 6",
+  "primary": "索引；指數",
+  "secondary": "n. an alphabetical list; a measure"
+ },
+ {
+  "word": "inhibit",
+  "group": "Sublist 6",
+  "primary": "抑制",
+  "secondary": "v. to hold back or prevent"
+ },
+ {
+  "word": "initiate",
+  "group": "Sublist 6",
+  "primary": "發起；開始",
+  "secondary": "v. to begin or start"
+ },
+ {
+  "word": "input",
+  "group": "Sublist 6",
+  "primary": "投入；輸入",
+  "secondary": "n. what is put in to a system"
+ },
+ {
+  "word": "instruct",
+  "group": "Sublist 6",
+  "primary": "指導；指示",
+  "secondary": "v. to teach or order"
+ },
+ {
+  "word": "intelligent",
+  "group": "Sublist 6",
+  "primary": "聰明的",
+  "secondary": "adj. able to learn and understand well"
+ },
+ {
+  "word": "interval",
+  "group": "Sublist 6",
+  "primary": "間隔",
+  "secondary": "n. a period of time between events"
+ },
+ {
+  "word": "lecture",
+  "group": "Sublist 6",
+  "primary": "講課；演講",
+  "secondary": "n./v. a formal talk to teach"
+ },
+ {
+  "word": "migrate",
+  "group": "Sublist 6",
+  "primary": "遷移",
+  "secondary": "v. to move from one place to another"
+ },
+ {
+  "word": "minimum",
+  "group": "Sublist 6",
+  "primary": "最小值；最低的",
+  "secondary": "n./adj. the smallest amount possible"
+ },
+ {
+  "word": "ministry",
+  "group": "Sublist 6",
+  "primary": "部會；部",
+  "secondary": "n. a government department"
+ },
+ {
+  "word": "motive",
+  "group": "Sublist 6",
+  "primary": "動機",
+  "secondary": "n. a reason for doing something"
+ },
+ {
+  "word": "neutral",
+  "group": "Sublist 6",
+  "primary": "中立的",
+  "secondary": "adj. not supporting either side"
+ },
+ {
+  "word": "nevertheless",
+  "group": "Sublist 6",
+  "primary": "儘管如此",
+  "secondary": "adv. in spite of that; however"
+ },
+ {
+  "word": "overseas",
+  "group": "Sublist 6",
+  "primary": "海外的",
+  "secondary": "adj./adv. in or to a foreign country"
+ },
+ {
+  "word": "precede",
+  "group": "Sublist 6",
+  "primary": "在…之前",
+  "secondary": "v. to come before in time or order"
+ },
+ {
+  "word": "presume",
+  "group": "Sublist 6",
+  "primary": "推測；假定",
+  "secondary": "v. to suppose something is true"
+ },
+ {
+  "word": "rational",
+  "group": "Sublist 6",
+  "primary": "理性的",
+  "secondary": "adj. based on reason and logic"
+ },
+ {
+  "word": "recover",
+  "group": "Sublist 6",
+  "primary": "復原；恢復；取回",
+  "secondary": "v. to return to normal; to get back"
+ },
+ {
+  "word": "reveal",
+  "group": "Sublist 6",
+  "primary": "揭露；顯示",
+  "secondary": "v. to make known or show"
+ },
+ {
+  "word": "scope",
+  "group": "Sublist 6",
+  "primary": "範圍",
+  "secondary": "n. the range of a subject or activity"
+ },
+ {
+  "word": "subsidy",
+  "group": "Sublist 6",
+  "primary": "補貼",
+  "secondary": "n. money given by a government to help"
+ },
+ {
+  "word": "tape",
+  "group": "Sublist 6",
+  "primary": "膠帶；錄音帶",
+  "secondary": "n./v. a strip used to record or fasten"
+ },
+ {
+  "word": "trace",
+  "group": "Sublist 6",
+  "primary": "痕跡；追蹤",
+  "secondary": "n./v. a sign left behind; to find or follow"
+ },
+ {
+  "word": "transform",
+  "group": "Sublist 6",
+  "primary": "轉變；轉化",
+  "secondary": "v. to change completely in form"
+ },
+ {
+  "word": "transport",
+  "group": "Sublist 6",
+  "primary": "運輸",
+  "secondary": "n./v. to carry from one place to another"
+ },
+ {
+  "word": "underlie",
+  "group": "Sublist 6",
+  "primary": "構成…的基礎",
+  "secondary": "v. to be the basis or cause of"
+ },
+ {
+  "word": "utilise",
+  "group": "Sublist 6",
+  "primary": "利用",
+  "secondary": "v. to make use of something"
+ },
+ {
+  "word": "adapt",
+  "group": "Sublist 7",
+  "primary": "適應；改編",
+  "secondary": "v. to change to fit new conditions"
+ },
+ {
+  "word": "adult",
+  "group": "Sublist 7",
+  "primary": "成人；成年的",
+  "secondary": "n./adj. a fully grown person"
+ },
+ {
+  "word": "advocate",
+  "group": "Sublist 7",
+  "primary": "倡導；擁護者",
+  "secondary": "v./n. to support publicly; a supporter"
+ },
+ {
+  "word": "aid",
+  "group": "Sublist 7",
+  "primary": "援助；幫助",
+  "secondary": "n./v. help or support; to help"
+ },
+ {
+  "word": "channel",
+  "group": "Sublist 7",
+  "primary": "管道；頻道",
+  "secondary": "n. a means or path for something to pass"
+ },
+ {
+  "word": "chemical",
+  "group": "Sublist 7",
+  "primary": "化學物質；化學的",
+  "secondary": "n./adj. a substance; relating to chemistry"
+ },
+ {
+  "word": "classic",
+  "group": "Sublist 7",
+  "primary": "經典的；經典作品",
+  "secondary": "adj./n. of high quality and lasting value"
+ },
+ {
+  "word": "comprehensive",
+  "group": "Sublist 7",
+  "primary": "全面的",
+  "secondary": "adj. complete and including everything"
+ },
+ {
+  "word": "comprise",
+  "group": "Sublist 7",
+  "primary": "包含；組成",
+  "secondary": "v. to be made up of; to consist of"
+ },
+ {
+  "word": "confirm",
+  "group": "Sublist 7",
+  "primary": "確認",
+  "secondary": "v. to state that something is true"
+ },
+ {
+  "word": "contrary",
+  "group": "Sublist 7",
+  "primary": "相反的",
+  "secondary": "adj./n. opposite in nature"
+ },
+ {
+  "word": "convert",
+  "group": "Sublist 7",
+  "primary": "轉換",
+  "secondary": "v. to change into another form"
+ },
+ {
+  "word": "couple",
+  "group": "Sublist 7",
+  "primary": "一對；幾個",
+  "secondary": "n. two people or things together"
+ },
+ {
+  "word": "decade",
+  "group": "Sublist 7",
+  "primary": "十年",
+  "secondary": "n. a period of ten years"
+ },
+ {
+  "word": "definite",
+  "group": "Sublist 7",
+  "primary": "明確的；確定的",
+  "secondary": "adj. clear and certain"
+ },
+ {
+  "word": "deny",
+  "group": "Sublist 7",
+  "primary": "否認；拒絕",
+  "secondary": "v. to say something is not true; to refuse"
+ },
+ {
+  "word": "differentiate",
+  "group": "Sublist 7",
+  "primary": "區分；區別",
+  "secondary": "v. to recognise or show a difference"
+ },
+ {
+  "word": "dispose",
+  "group": "Sublist 7",
+  "primary": "處置；丟棄",
+  "secondary": "v. to get rid of; to arrange"
+ },
+ {
+  "word": "dynamic",
+  "group": "Sublist 7",
+  "primary": "動態的；有活力的",
+  "secondary": "adj. full of energy and change"
+ },
+ {
+  "word": "eliminate",
+  "group": "Sublist 7",
+  "primary": "消除；淘汰",
+  "secondary": "v. to remove or get rid of"
+ },
+ {
+  "word": "empirical",
+  "group": "Sublist 7",
+  "primary": "經驗的；實證的",
+  "secondary": "adj. based on observation or experiment"
+ },
+ {
+  "word": "equip",
+  "group": "Sublist 7",
+  "primary": "裝備；配備",
+  "secondary": "v. to provide with what is needed"
+ },
+ {
+  "word": "extract",
+  "group": "Sublist 7",
+  "primary": "提取；摘錄",
+  "secondary": "v./n. to take out; a selected part"
+ },
+ {
+  "word": "file",
+  "group": "Sublist 7",
+  "primary": "檔案；歸檔",
+  "secondary": "n./v. a folder of records; to store or submit"
+ },
+ {
+  "word": "finite",
+  "group": "Sublist 7",
+  "primary": "有限的",
+  "secondary": "adj. having limits; not endless"
+ },
+ {
+  "word": "foundation",
+  "group": "Sublist 7",
+  "primary": "基礎；基金會",
+  "secondary": "n. the base; a basis or charity"
+ },
+ {
+  "word": "globe",
+  "group": "Sublist 7",
+  "primary": "地球；球體",
+  "secondary": "n. the world; a round model of Earth"
+ },
+ {
+  "word": "grade",
+  "group": "Sublist 7",
+  "primary": "等級；評分",
+  "secondary": "n./v. a level or mark; to rank"
+ },
+ {
+  "word": "guarantee",
+  "group": "Sublist 7",
+  "primary": "保證",
+  "secondary": "n./v. a promise of quality; to promise"
+ },
+ {
+  "word": "hierarchy",
+  "group": "Sublist 7",
+  "primary": "階層；層級",
+  "secondary": "n. a system ranked by level"
+ },
+ {
+  "word": "identical",
+  "group": "Sublist 7",
+  "primary": "完全相同的",
+  "secondary": "adj. exactly the same"
+ },
+ {
+  "word": "ideology",
+  "group": "Sublist 7",
+  "primary": "意識形態",
+  "secondary": "n. a set of beliefs and ideas"
+ },
+ {
+  "word": "infer",
+  "group": "Sublist 7",
+  "primary": "推斷",
+  "secondary": "v. to work out from evidence"
+ },
+ {
+  "word": "innovate",
+  "group": "Sublist 7",
+  "primary": "創新",
+  "secondary": "v. to introduce new ideas or methods"
+ },
+ {
+  "word": "insert",
+  "group": "Sublist 7",
+  "primary": "插入",
+  "secondary": "v. to put something into"
+ },
+ {
+  "word": "intervene",
+  "group": "Sublist 7",
+  "primary": "干預；介入",
+  "secondary": "v. to become involved to change something"
+ },
+ {
+  "word": "isolate",
+  "group": "Sublist 7",
+  "primary": "隔離；孤立",
+  "secondary": "v. to separate from others"
+ },
+ {
+  "word": "media",
+  "group": "Sublist 7",
+  "primary": "媒體",
+  "secondary": "n. means of mass communication"
+ },
+ {
+  "word": "mode",
+  "group": "Sublist 7",
+  "primary": "模式；方式",
+  "secondary": "n. a way or manner of doing something"
+ },
+ {
+  "word": "paradigm",
+  "group": "Sublist 7",
+  "primary": "範式；典範",
+  "secondary": "n. a typical model or pattern"
+ },
+ {
+  "word": "phenomenon",
+  "group": "Sublist 7",
+  "primary": "現象",
+  "secondary": "n. an observable fact or event"
+ },
+ {
+  "word": "priority",
+  "group": "Sublist 7",
+  "primary": "優先；優先事項",
+  "secondary": "n. something treated as most important"
+ },
+ {
+  "word": "prohibit",
+  "group": "Sublist 7",
+  "primary": "禁止",
+  "secondary": "v. to forbid by law or rule"
+ },
+ {
+  "word": "publication",
+  "group": "Sublist 7",
+  "primary": "出版品；出版",
+  "secondary": "n. a published work; the act of publishing"
+ },
+ {
+  "word": "quote",
+  "group": "Sublist 7",
+  "primary": "引述；報價",
+  "secondary": "v./n. to repeat words from a source"
+ },
+ {
+  "word": "release",
+  "group": "Sublist 7",
+  "primary": "釋放；發布",
+  "secondary": "v./n. to set free or make available"
+ },
+ {
+  "word": "reverse",
+  "group": "Sublist 7",
+  "primary": "反轉；相反的",
+  "secondary": "v./adj. to turn the other way; opposite"
+ },
+ {
+  "word": "simulate",
+  "group": "Sublist 7",
+  "primary": "模擬",
+  "secondary": "v. to imitate or model something"
+ },
+ {
+  "word": "sole",
+  "group": "Sublist 7",
+  "primary": "唯一的",
+  "secondary": "adj. only; single"
+ },
+ {
+  "word": "somewhat",
+  "group": "Sublist 7",
+  "primary": "有點；稍微",
+  "secondary": "adv. to some degree; a little"
+ },
+ {
+  "word": "submit",
+  "group": "Sublist 7",
+  "primary": "提交；屈服",
+  "secondary": "v. to hand in; to yield"
+ },
+ {
+  "word": "successor",
+  "group": "Sublist 7",
+  "primary": "繼任者；後繼者",
+  "secondary": "n. a person or thing that follows another"
+ },
+ {
+  "word": "survive",
+  "group": "Sublist 7",
+  "primary": "存活；倖存",
+  "secondary": "v. to continue to live or exist"
+ },
+ {
+  "word": "thesis",
+  "group": "Sublist 7",
+  "primary": "論文；論點",
+  "secondary": "n. a long essay; a main argument"
+ },
+ {
+  "word": "topic",
+  "group": "Sublist 7",
+  "primary": "主題",
+  "secondary": "n. a subject of discussion"
+ },
+ {
+  "word": "transmit",
+  "group": "Sublist 7",
+  "primary": "傳送；傳播",
+  "secondary": "v. to pass on or send"
+ },
+ {
+  "word": "ultimate",
+  "group": "Sublist 7",
+  "primary": "最終的；極致的",
+  "secondary": "adj. final or most extreme"
+ },
+ {
+  "word": "unique",
+  "group": "Sublist 7",
+  "primary": "獨特的",
+  "secondary": "adj. being the only one of its kind"
+ },
+ {
+  "word": "visible",
+  "group": "Sublist 7",
+  "primary": "可見的",
+  "secondary": "adj. able to be seen"
+ },
+ {
+  "word": "voluntary",
+  "group": "Sublist 7",
+  "primary": "自願的",
+  "secondary": "adj. done willingly without being forced"
+ },
+ {
+  "word": "abandon",
+  "group": "Sublist 8",
+  "primary": "放棄；遺棄",
+  "secondary": "v. to leave or give up completely"
+ },
+ {
+  "word": "accompany",
+  "group": "Sublist 8",
+  "primary": "陪伴；伴隨",
+  "secondary": "v. to go with someone or something"
+ },
+ {
+  "word": "accumulate",
+  "group": "Sublist 8",
+  "primary": "累積",
+  "secondary": "v. to gather or build up over time"
+ },
+ {
+  "word": "ambiguous",
+  "group": "Sublist 8",
+  "primary": "含糊的；模稜兩可的",
+  "secondary": "adj. having more than one possible meaning"
+ },
+ {
+  "word": "append",
+  "group": "Sublist 8",
+  "primary": "附加",
+  "secondary": "v. to add to the end of something"
+ },
+ {
+  "word": "appreciate",
+  "group": "Sublist 8",
+  "primary": "欣賞；領會；增值",
+  "secondary": "v. to value; to understand; to rise in value"
+ },
+ {
+  "word": "arbitrary",
+  "group": "Sublist 8",
+  "primary": "任意的；武斷的",
+  "secondary": "adj. based on chance or personal whim"
+ },
+ {
+  "word": "automate",
+  "group": "Sublist 8",
+  "primary": "自動化",
+  "secondary": "v. to make a process run by machine"
+ },
+ {
+  "word": "bias",
+  "group": "Sublist 8",
+  "primary": "偏見；偏差",
+  "secondary": "n. an unfair preference or tendency"
+ },
+ {
+  "word": "chart",
+  "group": "Sublist 8",
+  "primary": "圖表",
+  "secondary": "n./v. a diagram of information; to record"
+ },
+ {
+  "word": "clarify",
+  "group": "Sublist 8",
+  "primary": "澄清",
+  "secondary": "v. to make clear"
+ },
+ {
+  "word": "commodity",
+  "group": "Sublist 8",
+  "primary": "商品；大宗物資",
+  "secondary": "n. a raw material or product for trade"
+ },
+ {
+  "word": "complement",
+  "group": "Sublist 8",
+  "primary": "補充；互補",
+  "secondary": "n./v. something that completes; to complete"
+ },
+ {
+  "word": "conform",
+  "group": "Sublist 8",
+  "primary": "順從；符合",
+  "secondary": "v. to follow rules or standards"
+ },
+ {
+  "word": "contemporary",
+  "group": "Sublist 8",
+  "primary": "當代的",
+  "secondary": "adj. belonging to the present time"
+ },
+ {
+  "word": "contradict",
+  "group": "Sublist 8",
+  "primary": "反駁；矛盾",
+  "secondary": "v. to say or be the opposite of"
+ },
+ {
+  "word": "crucial",
+  "group": "Sublist 8",
+  "primary": "關鍵的",
+  "secondary": "adj. extremely important"
+ },
+ {
+  "word": "currency",
+  "group": "Sublist 8",
+  "primary": "貨幣",
+  "secondary": "n. the money used in a country"
+ },
+ {
+  "word": "denote",
+  "group": "Sublist 8",
+  "primary": "表示；指稱",
+  "secondary": "v. to be a sign of; to mean"
+ },
+ {
+  "word": "detect",
+  "group": "Sublist 8",
+  "primary": "察覺；偵測",
+  "secondary": "v. to discover or notice"
+ },
+ {
+  "word": "deviate",
+  "group": "Sublist 8",
+  "primary": "偏離",
+  "secondary": "v. to move away from a standard"
+ },
+ {
+  "word": "displace",
+  "group": "Sublist 8",
+  "primary": "取代；迫使離開",
+  "secondary": "v. to force out of position"
+ },
+ {
+  "word": "drama",
+  "group": "Sublist 8",
+  "primary": "戲劇",
+  "secondary": "n. a play; exciting events"
+ },
+ {
+  "word": "eventual",
+  "group": "Sublist 8",
+  "primary": "最終的",
+  "secondary": "adj. happening at the end of a process"
+ },
+ {
+  "word": "exhibit",
+  "group": "Sublist 8",
+  "primary": "展示；展品",
+  "secondary": "v./n. to show publicly; a display"
+ },
+ {
+  "word": "exploit",
+  "group": "Sublist 8",
+  "primary": "剝削；利用",
+  "secondary": "v. to use unfairly; to make good use of"
+ },
+ {
+  "word": "fluctuate",
+  "group": "Sublist 8",
+  "primary": "波動",
+  "secondary": "v. to rise and fall irregularly"
+ },
+ {
+  "word": "guideline",
+  "group": "Sublist 8",
+  "primary": "指導方針",
+  "secondary": "n. advice on how to do something"
+ },
+ {
+  "word": "highlight",
+  "group": "Sublist 8",
+  "primary": "強調；亮點",
+  "secondary": "v./n. to draw attention to; a key part"
+ },
+ {
+  "word": "implicit",
+  "group": "Sublist 8",
+  "primary": "隱含的",
+  "secondary": "adj. suggested but not directly stated"
+ },
+ {
+  "word": "induce",
+  "group": "Sublist 8",
+  "primary": "誘發；促使",
+  "secondary": "v. to cause or persuade"
+ },
+ {
+  "word": "inevitable",
+  "group": "Sublist 8",
+  "primary": "不可避免的",
+  "secondary": "adj. certain to happen; unavoidable"
+ },
+ {
+  "word": "infrastructure",
+  "group": "Sublist 8",
+  "primary": "基礎設施",
+  "secondary": "n. basic systems like roads and power"
+ },
+ {
+  "word": "inspect",
+  "group": "Sublist 8",
+  "primary": "檢查",
+  "secondary": "v. to look at carefully"
+ },
+ {
+  "word": "intense",
+  "group": "Sublist 8",
+  "primary": "強烈的",
+  "secondary": "adj. very strong or extreme"
+ },
+ {
+  "word": "manipulate",
+  "group": "Sublist 8",
+  "primary": "操縱；操作",
+  "secondary": "v. to control or handle skilfully or unfairly"
+ },
+ {
+  "word": "minimise",
+  "group": "Sublist 8",
+  "primary": "最小化；減至最少",
+  "secondary": "v. to reduce to the smallest amount"
+ },
+ {
+  "word": "nuclear",
+  "group": "Sublist 8",
+  "primary": "核能的；核心的",
+  "secondary": "adj. relating to atomic energy or the nucleus"
+ },
+ {
+  "word": "offset",
+  "group": "Sublist 8",
+  "primary": "抵消",
+  "secondary": "v. to balance or counteract"
+ },
+ {
+  "word": "paragraph",
+  "group": "Sublist 8",
+  "primary": "段落",
+  "secondary": "n. a section of writing on one idea"
+ },
+ {
+  "word": "plus",
+  "group": "Sublist 8",
+  "primary": "加；優點",
+  "secondary": "prep./n. added to; an advantage"
+ },
+ {
+  "word": "practitioner",
+  "group": "Sublist 8",
+  "primary": "從業者；執業者",
+  "secondary": "n. a person who practises a profession"
+ },
+ {
+  "word": "predominant",
+  "group": "Sublist 8",
+  "primary": "主要的；占優勢的",
+  "secondary": "adj. most common or most powerful"
+ },
+ {
+  "word": "prospect",
+  "group": "Sublist 8",
+  "primary": "前景；可能性",
+  "secondary": "n. a possibility for the future"
+ },
+ {
+  "word": "radical",
+  "group": "Sublist 8",
+  "primary": "激進的；根本的",
+  "secondary": "adj. far-reaching or extreme"
+ },
+ {
+  "word": "random",
+  "group": "Sublist 8",
+  "primary": "隨機的",
+  "secondary": "adj. without a pattern or plan"
+ },
+ {
+  "word": "reinforce",
+  "group": "Sublist 8",
+  "primary": "加強；強化",
+  "secondary": "v. to make stronger"
+ },
+ {
+  "word": "restore",
+  "group": "Sublist 8",
+  "primary": "恢復；修復",
+  "secondary": "v. to bring back to an earlier state"
+ },
+ {
+  "word": "revise",
+  "group": "Sublist 8",
+  "primary": "修訂；複習",
+  "secondary": "v. to review and change"
+ },
+ {
+  "word": "schedule",
+  "group": "Sublist 8",
+  "primary": "時程表；排定",
+  "secondary": "n./v. a plan of times; to plan a time"
+ },
+ {
+  "word": "tense",
+  "group": "Sublist 8",
+  "primary": "緊張的；繃緊的",
+  "secondary": "adj. nervous; tightly stretched"
+ },
+ {
+  "word": "terminate",
+  "group": "Sublist 8",
+  "primary": "終止",
+  "secondary": "v. to bring to an end"
+ },
+ {
+  "word": "theme",
+  "group": "Sublist 8",
+  "primary": "主題",
+  "secondary": "n. the main subject or idea"
+ },
+ {
+  "word": "thereby",
+  "group": "Sublist 8",
+  "primary": "從而；藉此",
+  "secondary": "adv. by that means; as a result"
+ },
+ {
+  "word": "uniform",
+  "group": "Sublist 8",
+  "primary": "一致的；制服",
+  "secondary": "adj./n. the same throughout; official clothing"
+ },
+ {
+  "word": "vehicle",
+  "group": "Sublist 8",
+  "primary": "車輛；載具；媒介",
+  "secondary": "n. a machine for transport; a means"
+ },
+ {
+  "word": "via",
+  "group": "Sublist 8",
+  "primary": "經由；透過",
+  "secondary": "prep. by way of; through"
+ },
+ {
+  "word": "virtual",
+  "group": "Sublist 8",
+  "primary": "幾乎的；虛擬的",
+  "secondary": "adj. almost; existing on a computer"
+ },
+ {
+  "word": "visual",
+  "group": "Sublist 8",
+  "primary": "視覺的",
+  "secondary": "adj. relating to sight"
+ },
+ {
+  "word": "widespread",
+  "group": "Sublist 8",
+  "primary": "廣泛的；普遍的",
+  "secondary": "adj. existing over a large area"
+ },
+ {
+  "word": "accommodate",
+  "group": "Sublist 9",
+  "primary": "容納；遷就",
+  "secondary": "v. to provide room for; to adapt to"
+ },
+ {
+  "word": "analogy",
+  "group": "Sublist 9",
+  "primary": "類比",
+  "secondary": "n. a comparison of similar things"
+ },
+ {
+  "word": "anticipate",
+  "group": "Sublist 9",
+  "primary": "預期",
+  "secondary": "v. to expect or prepare for"
+ },
+ {
+  "word": "assure",
+  "group": "Sublist 9",
+  "primary": "保證；使放心",
+  "secondary": "v. to tell confidently; to make certain"
+ },
+ {
+  "word": "attain",
+  "group": "Sublist 9",
+  "primary": "達到；獲得",
+  "secondary": "v. to achieve or reach"
+ },
+ {
+  "word": "behalf",
+  "group": "Sublist 9",
+  "primary": "代表（某人）",
+  "secondary": "n. in the interest of someone (on behalf of)"
+ },
+ {
+  "word": "bulk",
+  "group": "Sublist 9",
+  "primary": "大部分；大量",
+  "secondary": "n. the main part; a large mass"
+ },
+ {
+  "word": "cease",
+  "group": "Sublist 9",
+  "primary": "停止",
+  "secondary": "v. to stop"
+ },
+ {
+  "word": "coherent",
+  "group": "Sublist 9",
+  "primary": "連貫的；條理清楚的",
+  "secondary": "adj. logical and well organised"
+ },
+ {
+  "word": "coincide",
+  "group": "Sublist 9",
+  "primary": "同時發生；一致",
+  "secondary": "v. to happen at the same time; to match"
+ },
+ {
+  "word": "commence",
+  "group": "Sublist 9",
+  "primary": "開始",
+  "secondary": "v. to begin"
+ },
+ {
+  "word": "compatible",
+  "group": "Sublist 9",
+  "primary": "相容的",
+  "secondary": "adj. able to work or exist together"
+ },
+ {
+  "word": "concurrent",
+  "group": "Sublist 9",
+  "primary": "同時發生的",
+  "secondary": "adj. happening at the same time"
+ },
+ {
+  "word": "confine",
+  "group": "Sublist 9",
+  "primary": "限制；侷限",
+  "secondary": "v. to keep within limits"
+ },
+ {
+  "word": "controversy",
+  "group": "Sublist 9",
+  "primary": "爭議",
+  "secondary": "n. public disagreement or argument"
+ },
+ {
+  "word": "converse",
+  "group": "Sublist 9",
+  "primary": "相反；相反的",
+  "secondary": "n./adj. the opposite"
+ },
+ {
+  "word": "device",
+  "group": "Sublist 9",
+  "primary": "裝置；設備",
+  "secondary": "n. a tool or piece of equipment"
+ },
+ {
+  "word": "devote",
+  "group": "Sublist 9",
+  "primary": "致力；奉獻",
+  "secondary": "v. to give time or effort fully to"
+ },
+ {
+  "word": "diminish",
+  "group": "Sublist 9",
+  "primary": "減少；削弱",
+  "secondary": "v. to become or make smaller"
+ },
+ {
+  "word": "distort",
+  "group": "Sublist 9",
+  "primary": "扭曲",
+  "secondary": "v. to change the true form or meaning"
+ },
+ {
+  "word": "duration",
+  "group": "Sublist 9",
+  "primary": "持續時間",
+  "secondary": "n. the length of time something lasts"
+ },
+ {
+  "word": "erode",
+  "group": "Sublist 9",
+  "primary": "侵蝕",
+  "secondary": "v. to wear away gradually"
+ },
+ {
+  "word": "ethic",
+  "group": "Sublist 9",
+  "primary": "倫理；道德準則",
+  "secondary": "n. a moral principle or set of values"
+ },
+ {
+  "word": "format",
+  "group": "Sublist 9",
+  "primary": "格式；編排",
+  "secondary": "n./v. the arrangement or layout"
+ },
+ {
+  "word": "found",
+  "group": "Sublist 9",
+  "primary": "創立；建立",
+  "secondary": "v. to start or establish"
+ },
+ {
+  "word": "inherent",
+  "group": "Sublist 9",
+  "primary": "固有的；內在的",
+  "secondary": "adj. existing as a natural part"
+ },
+ {
+  "word": "insight",
+  "group": "Sublist 9",
+  "primary": "洞察力；見解",
+  "secondary": "n. a clear understanding of something"
+ },
+ {
+  "word": "integral",
+  "group": "Sublist 9",
+  "primary": "不可或缺的",
+  "secondary": "adj. necessary as a part of a whole"
+ },
+ {
+  "word": "intermediate",
+  "group": "Sublist 9",
+  "primary": "中級的；中間的",
+  "secondary": "adj. in the middle stage"
+ },
+ {
+  "word": "manual",
+  "group": "Sublist 9",
+  "primary": "手動的；手冊",
+  "secondary": "adj./n. done by hand; a handbook"
+ },
+ {
+  "word": "mature",
+  "group": "Sublist 9",
+  "primary": "成熟的；成熟",
+  "secondary": "adj./v. fully developed; to ripen"
+ },
+ {
+  "word": "mediate",
+  "group": "Sublist 9",
+  "primary": "調解",
+  "secondary": "v. to help settle a dispute"
+ },
+ {
+  "word": "medium",
+  "group": "Sublist 9",
+  "primary": "媒介；中等的",
+  "secondary": "n./adj. a means; middle in size"
+ },
+ {
+  "word": "military",
+  "group": "Sublist 9",
+  "primary": "軍事的；軍隊",
+  "secondary": "adj./n. relating to armed forces"
+ },
+ {
+  "word": "minimal",
+  "group": "Sublist 9",
+  "primary": "極小的；最低限度的",
+  "secondary": "adj. as small as possible"
+ },
+ {
+  "word": "mutual",
+  "group": "Sublist 9",
+  "primary": "相互的；共同的",
+  "secondary": "adj. shared or felt by both sides"
+ },
+ {
+  "word": "norm",
+  "group": "Sublist 9",
+  "primary": "常規；規範",
+  "secondary": "n. a standard or usual pattern"
+ },
+ {
+  "word": "overlap",
+  "group": "Sublist 9",
+  "primary": "重疊",
+  "secondary": "v./n. to cover part of the same area"
+ },
+ {
+  "word": "passive",
+  "group": "Sublist 9",
+  "primary": "被動的",
+  "secondary": "adj. accepting without resisting; not active"
+ },
+ {
+  "word": "portion",
+  "group": "Sublist 9",
+  "primary": "部分；一份",
+  "secondary": "n. a part or share"
+ },
+ {
+  "word": "preliminary",
+  "group": "Sublist 9",
+  "primary": "初步的；預備的",
+  "secondary": "adj. coming before the main part"
+ },
+ {
+  "word": "protocol",
+  "group": "Sublist 9",
+  "primary": "協定；規範",
+  "secondary": "n. rules of correct procedure"
+ },
+ {
+  "word": "qualitative",
+  "group": "Sublist 9",
+  "primary": "質性的；定性的",
+  "secondary": "adj. relating to quality, not quantity"
+ },
+ {
+  "word": "refine",
+  "group": "Sublist 9",
+  "primary": "精煉；改進",
+  "secondary": "v. to improve or purify"
+ },
+ {
+  "word": "relax",
+  "group": "Sublist 9",
+  "primary": "放鬆；放寬",
+  "secondary": "v. to rest; to make less strict"
+ },
+ {
+  "word": "restrain",
+  "group": "Sublist 9",
+  "primary": "抑制；約束",
+  "secondary": "v. to hold back or control"
+ },
+ {
+  "word": "revolution",
+  "group": "Sublist 9",
+  "primary": "革命；變革",
+  "secondary": "n. a great change; an overthrow of rule"
+ },
+ {
+  "word": "rigid",
+  "group": "Sublist 9",
+  "primary": "僵硬的；嚴格的",
+  "secondary": "adj. stiff; not able to change"
+ },
+ {
+  "word": "route",
+  "group": "Sublist 9",
+  "primary": "路線",
+  "secondary": "n. a way taken from one place to another"
+ },
+ {
+  "word": "scenario",
+  "group": "Sublist 9",
+  "primary": "情境；設想情況",
+  "secondary": "n. a possible sequence of events"
+ },
+ {
+  "word": "sphere",
+  "group": "Sublist 9",
+  "primary": "球體；領域",
+  "secondary": "n. a round shape; an area of activity"
+ },
+ {
+  "word": "subordinate",
+  "group": "Sublist 9",
+  "primary": "下屬；從屬的",
+  "secondary": "adj./n. lower in rank; a person of lower rank"
+ },
+ {
+  "word": "supplement",
+  "group": "Sublist 9",
+  "primary": "補充；補充物",
+  "secondary": "n./v. an extra part; to add to"
+ },
+ {
+  "word": "suspend",
+  "group": "Sublist 9",
+  "primary": "暫停；懸掛",
+  "secondary": "v. to stop temporarily; to hang"
+ },
+ {
+  "word": "team",
+  "group": "Sublist 9",
+  "primary": "團隊",
+  "secondary": "n. a group working together"
+ },
+ {
+  "word": "temporary",
+  "group": "Sublist 9",
+  "primary": "暫時的",
+  "secondary": "adj. lasting only a short time"
+ },
+ {
+  "word": "trigger",
+  "group": "Sublist 9",
+  "primary": "觸發；引發",
+  "secondary": "v./n. to cause to start; a cause"
+ },
+ {
+  "word": "unify",
+  "group": "Sublist 9",
+  "primary": "統一",
+  "secondary": "v. to join into one"
+ },
+ {
+  "word": "violate",
+  "group": "Sublist 9",
+  "primary": "違反；侵犯",
+  "secondary": "v. to break a rule or right"
+ },
+ {
+  "word": "vision",
+  "group": "Sublist 9",
+  "primary": "視力；願景",
+  "secondary": "n. the ability to see; a clear plan"
+ },
+ {
+  "word": "adjacent",
+  "group": "Sublist 10",
+  "primary": "鄰近的；毗鄰的",
+  "secondary": "adj. next to or near something"
+ },
+ {
+  "word": "albeit",
+  "group": "Sublist 10",
+  "primary": "雖然；儘管",
+  "secondary": "conj. although; even though"
+ },
+ {
+  "word": "assemble",
+  "group": "Sublist 10",
+  "primary": "集合；組裝",
+  "secondary": "v. to gather together or put parts together"
+ },
+ {
+  "word": "collapse",
+  "group": "Sublist 10",
+  "primary": "倒塌；崩潰",
+  "secondary": "v./n. to fall down or fail suddenly"
+ },
+ {
+  "word": "colleague",
+  "group": "Sublist 10",
+  "primary": "同事",
+  "secondary": "n. a person you work with"
+ },
+ {
+  "word": "compile",
+  "group": "Sublist 10",
+  "primary": "彙編；編纂",
+  "secondary": "v. to collect and put together"
+ },
+ {
+  "word": "conceive",
+  "group": "Sublist 10",
+  "primary": "構想；想像",
+  "secondary": "v. to form an idea; to imagine"
+ },
+ {
+  "word": "convince",
+  "group": "Sublist 10",
+  "primary": "說服",
+  "secondary": "v. to make someone believe something"
+ },
+ {
+  "word": "depress",
+  "group": "Sublist 10",
+  "primary": "使沮喪；使低迷",
+  "secondary": "v. to make sad; to reduce activity"
+ },
+ {
+  "word": "encounter",
+  "group": "Sublist 10",
+  "primary": "遭遇；遇到",
+  "secondary": "v./n. to meet or face unexpectedly"
+ },
+ {
+  "word": "enormous",
+  "group": "Sublist 10",
+  "primary": "巨大的",
+  "secondary": "adj. very large"
+ },
+ {
+  "word": "forthcoming",
+  "group": "Sublist 10",
+  "primary": "即將到來的",
+  "secondary": "adj. about to happen or appear"
+ },
+ {
+  "word": "incline",
+  "group": "Sublist 10",
+  "primary": "傾向；傾斜",
+  "secondary": "v./n. to lean toward; a slope"
+ },
+ {
+  "word": "integrity",
+  "group": "Sublist 10",
+  "primary": "正直；完整",
+  "secondary": "n. honesty; the state of being whole"
+ },
+ {
+  "word": "intrinsic",
+  "group": "Sublist 10",
+  "primary": "內在的；固有的",
+  "secondary": "adj. belonging naturally to something"
+ },
+ {
+  "word": "invoke",
+  "group": "Sublist 10",
+  "primary": "援引；喚起",
+  "secondary": "v. to call on or put into use"
+ },
+ {
+  "word": "levy",
+  "group": "Sublist 10",
+  "primary": "徵稅；課徵",
+  "secondary": "n./v. a tax; to impose a tax"
+ },
+ {
+  "word": "likewise",
+  "group": "Sublist 10",
+  "primary": "同樣地；也",
+  "secondary": "adv. in the same way; also"
+ },
+ {
+  "word": "nonetheless",
+  "group": "Sublist 10",
+  "primary": "儘管如此",
+  "secondary": "adv. in spite of that; however"
+ },
+ {
+  "word": "notwithstanding",
+  "group": "Sublist 10",
+  "primary": "儘管",
+  "secondary": "prep. in spite of"
+ },
+ {
+  "word": "odd",
+  "group": "Sublist 10",
+  "primary": "奇怪的；奇數的",
+  "secondary": "adj. strange; not even (number)"
+ },
+ {
+  "word": "ongoing",
+  "group": "Sublist 10",
+  "primary": "進行中的；持續的",
+  "secondary": "adj. continuing to happen"
+ },
+ {
+  "word": "panel",
+  "group": "Sublist 10",
+  "primary": "小組；面板",
+  "secondary": "n. a group of experts; a flat board"
+ },
+ {
+  "word": "persist",
+  "group": "Sublist 10",
+  "primary": "堅持；持續",
+  "secondary": "v. to continue firmly despite difficulty"
+ },
+ {
+  "word": "pose",
+  "group": "Sublist 10",
+  "primary": "造成；擺姿勢",
+  "secondary": "v. to present (a problem); to position oneself"
+ },
+ {
+  "word": "reluctance",
+  "group": "Sublist 10",
+  "primary": "不情願",
+  "secondary": "n. unwillingness to do something"
+ },
+ {
+  "word": "so-called",
+  "group": "Sublist 10",
+  "primary": "所謂的",
+  "secondary": "adj. called this but doubtfully so"
+ },
+ {
+  "word": "straightforward",
+  "group": "Sublist 10",
+  "primary": "簡單明瞭的；直率的",
+  "secondary": "adj. easy to understand; honest"
+ },
+ {
+  "word": "undergo",
+  "group": "Sublist 10",
+  "primary": "經歷；接受",
+  "secondary": "v. to experience or be subjected to"
+ },
+ {
+  "word": "whereby",
+  "group": "Sublist 10",
+  "primary": "藉此；憑藉",
+  "secondary": "adv. by which; through which"
+ }
+]

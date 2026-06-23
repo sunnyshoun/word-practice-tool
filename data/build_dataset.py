@@ -1,10 +1,15 @@
 # -*- coding: utf-8 -*-
-"""Build data/awl_words.json from awl_headwords.json + the DEFS table below.
+"""Build the AWL dataset into data/datasets/awl/words.json.
 
-Each entry: {"word", "sublist", "pos", "en", "zh"}
- - pos : part of speech of the headword's common academic sense
- - en  : short English definition
- - zh  : Traditional Chinese definition
+Reads awl_headwords.json + the DEFS table below and writes the generic word
+schema used by the Word Practice Tool:
+
+    {"word", "group", "primary", "secondary"}
+      - word      : the spelling target (what you type)
+      - group     : grouping label, e.g. "Sublist 1"
+      - primary   : the meaning shown big and used as the correct answer (中文)
+      - secondary : supporting text, e.g. "v. to examine in detail"
+
 Run:  python build_dataset.py
 """
 import json
@@ -617,10 +622,17 @@ def main():
                 missing.append(word)
                 continue
             pos, en, zh = DEFS[word]
-            out.append({"word": word, "sublist": sub, "pos": pos, "en": en, "zh": zh})
+            out.append({
+                "word": word,
+                "group": "Sublist %d" % sub,
+                "primary": zh,
+                "secondary": "%s %s" % (pos, en),
+            })
     if missing:
         raise SystemExit("Missing definitions for: " + ", ".join(missing))
-    dst = os.path.join(HERE, "awl_words.json")
+    dst_dir = os.path.join(HERE, "datasets", "awl")
+    os.makedirs(dst_dir, exist_ok=True)
+    dst = os.path.join(dst_dir, "words.json")
     json.dump(out, open(dst, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print("Wrote %d words to %s" % (len(out), dst))
 

@@ -1,0 +1,7 @@
+{
+ "id": "sample-ja",
+ "name": "日文範例 (Japanese sample)",
+ "lang": "ja-JP",
+ "groupLabel": "等級",
+ "description": "示範用的小型日文單字表（輸入平假名）。用來展示多語言：日文以瀏覽器內建 ja-JP 語音發音。可仿照此資料夾新增自己的單字表。"
+}

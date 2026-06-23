@@ -1,23 +1,31 @@
 "use strict";
 
 /* ============================================================
-   AWL Practice Tool — frontend logic
-   Flow per word:  listen -> spell -> choose definition
-   A word is "wrong" if spelling OR definition is wrong.
-   Wrong words are stored and re-practised until all correct.
+   Word Practice Tool — frontend logic
+   Flow per word:  listen -> spell -> choose meaning
+   A word is "wrong" if spelling OR meaning is wrong.
+   Wrong words are stored (per dataset) and re-practised until all correct.
+
+   Multi-dataset / multi-language:
+   - Datasets come from /api/datasets (English AWL, Japanese, ...).
+   - Each word: { word, group, primary, secondary }.
+   - Audio uses backend TTS when available for the dataset's language,
+     otherwise the browser's speech synthesis in that language.
    ============================================================ */
 
-const WRONG_KEY = "awl_wrong_words";
+const wrongKey = (datasetId) => `wp_wrong:${datasetId}`;
 
 const state = {
-  allWords: [],          // every AWL word {word, sublist, pos, en, zh}
+  datasets: [],          // manifests from /api/datasets
+  dataset: null,         // current manifest {id, name, lang, groupLabel, ...}
+  allWords: [],          // current dataset words [{word, group, primary, secondary}]
   byWord: {},            // word -> entry
   queue: [],             // words to practise this round
   index: 0,
   round: 1,
-  wrongThisRound: [],    // entries answered wrong this round
-  spellOk: false,        // spelling result for the current word
-  ttsMode: "browser",    // "backend" | "browser"
+  wrongThisRound: [],
+  spellOk: false,
+  ttsBackendEn: false,   // is backend English TTS ready?
 };
 
 /* ---------- DOM ---------- */
@@ -26,16 +34,16 @@ const setup = $("setup");
 const practice = $("practice");
 const summary = $("summary");
 
-/* ---------- localStorage (persisted wrong words) ---------- */
+/* ---------- localStorage (persisted wrong words, per dataset) ---------- */
 function loadWrongStore() {
   try {
-    return JSON.parse(localStorage.getItem(WRONG_KEY)) || [];
+    return JSON.parse(localStorage.getItem(wrongKey(state.dataset.id))) || [];
   } catch {
     return [];
   }
 }
 function saveWrongStore(list) {
-  localStorage.setItem(WRONG_KEY, JSON.stringify([...new Set(list)]));
+  localStorage.setItem(wrongKey(state.dataset.id), JSON.stringify([...new Set(list)]));
 }
 function addWrong(word) {
   const s = loadWrongStore();
@@ -51,50 +59,87 @@ function removeWrong(word) {
 /* ---------- init ---------- */
 async function init() {
   try {
-    const res = await fetch("/api/words");
-    state.allWords = await res.json();
+    state.datasets = await (await fetch("/api/datasets")).json();
   } catch {
-    alert("無法載入單字資料。請確認後端 (python app.py) 已啟動，並透過 http://localhost:8000 開啟。");
+    alert("無法載入單字表。請確認後端 (uv run python backend/app.py) 已啟動，並透過 http://localhost:8000 開啟。");
     return;
   }
+  if (!state.datasets.length) {
+    alert("找不到任何單字表（data/datasets/ 為空）。");
+    return;
+  }
+
+  const dsSel = $("dataset-select");
+  state.datasets.forEach((d) => {
+    const opt = document.createElement("option");
+    opt.value = d.id;
+    opt.textContent = `${d.name} (${d.count})`;
+    dsSel.appendChild(opt);
+  });
+  dsSel.addEventListener("change", () => selectDataset(dsSel.value));
+
+  await detectTts();
+  wireSetupEvents();
+  await selectDataset(state.datasets[0].id);
+}
+
+async function selectDataset(id) {
+  state.dataset = state.datasets.find((d) => d.id === id);
+  try {
+    state.allWords = await (await fetch(`/api/datasets/${encodeURIComponent(id)}/words`)).json();
+  } catch {
+    alert("無法載入這個單字表的內容。");
+    return;
+  }
+  state.byWord = {};
   state.allWords.forEach((w) => (state.byWord[w.word] = w));
 
-  // build sublist dropdown
-  const sel = $("sublist-select");
-  const subs = [...new Set(state.allWords.map((w) => w.sublist))].sort((a, b) => a - b);
-  subs.forEach((n) => {
-    const count = state.allWords.filter((w) => w.sublist === n).length;
-    const opt = document.createElement("option");
-    opt.value = String(n);
-    opt.textContent = `Sublist ${n} (${count} 字)`;
-    sel.appendChild(opt);
+  // group dropdown (preserve first-seen order so "Sublist 10" stays last)
+  const label = state.dataset.groupLabel || "分組";
+  $("group-label").textContent = label;
+  const gSel = $("group-select");
+  gSel.innerHTML = `<option value="all">全部 (${state.allWords.length})</option>`;
+  const seen = new Set();
+  state.allWords.forEach((w) => {
+    if (w.group && !seen.has(w.group)) {
+      seen.add(w.group);
+      const count = state.allWords.filter((x) => x.group === w.group).length;
+      const opt = document.createElement("option");
+      opt.value = w.group;
+      opt.textContent = `${w.group} (${count})`;
+      gSel.appendChild(opt);
+    }
   });
+  // hide group selector entirely if the dataset has no groups
+  gSel.parentElement.style.display = seen.size ? "" : "none";
 
   refreshWrongHint();
-  detectTts();
-  wireSetupEvents();
+  updateTtsStatusLine();
 }
 
 function refreshWrongHint() {
   const n = loadWrongStore().length;
-  $("wrong-count-hint").textContent = n ? `（目前累積 ${n} 個錯題）` : "（目前沒有錯題記錄）";
+  $("wrong-count-hint").textContent = n ? `（這個單字表累積 ${n} 個錯題）` : "（目前沒有錯題記錄）";
 }
 
 async function detectTts() {
-  const el = $("tts-status");
   try {
-    const res = await fetch("/api/tts/status");
-    const data = await res.json();
-    if (data.available) {
-      state.ttsMode = "backend";
-      el.textContent = "發音來源：Hugging Face SpeechT5（後端模型）";
-      return;
-    }
+    const data = await (await fetch("/api/tts/status")).json();
+    state.ttsBackendEn = !!data.available;
   } catch {
-    /* backend not reachable */
+    state.ttsBackendEn = false;
   }
-  state.ttsMode = "browser";
-  el.textContent = "發音來源：瀏覽器內建語音（後端 TTS 尚未就緒）";
+}
+
+function updateTtsStatusLine() {
+  const el = $("tts-status");
+  const lang = state.dataset.lang || "en-US";
+  const isEn = lang.toLowerCase().startsWith("en");
+  if (isEn && state.ttsBackendEn) {
+    el.textContent = `發音來源：Hugging Face SpeechT5（後端模型，${lang}）`;
+  } else {
+    el.textContent = `發音來源：瀏覽器內建語音（${lang}）`;
+  }
 }
 
 /* ---------- audio ---------- */
@@ -103,19 +148,26 @@ let currentAudio = null;
 function speakBrowser(word, slow) {
   if (!("speechSynthesis" in window)) return;
   window.speechSynthesis.cancel();
+  const lang = state.dataset.lang || "en-US";
   const u = new SpeechSynthesisUtterance(word);
-  u.lang = "en-US";
+  u.lang = lang;
   u.rate = slow ? 0.55 : 0.9;
-  const enVoice = window.speechSynthesis
+  const base = lang.split("-")[0].toLowerCase();
+  const voice = window.speechSynthesis
     .getVoices()
-    .find((v) => v.lang && v.lang.startsWith("en"));
-  if (enVoice) u.voice = enVoice;
+    .find((v) => v.lang && v.lang.toLowerCase().startsWith(base));
+  if (voice) u.voice = voice;
   window.speechSynthesis.speak(u);
+}
+
+function backendTtsAvailableForCurrent() {
+  const lang = (state.dataset.lang || "en-US").toLowerCase();
+  return lang.startsWith("en") && state.ttsBackendEn;
 }
 
 function playWord(word, slow = false) {
   // Slow mode always uses browser speech (backend wav can't be slowed).
-  if (slow || state.ttsMode === "browser") {
+  if (slow || !backendTtsAvailableForCurrent()) {
     speakBrowser(word, slow);
     return;
   }
@@ -123,24 +175,19 @@ function playWord(word, slow = false) {
     currentAudio.pause();
     currentAudio = null;
   }
-  const audio = new Audio(`/api/tts/${encodeURIComponent(word)}`);
+  const url = `/api/tts/${encodeURIComponent(state.dataset.id)}/${encodeURIComponent(word)}`;
+  const audio = new Audio(url);
   currentAudio = audio;
-  audio.play().catch(() => {
-    state.ttsMode = "browser";
-    speakBrowser(word, false);
-  });
-  audio.addEventListener("error", () => {
-    state.ttsMode = "browser";
-    speakBrowser(word, false);
-  });
+  audio.play().catch(() => speakBrowser(word, false));
+  audio.addEventListener("error", () => speakBrowser(word, false));
 }
 
 /* ---------- setup events ---------- */
 function wireSetupEvents() {
   $("start-btn").addEventListener("click", startSession);
   $("clear-progress").addEventListener("click", () => {
-    if (confirm("確定要清除所有錯題記錄嗎？")) {
-      localStorage.removeItem(WRONG_KEY);
+    if (confirm("確定要清除這個單字表的所有錯題記錄嗎？")) {
+      localStorage.removeItem(wrongKey(state.dataset.id));
       refreshWrongHint();
     }
   });
@@ -167,21 +214,20 @@ function shuffle(arr) {
 }
 
 function startSession() {
-  const sub = $("sublist-select").value;
+  const group = $("group-select").value;
   const onlyWrong = $("resume-wrong").checked;
 
   let pool;
   if (onlyWrong) {
-    const wrong = loadWrongStore();
-    pool = wrong.map((w) => state.byWord[w]).filter(Boolean);
+    pool = loadWrongStore().map((w) => state.byWord[w]).filter(Boolean);
     if (pool.length === 0) {
-      alert("目前沒有錯題記錄可以練習。");
+      alert("這個單字表目前沒有錯題記錄可以練習。");
       return;
     }
-  } else if (sub === "all") {
+  } else if (group === "all") {
     pool = state.allWords.slice();
   } else {
-    pool = state.allWords.filter((w) => w.sublist === Number(sub));
+    pool = state.allWords.filter((w) => w.group === group);
   }
 
   if ($("shuffle").checked) pool = shuffle(pool);
@@ -202,14 +248,12 @@ function loadWord() {
   const entry = currentEntry();
   state.spellOk = false;
 
-  // progress
   $("progress-fill").style.width =
     ((state.index / state.queue.length) * 100).toFixed(1) + "%";
   $("position-label").textContent = `${state.index + 1} / ${state.queue.length}`;
   $("round-label").textContent = state.round > 1 ? `第 ${state.round} 輪（錯題）` : "";
-  $("sublist-label").textContent = `Sublist ${entry.sublist}`;
+  $("group-display").textContent = entry.group || "";
 
-  // reset steps
   $("step-spell").classList.remove("hidden");
   $("step-define").classList.add("hidden");
   $("next-btn").classList.add("hidden");
@@ -222,7 +266,6 @@ function loadWord() {
   input.disabled = false;
   input.focus();
 
-  // auto play after a short delay (lets browser voices load)
   setTimeout(() => playWord(entry.word), 350);
 }
 
@@ -247,18 +290,22 @@ function onSpellSubmit(e) {
     fb.className = "feedback good";
   } else {
     state.spellOk = false;
-    fb.textContent = `❌ 拼錯了，正確拼法是：${entry.word}`;
+    fb.textContent = `❌ 拼錯了，正確答案是：${entry.word}`;
     fb.className = "feedback bad";
   }
   input.disabled = true;
-  // move to definition step
   setTimeout(showDefineStep, 700);
 }
 
-/* ---------- step 2: choose definition ---------- */
+/* ---------- step 2: choose meaning ---------- */
 function buildChoices(entry) {
   const others = shuffle(state.allWords.filter((w) => w.word !== entry.word)).slice(0, 3);
   return shuffle([entry, ...others]);
+}
+
+function choiceHTML(opt) {
+  const secondary = opt.secondary ? `<span class="en">${opt.secondary}</span>` : "";
+  return `<span class="zh">${opt.primary}</span>${secondary}`;
 }
 
 function showDefineStep() {
@@ -272,7 +319,8 @@ function showDefineStep() {
   buildChoices(entry).forEach((opt) => {
     const btn = document.createElement("button");
     btn.className = "choice";
-    btn.innerHTML = `<span class="zh">${opt.zh}</span><span class="en">${opt.pos} ${opt.en}</span>`;
+    btn.innerHTML = choiceHTML(opt);
+    btn.dataset.word = opt.word;
     btn.addEventListener("click", () => onChoose(btn, opt, entry));
     box.appendChild(btn);
   });
@@ -291,18 +339,12 @@ function onChoose(btn, opt, entry) {
     fb.className = "feedback good";
   } else {
     btn.classList.add("wrong");
-    fb.textContent = `❌ 答錯了。正確定義：${entry.zh}`;
+    fb.textContent = `❌ 答錯了。正確定義：${entry.primary}`;
     fb.className = "feedback bad";
-    // highlight the correct one
-    buttons.forEach((b) => {
-      if (b.querySelector(".zh").textContent === entry.zh &&
-          b.querySelector(".en").textContent === `${entry.pos} ${entry.en}`) {
-        b.classList.add("correct");
-      }
-    });
+    const right = buttons.find((b) => b.dataset.word === entry.word);
+    if (right) right.classList.add("correct");
   }
 
-  // record overall result for this word
   const wordOk = state.spellOk && defOk;
   if (wordOk) {
     removeWrong(entry.word);
@@ -339,7 +381,8 @@ function showSummary() {
   wrong.forEach((e) => {
     const div = document.createElement("div");
     div.className = "wrong-item";
-    div.innerHTML = `<b>${e.word}</b> — <span class="zh">${e.zh}</span> <span class="en">(${e.pos} ${e.en})</span>`;
+    const sec = e.secondary ? ` <span class="en">(${e.secondary})</span>` : "";
+    div.innerHTML = `<b>${e.word}</b> — <span class="zh">${e.primary}</span>${sec}`;
     list.appendChild(div);
   });
 

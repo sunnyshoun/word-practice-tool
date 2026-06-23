@@ -1,7 +1,7 @@
 [project]
-name = "awl-practice-tool"
+name = "word-practice-tool"
 version = "0.1.0"
-description = "AWL (Academic Word List) practice web app: listen, spell, then choose the correct EN+ZH definition; wrong words are re-practised. TTS via Hugging Face SpeechT5."
+description = "Word practice web app: listen, spell, then choose the correct meaning; wrong words are re-practised. Supports multiple word sets and languages (AWL English built in, Japanese etc. extensible). TTS via Hugging Face SpeechT5."
 readme = "README.md"
 requires-python = ">=3.10,<3.13"
 dependencies = [

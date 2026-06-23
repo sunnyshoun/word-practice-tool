@@ -93,8 +93,26 @@ def _load_models():
             _state["error"] = str(exc)
 
 
-def is_available():
-    """Try to load models; return True if TTS can be used."""
+# --------------------------------------------------------------------------
+# Language-aware front door.
+#
+# SpeechT5 only speaks English, so backend synthesis is currently provided for
+# English (lang code starting with "en"). For any other language (e.g. "ja-JP"
+# Japanese) the backend reports "not available", and the frontend automatically
+# falls back to the browser's built-in speech synthesis for that language.
+#
+# To add a backend model for another language, register an engine in ENGINES
+# below (key = language base such as "ja") returning WAV bytes for given text.
+# --------------------------------------------------------------------------
+
+def _lang_base(lang):
+    return (lang or "en").split("-")[0].lower()
+
+
+def is_available(lang="en-US"):
+    """Return True if backend TTS can synthesise the given language."""
+    if _lang_base(lang) != "en":
+        return False
     _load_models()
     return _state["loaded"]
 
@@ -102,15 +120,29 @@ def is_available():
 def status():
     _load_models()
     return {
-        "available": _state["loaded"],
+        "available": _state["loaded"],   # English engine ready?
         "error": _state["error"],
         "model": "microsoft/speecht5_tts",
         "model_dir": MODEL_DIR,
+        "supported_langs": ["en"],
     }
 
 
-def synthesize_wav(text):
-    """Return WAV bytes for the given text, or raise RuntimeError."""
+def synthesize_wav(text, lang="en-US"):
+    """Return WAV bytes for the given text in the given language.
+
+    Raises RuntimeError if no backend engine is configured for the language
+    (the caller should then let the client fall back to browser speech).
+    """
+    base = _lang_base(lang)
+    if base == "en":
+        return _synth_en(text)
+    raise RuntimeError(
+        "No backend TTS engine for language '%s'; use browser speech." % lang
+    )
+
+
+def _synth_en(text):
     _load_models()
     if not _state["loaded"]:
         raise RuntimeError(_state["error"] or "TTS models not available")

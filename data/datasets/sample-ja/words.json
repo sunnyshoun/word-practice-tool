@@ -1,0 +1,12 @@
+[
+ { "word": "ひと",     "group": "N5", "primary": "人",   "secondary": "漢字：人 / hito (n.)" },
+ { "word": "みず",     "group": "N5", "primary": "水",   "secondary": "漢字：水 / mizu (n.)" },
+ { "word": "いぬ",     "group": "N5", "primary": "狗",   "secondary": "漢字：犬 / inu (n.)" },
+ { "word": "ねこ",     "group": "N5", "primary": "貓",   "secondary": "漢字：猫 / neko (n.)" },
+ { "word": "たべる",   "group": "N5", "primary": "吃",   "secondary": "漢字：食べる / taberu (v.)" },
+ { "word": "のむ",     "group": "N5", "primary": "喝",   "secondary": "漢字：飲む / nomu (v.)" },
+ { "word": "がっこう", "group": "N5", "primary": "學校", "secondary": "漢字：学校 / gakkou (n.)" },
+ { "word": "せんせい", "group": "N5", "primary": "老師", "secondary": "漢字：先生 / sensei (n.)" },
+ { "word": "ともだち", "group": "N5", "primary": "朋友", "secondary": "漢字：友達 / tomodachi (n.)" },
+ { "word": "おおきい", "group": "N5", "primary": "大的", "secondary": "漢字：大きい / ookii (adj.)" }
+]

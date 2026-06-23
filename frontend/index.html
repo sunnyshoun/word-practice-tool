@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AWL 練習工具</title>
+  <title>單字練習工具 Word Practice Tool</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
-    <h1>AWL 學術單字練習</h1>
+    <h1>單字練習工具</h1>
     <p class="subtitle">聽發音 → 拼出單字 → 選正確定義。寫錯或選錯的會自動再練一次。</p>
   </header>
 
@@ -16,9 +16,13 @@
   <section id="setup" class="card">
     <h2>選擇練習範圍</h2>
     <div class="field">
-      <label for="sublist-select">Sublist</label>
-      <select id="sublist-select">
-        <option value="all">全部 (570 字)</option>
+      <label for="dataset-select">單字表</label>
+      <select id="dataset-select"></select>
+    </div>
+    <div class="field">
+      <label for="group-select" id="group-label">分組</label>
+      <select id="group-select">
+        <option value="all">全部</option>
       </select>
     </div>
     <div class="field">
@@ -40,7 +44,7 @@
     <div class="meta-row">
       <span id="position-label">1 / 60</span>
       <span id="round-label"></span>
-      <span id="sublist-label"></span>
+      <span id="group-display"></span>
     </div>
 
     <!-- Step 1: listen + spell -->
